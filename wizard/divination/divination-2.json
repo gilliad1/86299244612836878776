@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Allied Footsteps",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " 1 day/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "With a touch, you feel the bond between you and your companion grow stronger. The subject of the spell knows the direction and approximate (within 10%) distance he must travel to reach you, enabling him to find you under almost any circumstances. He might not know the best route, however, since the spell does not account for obstacles. The spell works at any distance and continues even if you die. If you travel to a different plane, or if either you or the target enters an antimagic field or similar area, the spell is temporarily suppressed. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Balancing Lorecall",
+    "school": "divination",
+    "components": "verbal,somatic,material,divine focus",
+    "range": " Personal",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "As you perform the final gestures of the spell you feel magic surround you, pushing on you from all sides as if trying to help keep you standing tall. \nYou gain a +4 insight bonus on Balance checks.  If you have sufficient ranks in the Balance skill, you can even balance on an otherwise-impossible surface with a DC 20 Balance check. \nIf you have 5 or more ranks in Balance, you can balance on vertical surfaces; the normal modifier for a sloped or angled surface no longer applies to you, though other DC modifiers (such as for a slippery surface) do apply.  If you balance on a vertical surface, you can move up or down as if you were climbing.  However, you are not actually climbing, so you can make attacks normally, retain your Dexterity bonus to Armor Class, and generally follow the rules of the Balance skill rather than the Climb skill. \nIf you have 10 or more ranks in Balance, you can balance on liquids, semisolid surfaces such as mud or snow, or similar surfaces that normally couldn't support your weight.  For each consecutive round that you begin balanced on a particular surface of this sort, the DC of your Balance check increases by 5.  As with all uses of the Balance skill, you move at half speed unless you decide to use the accelerated movement option (thereby increasing the DC of the Balance check by 5). \nArcane Material Component: A thin, 3-inch-long wooden dowel. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Chain of Eyes",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "With the creature's will to resist brushed aside, you gaze out from its eyes to see your own satisfied smile. \nYou can use another creature's vision instead of your own.  While this spell gives you no control over the subject, each time it comes into physical contact with another living being, you can choose to transfer your sensor to the new creature.  During your turn in a round, you can use a free action to switch from seeing through the current creature's eyes to seeing normally or back again. \nEach transfer attempt allows the new target a saving throw and spell resistance.  If a target resists, the spell ends. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Detect Aberration",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " 60 ft.",
+    "duration": " Concentration, up to 1 minute/level (D)",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You can detect the presence of all aberrations in the area. The amount of information revealed depends on how long you study a particular area or subject: 1st Round: Presence or absence of aberrant life. 2nd Round: Number of different aberrant auras and the strength of the strongest aura. If you detect overwhelming aberrant power with this spell, and the Hit Dice or level of the aura's source is at least twice your character level, you are stunned for 1 round and the spell ends. 3rd Round: The strength and location of each aura. Aura Power: An aberrant aura's power depends on the type of creature you're detecting and its Hit Dice; see the accompanying table. If an aura falls into more than one power category, the spell indicates the stronger of the two. A humanoid with the Aberration Blood feat detects as Faint even if it has more than 3 Hit Dice. Length Aura Lingers: How long the aura lingers depends on its original strength:Each round, the character can turn to detect aberrant auras in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Detect Thoughts",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "range": " 60 ft.",
+    "duration": " Concentration, up to 1 min./level (D)",
+    "saving_throw": " Will negates; see text",
+    "effect": "",
+    "description": "You detect surface thoughts. The amount of information revealed depends on how long you study a particular area or subject. 1st Round: Presence or absence of thoughts (from conscious creatures with Intelligence scores of 1 or higher). 2nd Round:Number of thinking minds and the Intelligence score of each. If the highest Intelligence is 26 or higher (and at least 10 points higher than your own Intelligence score), you are stunned for 1 round and the spell ends. This spell does not let you determine the location of the thinking minds if you can't see the creatures whose thoughts you are detecting. 3rd Round: Surface thoughts of any mind in the area. A target's Will save prevents you from reading its thoughts, and you must cast detect thoughts again to have another chance. Creatures of animal intelligence (Int 1 or 2) have simple, instinctual thoughts that you can pick up. Each round, you can turn to detect thoughts in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it. Arcane Focus: A copper piece. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Discern Shapechanger",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "The smell of wet animal dander assaults your nose even as the perfume of the material component fades.  You feel suddenly more suspicious of beings around you, as if some of them might not be what they seem. \nBy taking a standard action to concentrate, you can see the true form of creatures within 60 feet.  Each round, you can examine one creature you can see to determine whether it is polymorphed, disguised, or transmuted, and what its true form is.  If you look at a shapechanger in its true form, you immediately sense its shapechanging ability, but you can't determine what other forms it might be capable of assuming. \n For the purpose of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form.  A wizard who knows alter self is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a barghest is (since it has the supernatural ability to assume alternate forms, even though its type is outsider). \nMaterial Component: A balm of honey and lotus flower costing 25 gp, smeared on your eyelids. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Expose the Dead",
+    "school": "divination",
+    "components": "verbal,somatic,material,divine focus",
+    "range": " Personal",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You gain a sixth sense that allows you to better locate undead creatures, as well as to investigate corpses.  Your eyes turn white while under the effect of the spell, making it seem as though you were blind (although you can see as well as normal). \nWhile this spell is in effect, you gain an insight bonus equal to your caster level (maximum +10) on Survival checks made to track undead, and you can follow undead tracks with a DC above 10 as if you had the Track feat.  You gain the same insight bonus on Listen and Spot checks made against undead creatures. \nIn addition, you gain an insight bonus equal to your caster level (maximum +10) on Search checks made when examining a dead body, and you are treated as if you had the Investigate feat (see page 55 of the EBERRON Campaign Setting) when doing so. \nFinally, while this spell is active, increase the save DC of any speak with dead spell you cast by 2. \nArcane Material Component: A dwarf's fingerbone. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Insidious Insight",
+    "school": "divination",
+    "components": "verbal",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 day/level",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "The gnomes of Zilargo use knowledge of any sort as leverage to ensure that their negotiations and social interactions lead to a preferred outcome.  Gnome spellcasters developed the insidious insight spell for just this purpose, turning the inner feelings and desires of opposing creatures against them. \nWhile this spell is in effect, you gain great insight into the target creature's secret motivations and desires, granting you a +10 insight bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks made against it. \n-Special:_ Gnome spellcasters cast this spell at +1 caster level. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Insight of Good Fortune",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 minute/level or until discharged",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You toss a small golden die. It rolls toward the creature you choose, then disappears in a tiny golden flash of light. The subject of the spell becomes unusually lucky. Once during the spell's duration, when he makes an attack roll, skill check, saving throw, or ability check, he rolls twice and takes the better result. He must choose to use this ability before the check is attempted, and the spell expires once the second die is rolled. Material Component: A gold die (worth 20 gp). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Listening Lorecall",
+    "school": "divination",
+    "components": "verbal,somatic,divine focus",
+    "range": " Personal",
+    "duration": " 10 minutes/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You gain the ability to precisely and instantaneously identify and locate the origins of even the most minute sounds you detect. You gain a +4 insight bonus on Listen checks. In addition, if you have 5 or more ranks in Listen, you gain blindsense out to 30 feet. If you have 10 or more ranks in Listen, you gain blindsight out to 30 feet instead. A silence spell or effect negates blindsense or blindsight granted by a listening lorecall spell. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Locate Node",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "range": " 1 mile/level (see text)",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You sense the direction of any earth node within range. You can choose to locate either the nearest node or a specific node you have visited before. (In the latter case, the range is 2 miles/level and the area is a circle, centered on you, with a radius of 2 miles/level). The spell is blocked by even a thin sheet of lead, and it cannot detect nodes protected by a node lock spell. Arcane/Divine Focus: A pebble found in an earth node. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Locate Object",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You sense the direction of a well-known or clearly visualized object. The spell locates such objects as apparel, jewelry, furniture, tools, weapons, or even a ladder. You can search for general items such as a stairway, a sword, or a jewel, in which case you locate the nearest one of its kind if more than one is within range. Attempting to find a certain item, such as a particular piece of jewelry, requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails. You cannot specify a unique item (such as \"Baron Vulden's signet ring\") unless you have observed that particular item firsthand (not through divination). The spell is blocked by even a thin sheet of lead. Creatures cannot be found by this spell. Polymorph any object fools it. Arcane Focus: A forked twig. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Marked Object",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Personal",
+    "duration": " 24 hours/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "By holding the small item to your nose and reciting the ancient words of power you unleash the spell.  You immediately have a sense of the object's owner such that you believe you could find further indications of the creature's passage. \nUpon casting this spell, you become attuned to the specific creature that owns the spell's focus item.  (A creature is considered to own an item if it was the last creature to carry the item on its person for 24 hours or more.  You do not count when considering what creature was last to carry an item. ) This attunement grants you a +10 bonus on Search and Survival checks made to track the item's owner or find evidence of the owner's passage.  This spell does not give you insight into who or what the creature you are attuned to is or where that creature ultimately might be.  Also, the spell does not provide a trail that is not already there nor provide you with the benefit of the Track feat. \nArcane Focus: An object owned by the creature or a piece of the creature to be tracked, such as a tuft of hair or a fingernail. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "See Invisibility",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible.  Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.  \nThe spell does not reveal the method used to obtain invisibility.  It does not reveal illusions or enable you to see through opaque objects.  It does not reveal creatures who are simply hiding, concealed, or otherwise hard to see. \nSee invisibility can be made permanent with a permanency spell. \nMaterial Component: A pinch of talc and a small sprinkling of powdered silver. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Sense Weakness",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You grant the subject of the spell insight into the vulnerability of a single opponent.  Once over the next 24 hours, the subject can automatically confirm a single critical threat.  The subject must declare the use of the spell after the threat is rolled but before rolling to confirm the critical hit (so the spell cannot be used to reroll a failed critical confirmation roll). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Spymaster's Coin",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Touch",
+    "duration": " 1 hour/level or until triggered, then 1 round/level",
+    "saving_throw": " None",
+    "effect": " Magical sensor",
+    "description": "You slide your finger over a coin, imbuing it with a tiny fraction of your own senses. You imbue a Fine object (such as a coin, stone, or other innocuous item) with a dormant magical scrying sensor. Anyone attempting to detect its magical aura must succeed on a caster level check (DC 15 + your caster level). At any one time during the spell's duration, as a standard action you can concentrate upon the object, enabling you to hear or see (your choice) as if you were in the object's location. This effect otherwise functions as if you had cast clairaudience/clairvoyance in the object's area. You have no control over the object's movement and gain no special senses. Spymaster's coin functions only on the plane of existence you are currently occupying. You must continue to concentrate to see or hear through the spymaster's coin. If you stop concentrating, the spell's effect ends. Once activated, the scrying effect of the spell lasts for a maximum number of rounds equal to your caster level. Focus:One object of Fine size. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Sure Strike",
+    "school": "divination",
+    "components": "verbal",
+    "range": " Personal",
+    "duration": " 1 round or until discharged",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You gain a fleeting glimpse into the future, enough to guide your impending attack. You cast this spell immediately before you make an attack roll. You can see into the future for that attack, granting you a +1 insight bonus per three caster levels on your next attack roll. ",
+    "is_30_spell": 0
+  }
+]

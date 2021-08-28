@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Alustriel's Banner",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "effect": " Figment of a banner and sound of a trumpet or horn",
+    "description": "An early spell created by Alustriel, this illusion has been circulated among the arcane spellcasters of Silverymoon and to others beyond the city. A simplified form of minor image, it allows you to cause a banner (such as a battle standard, family crest, or other identifying device) to appear anywhere within range, accompanied by musical fanfare or the sound of a horn blowing. The banner may appear large or small (up to 10 feet square), new or old, clean or dirty, and of any color or pattern you desire and bearing any identifying images you desire. The banner sheds light as a light spell. You can move it anywhere within range as a move-equivalent action. The fanfare or horn is normally of the sort announcing the presence of an important person or a military unit, although the spell can create any sort of horn signal. Normally, casters use the spell to rally troops or direct people to a particular location, especially at night when its light aspect becomes more useful. Material Component: A horn or trumpet, whether normal size or miniature. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Change self",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal",
+    "duration": " 10 minutes/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You make yourself-including clothing, armor, weapons, and equipment-look different.  You can seem 1 foot shorter or taller, thin, fat, or in between.  You cannot change your body type.  For example, a human caster could look human, humanoid, or like any other generally human-shaped bipedal creature.  Otherwise, the extent of the apparent change is up to you.  You could add or obscure a minor feature, such as a mole or a beard, or look like an entirely different person.  The spell does not provide the abilities or mannerisms of the chosen form.  It does alter the perceived tactile (touch) or audible (sound) properties of you or your equipment.  A battleaxe made to look like a dagger still functions as a battleaxe. \nIf you use this spell to create a disguise, you get a +10 bonus on the Disguise check. \nNote: Creatures get Will saves to recognize the glamer as an illusion if they interact with it (such as by touching you and having that not match what they see, in the case of this spell). ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Color Spray",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " 15 ft.",
+    "duration": " Instantaneous; see text",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "A vivid cone of clashing colors springs forth from your hand, causing creatures to become stunned, perhaps also blinded, and possibly knocking them unconscious. Each creature within the cone is affected according to its Hit Dice. 2 HD or less: The creature is unconscious, blinded, and stunned for 2d4 rounds, then blinded and stunned for 1d4 rounds, and then stunned for 1 round. (Only living creatures are knocked unconscious). 3 or 4 HD: The creature is blinded and stunned for 1d4 rounds, then stunned for 1 round. 5 or more HD: The creature is stunned for 1 round. Sightless creatures are not affected by color spray. Material Component: A pinch each of powder or sand that is colored red, yellow, and blue. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Dead End",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Touch",
+    "duration": " 10 minutes/level (D)",
+    "saving_throw": " Will negates (harmless) or Will disbelief (if interacted with); see text",
+    "effect": "",
+    "description": "Sprinkling spice on the ground, you complete the final step of the spell.  Upon touching your intended targets, you note with satisfaction that the area around all of you seems a little cleaner and less tread upon. \nThis spell flawlessly disguises the spoor left by the subjects, concealing their tracks, scent, and other signs of their passage with an illusion that defeats even the senses of taste and touch.  Any creature making a Search check, using the scent ability, or using the Survival skill to track a creature affected by this spell interacts with the illusion and can make a will save to disbelieve.  Creatures that succeed on the save can detect the subjects normally.  Creatures merely passing through an area the subjects passed through do not count as interacting with the illusion. Targets of this spell can make a Will save to negate it, and spell resistance applies. Material Component: A pinch of some odoriferous spice. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Disguise Self",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You make yourself—including clothing, armor, weapons, and equipment—look different.  You can seem 1 foot shorter or taller, thin, fat, or in between.  You cannot change your body type.  For example, a human caster could look human, humanoid, or like any other human-shaped bipedal creature.  Otherwise, the extent of the apparent change is up to you.  You could add or obscure a minor feature or look like an entirely different person.  The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment.  A battleaxe made to look like a dagger still functions as a battleaxe. \nIf you use this spell to create a disguise, you get a +10 bonus on the Disguise check. \nA creature that interacts with the glamer gets a Will save to recognize it as an illusion.  For example, a creature that touched you and realized that the tactile sensation did not match the visual one would be entitled to such a save. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Friendly Face",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You subtly change your appearance so that it seems particularly friendly to the viewer. You gain a +5 circumstance bonus on Diplomacy and Gather Information checks made to influence or gain information from creatures with Intelligence scores of 3 or higher, as long as those creatures aren't already hostile toward you. This spell does not alter your appearance in any significant way, and thus provides no bonus on Disguise checks. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Hidden Ward",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Touch",
+    "duration": " 24 hours; see text",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "This spell helps disguise the presence of any spells (including glyph of warding) that have been cast upon the target object.  If detect magic or a similar effect is used to detect the presence of magical auras on the object, the caster must succeed on a caster level check (DC 10 + your caster level) to find any magical auras that are the result of active spells.  (The DM should make this roll in secret to prevent subicion by the players. ) A single successful check will reveal both the hidden ward and the spells it hides. \nIn addition, casting this spell on a magic trap (such as a fire trap spell cast on an object) increases the Search DC to find the trap by one-half you caster level (maximum +5).  This spell cannot be used to conceal nonmagical traps, nor does it hide the magical properties of an item that aren't dependent on active spells (such as the magic aura of a +1 longsword). \nSpecial: When cast by a character with any Mark of Warding dragonmark, or with the Favored in House feat (Kundarak), the duration increases to one day per level. \nMaterial Component: Lead shavings and powdered diamond worth 100 gp. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Instant Diversion",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal; see text",
+    "duration": " 1 round",
+    "saving_throw": "",
+    "effect": "",
+    "description": "As you spin around, you produce residual images of yourself, each of which splits off from your body and moves away. One or more illusory doubles of you appear, spinning off from your original location as you turn in a circle. You create one double plus one for every four caster levels you have (minimum one, maximum five). You are then free to go elsewhere while your doublesmove away in a manner of your choosing. The doubles move at your speed and can emit minor sounds such as footsteps or metal clanking, but they can only be made to move, withdraw, or run. Any successful attack against an illusory double destroys it. A double's Armor Class is equal to 10 + your size modifier + your Dex modifier. Figments seem to react normally to area spells (such as looking as though they are burned or dead after being hit by a fireball). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Net of Shadows",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1d6 rounds",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "You cast the spell, and the surrounding shadows shift at your command, flying toward your targets and wrapping themselves around them. \nThis spell gives the subjects concealment, but the shifting magic shadows also inhibit the subjects' ability to ascertain their surroundings.  The subjects can see only 5 feet through the shadows that coat them, and foes within that range have concealment from the subjects.  Darkvision does not penetrate a net of shadows. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Nystul's Magic Aura",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Arcane Focus,",
+    "range": " Touch",
+    "duration": " One day/level (D)",
+    "saving_throw": " None; see text",
+    "effect": "",
+    "description": "You alter an item's aura so that it registers to detect spells (and spells with similar capabilities) as though it were nonmagical, or a magic item of a kind you specify, or the subject of a spell you specify. You could make an ordinary sword register as a +2 vorpal sword as far as magical detection is concerned or make a +2 vorpal sword register as if it were a +1 sword or even a nonmagical sword. If the object bearing Nystul's magic aura has identify cast on it or is similarly examined, the examiner recognizes that the aura is false and detects the object's actual qualities if he succeeds on a Will save. Otherwise, he believes the aura and no amount of testing reveals what the true magic is. If the targeted item's own aura is exceptionally powerful (if it is an artifact, for instance), Nystul's magic aura doesn't work. Note: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura. Focus: A small square of silk that must be passed over the object that receives the aura. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Pleasant Visage",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Touch",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You disguise the wounds of a ghost who has a disturbing, repulsive, or gruesome appearance, making it appear completely normal (although still a ghost). The spell does not change the ghost's features or disguise it in any way; it conceals the manner of the ghost's death so that it can walk about in polite society. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Secret Weapon",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Touch",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " Will negates (harmless, object)",
+    "effect": "",
+    "description": "At your touch, the weapon seems to disappear from view. You enable someone to hide a weapon on his person. The weapon does not become truly invisible so much as easily overlooked. Secret weapon adds +20 to the Sleight of Hand check to conceal a light weapon, and +10 to the check to conceal a larger weapon (even one normally too large to conceal). A \"weapon\" is defined as any manufactured weapon. With the aid of this spell, you can attempt to hide a weapon even if you do not possess the Sleight of Hand skill. Additionally, you can hide the presence of a weapon from detection spells, although true seeing penetrates the glamer. Material Component: A thin black cloth. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Serene Visage",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "By casting this spell, you imbue yourself with an ephemeral quality that induces others to trust what you say. \nSimple illusions aid your attempts to be persuasive.  You gain an insight bonus equal to one-half your caster level (maximum +10) on Bluff checks. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Silent Image",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Arcane Focus,",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "duration": " Concentration",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "effect": " Visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)",
+    "description": "This spell creates the visual illusion of an object, creature, or force, as visualized by you. The illusion does not create sound, smell, texture, or temperature. You can move the image within the limits of the size of the effect. Focus: A bit of fleece. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Ventriloquism",
+    "school": "illusion",
+    "components": "Verbal,Arcane Focus,",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 min./level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "effect": " Intelligible sound, usually speech",
+    "description": "You can make your voice (or any sound that you can normally make vocally) seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. You can speak in any language you know. With respect to such voices and sounds, anyone who hears the sound and rolls a successful save recognizes it as illusory (but still hears it). Focus: A parchment rolled up into a small cone. ",
+    "is_30_spell": 0
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Invisibility, Mass",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like invisibility, except that the effect is mobile with the group and is broken when anyone in the group attacks. Individuals in the group cannot see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. (If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other, they both become visible when the distance between them exceeds 180 feet). Material Component: An eyelash encased in a bit of gum arabic. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Project Image",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "effect": " One shadow duplicate",
+    "description": "You tap energy from the Plane of Shadow to create a quasi-real, illusory version of yourself. The projected image looks, sounds, and smells like you but is intangible. The projected image mimics your actions (including speech) unless you direct it to act differently (which is a move action). You can see through its eyes and hear through its ears as if you were standing where it is, and during your turn you can switch from using its senses to using your own, or back again, as a free action. While you are using its senses, your body is considered blinded and deafened. If you desire, any spell you cast whose range is touch or greater can originate from the projected image instead of from you. The projected image can't cast any spells on itself except for illusion spells. The spells affect other targets normally, despite originating from the projected image. Objects are affected by the projected image as if they had succeeded on their Will save. You must maintain line of effect to the projected image at all times. If your line of effect is obstructed, the spell ends. If you use dimension door, teleport, plane shift, or a similar spell that breaks your line of effect, even momentarily, the spell ends. Material Component: A small replica of you (a doll), which costs 5 gp to create. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Shadow Conjuration, Greater",
+    "school": "illusion",
+    "components": "",
+    "range": "",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like shadow conjuration, except that it can duplicate any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Simulacrum",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,Experience,",
+    "range": " 0 ft.",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": " One duplicate creature",
+    "description": "Simulacrum creates an illusory duplicate of any creature. The duplicate creature is partially real and formed from ice or snow. It appears to be the same as the original, but it has only one-half of the real creature's levels or Hit Dice (and the appropriate hit points, feats, skill ranks, and special abilities for a creature of that level or HD). You can't create a simulacrum of a creature whose Hit Dice or levels exceed twice your caster level. You must make a Disguise check when you cast the spell to determine how good the likeness is. A creature familiar with the original might detect the ruse with a successful Spot check (opposed by the caster's Disguise check) or a DC 20 Sense Motive check. At all times the simulacrum remains under your absolute command. No special telepathic link exists, so command must be exercised in some other manner. A simulacrum has no ability to become more powerful. It cannot increase its level or abilities. If reduced to 0 hit points or otherwise destroyed, it reverts to snow and melts instantly into nothingness. A complex process requiring at least 24 hours, 100 gp per hit point, and a fully equipped magical laboratory can repair damage to a simulacrum. Material Component: The spell is cast over the rough snow or ice form, and some piece of the creature to be duplicated (hair, nail, or the like) must be placed inside the snow or ice. Additionally, the spell requires powdered ruby worth 100 gp per HD of the simulacrum to be created. XP Cost: 100 XP per HD of the simulacrum to be created (minimum 1,000 XP). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Solipism",
+    "school": "illusion",
+    "components": "Verbal,",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "Pangs of loneliness grip your heart as you complete the spell.  Upon choosing your target, the feeling subsides even as a ghostly pale yellow mist swirls around your target for a moment. \nYou manipulate the senses of one creature so that it perceives itself to be the only real creature in all of existence and everything around it to be merely an illusion. \nIf the target fails its save, it is convinced of the unreality of every situation it might encounter.  It takes no actions, not even purely mental actions, and instead watches the world around it with bemusement.  The subject becomes effectively helpless and takes no steps to defend itself from any threat, since it considers any hostile action merely another illusion. ",
+    "is_30_spell": 0
+  }
+]

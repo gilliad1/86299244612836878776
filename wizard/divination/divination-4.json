@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Arcane Eye",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " Unlimited",
+    "duration": " 1 min./level (D)",
+    "saving_throw": " None",
+    "effect": " Magical sensor",
+    "description": "You create an invisible magical sensor that sends you visual information. You can create the arcane eye at any point you can see, but it can then travel outside your line of sight without hindrance. An arcane eye travels at 30 feet per round (300 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead. It sees exactly as you would see if you were there. The eye can travel in any direction as long as the spell lasts. Solid barriers block its passage, but it can pass through a hole or space as small as 1 inch in diameter. The eye can't enter another plane of existence, even through a gate or similar magical portal. You must concentrate to use an arcane eye. If you do not concentrate, the eye is inert until you again concentrate. Material Component: A bit of bat fur. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Assay Resistance",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell enables you to divine the exact nature and vulnerabilities of a single creature's magical defenses, giving you a +10 bonus on caster level checks to overcome its spell resistance. Assay resistance is effective only against one specific creature per casting, and you must be able to see the creature when you cast the spell. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Assay Spell Resistance",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "Finishing the spell, your eyes glow with a pale blue radiance, and you understand how to overcome your foe's resistance to your magic. \nThis spell gives you a +10 bonus on caster level checks to overcome the spell resistance of a specific creature.  Assay resistance is effective against only one specific creature per casting, and you must be able to see the creature when you cast the spell. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Detect Scrying",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " 40 ft.",
+    "duration": " 24 hours",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect.  The spell's area radiates from you and moves as you move.  You know the location of every magical sensor within the spell's area. \nIf the scrying attempt originates within the area, you also know its location; otherwise, you and the scrier immediately make opposed caster level checks (1d20 + caster level).  If you at least match the scrier's result, you get a visual image of the scrier and an accurate sense of his or her direction and distance from you. \nMaterial Component: A small piece of mirror and a miniature brass hearing trumpet. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Guardian Spirit",
+    "school": "divination",
+    "components": "verbal,somatic,divine focus",
+    "range": " Touch",
+    "duration": " 1 hour/level or until discharged",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You bestow a prescient unborn soul on the creature touched, giving him an uncanny ability to anticipate danger. As an immediate action, the target creature can activate the guardian spirit. While active, the spirit's prescience provides the recipient of the spell with a +2 insight bonus on Armor Class, Reflex saving throws, Dexterity checks (including initiative checks), and Dexterity-based skill checks. The guardian spirit remains active for 1 minute, and then its power is expended and the spell ends. No creature can be the target of more than one guardian spirit spell simultaneously. If a second is cast before the first has been discharged, the second spell dissipates to no effect. Essentia: For every point of essentia you invest in this spell, the bonus provided by the spirit improves by 1. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Know Vulnerabilities",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "Your eyes turn red, then take on a golden hue.  As you look at the creature, you see small runes dancing around its head.  Each rune identifies a particular vulnerability or resistance—red for resistances, green for vulnerabilities. \nYou learn any special qualities, vulnerabilities, and resistances the target creature has.  Vulnerabilities include anything that causes the creature more than the normal amount of damage (such as a creature with the cold subtype having vulnerability to fire or a crystalline creature's susceptibility to the shatter spell).  Resistances include any effects that reduce or negate damage the creature takes and immunities to particular attacks.  The spell identifies resistances and vulnerabilities granted by spell effects. \nFor example, if cast upon a balor, you learn that it has damage reduction 15/cold iron and good; spell resistance 28; immunity to poison, fire, and electricity; resistance to acid 10 and cold 10; and that it does not have any particular vulnerabilities. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Locate Creature",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": "",
+    "duration": " 10 min./level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like locate object, except this spell locates a known or familiar creature. You slowly turn and sense when you are facing in the direction of the creature to be located, provided it is within range. You also know in which direction the creature is moving, if any. The spell can locate a creature of a specific kind (such as a human or a unicorn) or a specific creature known to you. It cannot find a creature of a certain type (such as humanoid or animal). To find a kind of creature, you must have seen such a creature up close (within 30 feet) at least once. Running water blocks the spell. It cannot detect objects. It can be fooled by mislead, nondetection, and polymorph spells. Material Component: A bit of fur from a bloodhound. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Portal View",
+    "school": "divination",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "Portal view makes a portal transparent from your side only for the duration of the spell. It does not actually open the portal, so no line of effect is established, but it does enable line of sight. Portal view does not reveal any of the portal's special properties (such as one-way or creature-only); it only allows creature on your side to view the portal's destination. Arcane Focus: A glass eye. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Revelation",
+    "school": "divination",
+    "components": "verbal,somatic,material",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " 1 round",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "A burst of purple light reveals all that is hidden. Revelation creates an area in which all things appear as they actually are. The burst reveals objects in the same way as a true seeing spell, though it lasts for only 1 round. Unlike with true seeing, all creatures in visual range can see the effect of the spell. The spell does not dispel any magical effects—it only temporarily reveals them. Should a creature pass through the burst during its duration, any hidden elements on it are revealed, though they are again hidden as soon as the creature steps out of the area. Material Component: A clump of dandelion fluff and herbs worth 50 gp. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Scrying",
+    "school": "divination",
+    "components": "verbal,somatic,material,arcane focus,divine focus",
+    "range": " See text",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "effect": " Magical sensor",
+    "description": "You can see and hear some creature, which may be at any distance.  If the subject succeeds on a Will save, the scrying attempt simply fails.  The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature.  Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save. \n\n\nKnowledge \nWill Save Modifier \n\n\n None 1 \n +10 \n\n\n Secondhand (you have heard of the subject) \n +5 \n\n\n Firsthand (you have met the subject) \n +0 \n\n\n Familiar (you know the subject well) \n —5 \n\n\n1 You must have some sort of connection to a creature you have no knowledge of.  \n\n\nConnection \nWill Save Modifier \n\n\n Likeness or picture \n —2 \n\n\n Possession or garment \n —4 \n\n\n Body part, lock of hair, bit of nail, etc.  \n —10 \n\n\nIf the save fails, you can see and hear the subject and the subject's immediate surroundings (approximately 10 feet in all directions of the subject).  If the subject moves, the sensor follows at a speed of up to 150 feet. \nAs with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects.  In addition, the following spells have a 5% chance per caster level of operating through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, and message.  \nIf the save succeeds, you can't attempt to scry on that subject again for at least 24 hours. \nArcane Material Component: The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc. \nWizard, Sorcerer, or Bard Focus: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp.  The mirror must be at least 2 feet by 4 feet. \nCleric Focus: A holy water font costing not less than 100 gp. \nDruid Focus: A natural pool of water. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Treasure Scent",
+    "school": "divination",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 hour/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "A multihued glow of metallic colors surrounds you.  The swirling glow manifests as a thin mist that forces itself up into your nose.  Suppressing a sneeze, you note with excitement the unmistakable scent of treasure. \nYou can detect copper, silver, gold, platinum, and gems within 30 feet, as well as differentiate between the five kinds of valuables. \nWhen you detect one of these types of valuables, the exact location of the source is not revealed—only its presence and direction.  Whenever you come within 5 feet of the treasure, you can pinpoint its exact location.  The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Zone of Revelation",
+    "school": "divination",
+    "components": "verbal,somatic,material,divine focus",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "All creatures and objects within zone of revelation's area are made visible. This includes invisible creatures as well as those in coexistent planes such as the Ethereal Plane and the Plane of Shadow. Natives of these planes do not lose any abilities but are made simply made visible. Zone of revelation suppresses but does not dispel invisibility, etherealness, or other spells. Once a formerly invisible object or creature leaves the area, it becomes invisible again. Arcane Material Component: A handful of dust from the grave clothes of an undead creature. ",
+    "is_30_spell": 1
+  }
+]

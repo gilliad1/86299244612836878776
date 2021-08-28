@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Amanuensis",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Close",
+    "duration": " 10 minutes/level",
+    "saving_throw": " Will negates (object)",
+    "effect": "",
+    "description": "You point at the writing and then move your hand as though holding a stylus or quill.  As you intone the spell, the script appears on a sheet of paper close at hand. \nYou cause writing from one source (such as a book) to be copied into a book, paper, or parchment.  This spell copies 250 words per minute and creates a perfect duplicate of the original.  The spell copies only nonmagical text, not illustrations or magical writings (such as the text of a spellbook, a spell scroll, or a sepia snake sigil).  If the target contains normal and magical writing (such as a letter with explosive runes), only the normal text is copied, leaving blank space in the copied text where the magical writing would be expected.  Likewise, if the target contains text and illustration, only the text is copied. \nThe spell triggers (but does not copy) writing-based magic traps in the material being copied. \nBlank paper, parchment, or a book must be provided for the spell to write upon.  If the target has multiple pages, the spell automatically turns to the next blank page whenever necessary.  If more pages in the target exist than blank pages are available, the spell copies the original until it runs out ofblank pages.  At any time during the spell's duration you can redirect the magic to copy from another target, copy onto a different blank source, or resume a duplication that was interrupted by a shortfall of blank pages.  \nThe spell does not translate the copied writing.  If you do not understand the original, you have no additional ability to understand the copy. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Launch Bolt",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Touch",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "The crossbow bolt in your hand glows a bright red, then flies off at your foe. \nYou cast this spell on a crossbow bolt, causing it to fly at a target of your choice as if you had fired it from a light crossbow, using a ranged attack roll.  The bolt has a range increment of 80 feet.  Any properties of the crossbow bolt (such as magical abilities, masterwork quality, and so on) or feats you possess (such as Point Blank Shot, Weapon Focus [light crossbow], and so on) apply.  Drawing a bolt for this spell is a free action. \nMaterial Component: The crossbow bolt to be fired (1 sp). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Launch Item",
+    "school": "transmutation",
+    "components": "somatic",
+    "range": " Touch",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You hold the item and windmill your arm in an underhanded toss.  When it leaves your hand, it is bathed in an orange glow and flies farther than you could throw any item. \nYou cause a Fine item in your possession to fly at great speed to a target or location you specify, out to medium range (100 ft.  + 10 ft. /level). \nThis spell is normally used to launch dangerous items (flasks of acid, thunderstones, and so on) farther than you could normally throw them.  You can use this spell to make an attack with a splash weapon.  If you choose to do so, you must make an attack roll as normal, but you suffer no penalties for range. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Mage Hand",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Concentration",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range. ",
+    "is_30_spell": 0
+  }
+]

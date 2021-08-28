@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Axiomatic Creature",
+    "school": "transmutation",
+    "components": "verbal,somatic,material,experience",
+    "range": " Touch",
+    "duration": " Permanent",
+    "saving_throw": " Fortitude negates (harmless)",
+    "effect": "",
+    "description": "This spell transforms the target into an axiomatic creature—a perfect version of itself. The spell rids the creature of noticeable flaws, makes its fur or scales appear shinier, and so forth. Animals touched by this spell become magical beasts, but otherwise the creature's type is unchanged. If the target has an Intelligence of 2 or less, the spell imbues the target with an Intelligence of 3. As an axiomatic creature, the target gains the following special attack:Smite Chaos (Su): Once per day, the target can make a normal attack to deal extra damage equal to its HD total (maximum +20) against a chaotic opponent. The target gains the following special quality:Linked Minds (Ex): The target can communicate telepathically with other axiomatic creatures of its type within 300 feet. If one in the group is not flat-footed, none of them are, and no axiomatic creature in the group is considered flanked unless they all are. The target also gains darkvision with a range of 60 feet, spell resistance equal to double its HD (maximum 25), and resistance to cold, electricity, fire, and sonic attacks based on its HD, as shown below:Material Component: A diamond wand worth at least 10,000 gp. XP Cost: 1,000 XP. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Bestow Greater Curse",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " Permanent",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "The caster places a curse on the creature touched, choosing one of the following three effects:\n\nOne ability score is reduced to 1, or two ability scores take -6 penalties (to a minimum score of 1). \n-8 penalty on attack rolls, saving throws, ability checks, and skill checks. \nEach turn, the subject has a 25% chance to act normally; otherwise, he takes no action. \nA player may invent a new curse, but it should be no more powerful than those listed above, and the Dungeon Master (DM) has final say on the curse's effect. A greater curse cannot be dispelled, nor can it can be removed with a break enchantment, limited wish, or remove curse spell. A miracle or wish spell removes the greater curse, and any particular greater curse can be removed if the subject performs some deed that the caster designates. The deed must be something that the subject can accomplish within one year (assuming he undertakes it immediately). For example, the deed might be \"Slay the dragon under Castle Bluecraft\", or \"Climb the tallest mountain in the world\". The cursed victim can have help accomplishing the task, and in some cases another character can lift the curse (see the Curses section of Chapter 2 for guidelines). ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Blackstaff",
+    "school": "transmutation",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Touch",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " See text",
+    "effect": "",
+    "description": "Created by the renowned archmage Khelben Arunsun and shared only with those whom he trusts implicitly, blackstaff has three principal effects:First, the spell gives the affected staff or quarterstaff a +4 enhancement bonus on attack and damage rolls. Second, any creature or object struck by a successful melee attack or melee touch attack with the blackstaff is subject to a dispel magic effect. This effect works exactly like a targeted dispel magic cast by the creator of the blackstaff. Third, any spellcaster struck by a successful melee or melee touch attack with the blackstaff loses one prepared spell (or one unused spell slot, for spellcasters who do not prepare spells) of the highest spell level available. A successful Will save negates the spell loss, but not any damage or dispel effects caused by a strike of the blackstaff. Blackstaff may be cast upon any nonmagical quarterstaff or on a magic staff in the caster's possession. If cast on a magic staff, the wielder of the staff must decide as a free action on his turn each round whether he will use the staff's normal abilities or the effects of the blackstaff spell. Nothing prevents the caster from giving a staff or quarterstaff under the effect of blackstaff to another character to wield after casting the spell. Focus: A nonmagical quarterstaff or a magic staff. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Breath Weapon Admixture",
+    "school": "transmutation",
+    "components": "somatic,meta breath",
+    "range": " Personal",
+    "duration": " Instantaneous",
+    "saving_throw": "",
+    "effect": "",
+    "description": "Choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, or fire. You can modify your breath weapon to add an equal amount of the energy you choose. For example, a wyrm red dragon whose breath weapon normally deals 22d10 points of fire damage could use this spell to produce a cone dealing 22d10 points of fire damage plus 22d10 points of acid damage. Even opposed types of energy, such as fire and cold, can be combined using this spell. The modification applies only to the breath produced as part of the casting. When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type. For example, breath weapon admixture is an acid spell when you cast it to add acid damage to your breath weapon. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Celerity, Greater",
+    "school": "transmutation",
+    "components": "",
+    "range": "",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell works like celerity, except upon casting this spell you can immediately take a full-round action (or a standard action plus a move action, or two move actions). After performing this action, you are dazed until the end of your next turn. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Dreaded Form of the Eye Tyrant",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "Your body withers away to dust, leaving only a floating head, which quickly grows oversized and misshapen. Your eyes fuse together as a single orb in your forehead, and ten writhing eyestalks sprout from your skull. You take the form of a beholder (MM 26). You gain 30 temporary hit points, which disappear at the end of the spell's duration. You can use only one eye ray each round, and each of your ten eye rays can be used only once during the spell's duration. For example, once you use your disintegrate eye ray, you can't use that eye ray again during this casting of the spell. See the Polymorph Subschool sidebar on page 91 for more details. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Dream Travel",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You and any creature you touch are drawn along a crystal arc of reverie to the edge of conscious thought and into the Region of Dreams. You can take more than one creature along with you (subject to your level limit), but all must be touching each other when you cast the spell. You physically enter the plane of Dream, leaving nothing behind. In Dream, you move through a menagerie of thoughts, desires, and phantoms created by the minds of dreamers everywhere. For every minute you move through Dream (which is only a single round on the Material Plane), you can \"wake\" to find yourself five miles displaced in the waking world. Thus, a character can use this spell to travel rapidly by physically entering where only dreams prowl, moving the desired distance, and stepping back into the waking world. You know where you will come out in the waking world. Dream travel can also be used to travel to other planes that contain creatures who dream, but this requires crossing into the Dreamheart, where you are subject to the vagaries of violent dream realities. Transferring to another plane of existence requires 1d4 hours on Dream (which corresponds to 1d4×6 minutes as time is measured on most other planes). Any creatures touched by you when dream travel is cast also makes the transition to the borders of unconscious thought. They may opt to follow you, wander into other dreamscapes, or stumble back into the waking world (50% chance for either of the latter results if they are lost or abandoned by you). Creatures unwilling to accompany you into the Region of Dreams receive a Will saving throw, negating the effect if successful. Note:Unlike the normal rules for dreaming, items you use, spells you cast, and other consumables are still gone when you return to the waking world after being under the effect of this spell. Likewise, items you gain and experience you accumulate while under the effect of this spell stay with you. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Earth Glide",
+    "school": "transmutation",
+    "components": "verbal,somatic,divine focus",
+    "range": " Touch",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "You give the subject the ability to glide through earth and stone as easily as an earth elemental does. The affected creature can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. A move earth spell cast on an area containing the affected creature flings the creature back 30 feet and stuns the creature for 1 round unless it succeeds on a DC 15 Fortitude save. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Embrace the Dark Chaos",
+    "school": "transmutation",
+    "components": "verbal,somatic,experience",
+    "range": " Touch",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You infuse the creature touched with raw chaos channeled from the Abyss. Somehow it looks more fiendish than before. The subject immediately gains one Abyssal heritor feat for which it qualifies, chosen by you at the time of casting. If the subject does not qualify for the designated feat, the spell fails. This Abyssal heritor feat replaces one feat of the subject's choice that it already possesses. The replaced feat need not have been an Abyssal heritor feat. If the lost feat was a prerequisite for other feats or prestige classes, the subject loses access to those feats or prestige class abilities until it once again meets all the prerequisites. Once the subject has the Abyssal heritor feat, only a miracle,shun the dark chaos, or wish spell can reverse the change. XP Cost: 250 XP. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Excavate",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You toss the bit of earth against the wall and it glitters and burns as it strikes the stone.  The rock vaporizes where it hits and a passage opens before you, burrowing into the wall. \nAs with passwall (PH 259), this spell allows you to create a passage through wooden, plaster, or stone walls, but not through metal or harder materials, if a wall's thickness is more than 1 foot per caster level, then a single excavate spell simply makes a niche or short tunnel with the stated dimensions.  Several excavate spells can be used in succession to breach very thick walls by forming a continuing passage.  Unlike passwall, excavate is an instantaneous effect that does not end and cannot be dispelled; any passage it creates is permanent. \nMaterial Component: A pinch of excavated earth. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Fimbulwinter",
+    "school": "transmutation",
+    "components": "verbal,somatic,experience",
+    "range": " 1 mile/level",
+    "duration": " 4d12 weeks",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Flensing",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 4 rounds",
+    "saving_throw": " Fortitude partial; see text",
+    "effect": "",
+    "description": "With a cruel utterance, you complete the spell an unleash its terrible energy.  A sickeningly wet ripping sound accompanies the sight of strips of flesh being torn away, as if some invisible hand was attempting to peel your target like an onion. \nWhen you cast this spell, you literally strip the flesh from a corporeal creature's body, inflicting incredible pain and psychological trauma.  Each round, the subject takes 2d6 points of damage, and 1d6 points of Charisma.  A successful Fortitude save negates the ability damage and reduces the hit point damage by half for that round, but does not end the spell. \nFlensing has no effect on creatures in gaseous form. \nMaterial Component: An onion. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Ghostform",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round / level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "Laughing at death, you assume a ghostly form in which you can pass through walls. \nYou assume a visible, incorporeal form like that of a manifesting ghost.  You gain the incorporeal subtype for the duration of the spell, providing you with the following abilities and characteristics. \nYou have no physical body while in this state.  You can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities.  You are immune to all nonmagical attack forms.  Even when hit by spells, including touch spells, or magic weapons, you have a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects, or attacks made with ghost touch weapons).  Nondamaging spell effects affect you normally unless they require corporeal targets to function (such as implosion) or they create a corporeal effect that incorporeal creatures would normally be unaffected by (such as a web or wall of stone spell).  \nYour attacks while in ghostform pass through (ignore) natural armor, armor, and shields, although deflection bonuses and force effects (such as mage armor) work normally against you.  Nonmagical attacks you make with a melee weapon have no effect on corporeal targets, and any melee attack you make with a magic weapon against a corporeal target has a 50% miss chance, except for attacks you make with a ghost touch weapon, which are made normally (no miss chance).  Spells you cast while in ghostform affect corporeal targets normally, including spells that require you to make an attack roll (such as rays or melee touch spells).  \nAny equipment you are wearing or carrying is also incorporeal as long as it remains in your possession.  An object that you relinquish loses its incorporeal quality (and you lose the ability to manipulate the object).  If you use a thrown weapon or a ranged weapon, the projectile becomes corporeal as soon as it is fired and can affect a corporeal target normally (no miss chance).  Magic items you possess work normally with respect to their effects on you or on another target. \nAs an incorporeal creature, you have no natural armor bonus but have a deflection bonus equal to your Charisma bonus (always at least +1, even if your Charisma score does not normally provide a bonus).  \nYou can enter or pass through solid objects while in ghostform, but you must remain adjacent to the object's exterior, and so you cannot pass entirely through an object whose space is larger than your own.  You can sense the presence of creatures or objects within a square adjacent to your current location, but enemies have total concealment from you while you are inside an object.  In order to see farther from the object you are in and attack normally, you must emerge.  While inside an object, you have total cover, but when you attack a creature outside the object you have cover only, so a creature outside with a readied action could strike at you as you attack.  You cannot pass through a force effect.  \nYou can pass through and operate in water as easily as you do in air.  You cannot fall or take falling damage.  You cannot make trip or grapple attacks, nor can you be tripped or grappled.  In fact, you cannot take any physical action that would move or manipulate an opponent or its equipment, nor are you subject to such actions.  You have no weight while in ghostform and do not set off traps that are triggered by weight. \nYou move silently and cannot be heard with Listen checks if you don't wish to be while in ghostform.  You have no Strength score while incorporeal, so your Dexterity modifier applies to both your melee attacks and ranged attacks.  Nonvisual senses, such as scent and blindsight, are either ineffective or only partly effective with regard to you.  You have an innate sense of direction and can move at full speed even when you cannot see. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Golem Immunity",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates",
+    "effect": "",
+    "description": "The construct touched gains the magic immunity special quality of a particular golem, chosen at the time of casting.  The construct's body becomes covered in a thin skin of clay, flesh, iron, or stone (depending on the type of golem immunity chosen), and it gains immunity to any spell or spell-like ability that allows spell resistance.  In addition, certain spells and effects function differently against the construct, depending on the type of golem immunity conferred by the spell. \nClay: A move earth spell drives the construct back 120 feet and deals 3d12 points of damage to it.  A disintegrate spell slows the construct (as the slow spell) for 1d6 rounds and deals 1d12 points of damage.  An earthquake spell cast directly at the construct stops it from moving on its next turn and deals 5d10 points of damage.  The construct gets no saving throw against any of these effects. \nAny magical attack against the construct that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal.  If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points.  The construct gets no saving throw against magical attacks that deal acid damage. \nFlesh: A magical attack that deals cold or fire damage slows the construct (as the slow spell) for 2d6 rounds, with no saving throw.  A magical attack that deals electricity damage breaks any slow effect on the construct and heals 1 point of damage for every 3 points of damage the attack would otherwise deal.  If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points.  The construct gets no saving throw against attacks that deal electricity damage. \nIron: A magical attack that deals electricity damage slows the construct (as the slow spell) for 3 rounds, with no saving throw.  A magical attack that deals fire damage breaks any slow effect on the construct and heals 1 point of damage for each 3 points of damage the attack would otherwise deal.  If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points.  The construct gets no saving throw against fire effects.  The construct is affected as an iron construct by rust attacks, such as that of a rust monster or a rusting grasp spell, regardless of its original composition. \nStone: A transmute rock to mud spell slows the construct (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock acts as a total repair spell.  A stone to flesh spell does not actually change the construct's structure but negates its immunity to magic for 1 full round. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Investiture of the Horned Devil",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless); see text",
+    "effect": "",
+    "description": "With a flash of red light, you invest the target with infernal energy, drawing power from a horned devil to fuel the spell. This spell infuses a creature with the terrible essence of a horned devil. Whenever the subject successfully strikes another living creature with the first melee attack that it makes in a round, the struck creature must succeed on a Will save against the spell's DC or be stunned for 1 round. In addition, the subject gains resistance to fire 10. This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the horned devil). While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture. After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute. Material Component: A fist-sized chunk of brimstone. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Iron Body",
+    "school": "transmutation",
+    "components": "verbal,somatic,material,divine focus",
+    "range": " Personal",
+    "duration": " 1 min./level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell transforms your body into living iron, which grants you several powerful resistances and abilities. You gain damage reduction 15/adamantine. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You take only half damage from acid and fire of all kinds. However, you also become vulnerable to all special attacks that affect iron golems. You gain a +6 enhancement bonus to your Strength score, but you take a -6 penalty to Dexterity as well (to a minimum Dexterity score of 1), and your speed is reduced to half normal. You have an arcane spell failure chance of 50% and a -8 armor check penalty, just as if you were clad in full plate armor. You cannot drink (and thus can't use potions) or play wind instruments. Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters), and you are considered armed when making unarmed attacks. Your weight increases by a factor of ten, causing you to sink in water like a stone. However, you could survive the crushing pressure and lack of air at the bottom of the ocean—at least until the spell duration expires. Arcane Material Component: A small piece of iron that was once part of either an iron golem, a hero's armor, or a war machine. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Make Manifest, Mass",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You toss a handful of copper dust into the air, and it clings to creatures invisible to you.  Suddenly they're visible and in your presence. \nThis spell functions like make manifest, except that all creatures and unattended objects on coterminous and coexistent planes within the area of this spell are instantly brought onto your plane. \nFor the duration of the spell, the target creatures retain all their abilities except for those that allow them to enter other planes.  At the end of mass make manifest's duration, objects and creatures return to their plane of origin, even if they have left the spell's area. \nMaterial Component: A handful of copper dust. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Manifest, Mass",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "All creatures and unattended objects on coterminous and coexistent planes within the area of mass manifest are instantly brought onto your plane. For the duration of the spell, the target creature retains all its abilities except for those that allow it to enter other planes. At the end of mass manifest's duration, objects and creatures return to their plane of origin, even if they have left the spell's area. Material Component: A handful of copper dust, cast in the air. ",
+    "is_30_spell": 1
+  }
+]

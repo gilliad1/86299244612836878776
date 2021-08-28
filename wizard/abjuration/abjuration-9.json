@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Absorption",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " Until expended or 10 minutes/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "Spells and spell-like effects that target you are absorbed, their energy stored to power spells of your own.  Absorption absorbs only ranged spells that have you as a target.  Touch spells, effect spells, and area spells that affect you cannot be absorbed. \nOnce the spell is cast, you can absorb 1d4+6 spell levels (rolled secretly by the DM).  The level of each spell you absorb is subtracted from the total.  If a spell is only partially absorbed (because its level exceeds the number of levels remaining to be absorbed), divide the number of spell levels left unabsorbed by the original spell level.  For spells that deal damage, use the result to determine what fraction of the damage you take.  For spells that create effects, use the result as a percentage chanceto be affected. \nFor example, you have three spell levels of absorption remaining and are struck by dominate person cast as a 5th-level spell.  Absorption absorbs three levels of the spell, resulting in a 40% chance (2/5) that you will be affected normally.  If affected, any saving throw the spell allows you still applies.  Likewise, if you're struck by disintegrate cast as a 6th-level spell with four levels of absorption remaining, two levels of the spell remain, and you take only 33% (1/3) of the damage you would normally take from the spell. \nYou can use captured spell energy to cast any spell you know or have prepared, but spells so cast don't disappear from your list of prepared spells or count against the number of spells you can normally cast per day (so you so must keep a running total of spell levels absorbed and used).  The levels of spell energy you have stored must be equal to or greater than the level of the spell you want to cast, and you must have at hand (and expend) any material components required for the spell. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Elminster's Effulgent Epuration",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " 60 ft.",
+    "duration": " Until expended or 10 minutes/level",
+    "saving_throw": " None",
+    "effect": " One glowing sphere/level",
+    "description": "You create multiple floating silvery spheres, each 6 inches in diameter. These spheres appear in a spiral above your head or around your body and follow you up to 60 feet per round. The spheres intercept incoming hostile magic, negating spells or spell-like abilities that would affect you or that have an effect that extends into your space. One sphere is expended for each spell level of the effect negated, so a slay living spell (Clr 5) would expend five spheres. In the case of area effect spells, it negates the whole spell. If not enough spheres exist to negate an incoming effect, the spheres remain and the effect works as normal. You may move one or more spheres up to 60 feet as a standard action. If not sent to another area, the spheres default to following you. If you exceed their range, they remain behind and function normally at that location. The spheres have no physical substance, do not provide cover or concealment, and conform to narrow spaces up to 6 inches in diameter without altering their ability to function. They cannot pass through solid objects or force effects. They cannot be harmed by physical or magical attacks except those that dispel or negate magic entirely (such as dispel magic, antimagic field, and so on). ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Freedom",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " Close (25 ft. + 5 ft./2 levels) or see text",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "The subject is freed from spells and effects that restrict its movement, including binding, entangle, grappling, imprisonment, maze, paralysis, petrification, pinning, sleep, slow, stunning, temporal stasis, and web. To free a creature from imprisonment or maze, you must know its name and background, and youmust cast this spell at the spot where it was entombed or banished into the maze. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Halaster's Teleport Cage",
+    "school": "abjuration",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 feet +5 ft./2 levels)",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Imprisonment",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " Touch",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates; see text",
+    "effect": "",
+    "description": "When you cast imprisonment and touch a creature, it is entombed in a state of suspended animation (see the temporal stasis spell) in a small sphere far beneath the surface of the earth. The subject remains there unless a freedom spell is cast at the locale where the imprisonment took place. Magical search by a crystal ball, a locate object spell, or some other similar divination does not reveal the fact that a creature is imprisoned, but discern location does. A wish or miracle spell will not free the recipient, but will reveal where it is entombed. If you know the target's name and some facts about its life, the target takes a -4 penalty on its save. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Khelben's Dweomerdoom",
+    "school": "abjuration",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You counterspell an opponent's spell or spell-like ability before it is even cast and without knowing what spell you are countering. If the target prepares spells, you counterspell the highest level spell currently prepared, eliminating it from the target's list of prepared spells for that day. If the target casts spells spontaneously (and does not prepare spells), you effectively reduce by one the number of spells per day of the highest level spell slot available. If the target has spell-like abilities (and does not prepare spells or cast spells spontaneously), it loses one use of the highest-level spell-like ability available. Otherwise, this spell has no effect. You must make a successful dispel check (as the spell dispel magic, but the maximum caster level on your dispel check is +25 instead of +10) to successfully counter or remove your opponent's prepared spell, spell slot, or use of a spell-like ability. Focus: A crystal lens worth at least 1,000 gp. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Magic Miasma",
+    "school": "abjuration",
+    "components": "verbal,somatic,material",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " 1 round/level",
+    "saving_throw": " None; see text",
+    "effect": "",
+    "description": "A thick, sparkling cloud of billowing mist rolls into being from the point you indicate. \nThis potent spell conjures a cloud of mist that functions as a solid fog spell (PH 281).  In addition, any spells cast within the fog have a -4 penalty to the spellcaster's caster level, and the save DC of any such spell is reduced by 2.  Creatures within the fog, or that enter the fog, must succeed on a Will save or suffer the reduction in caster level and DC even after they leave the fog, for the duration of the spell. \nMaterial Component: A small piece of quilted cloth, which must be soaked in water while the spell is cast. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Maw of Chaos",
+    "school": "abjuration",
+    "components": "verbal,somatic,material",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " 1 round/level",
+    "saving_throw": " Will partial",
+    "effect": "",
+    "description": "At the culmination of casting the spell you open your mouth wide as if to yawn.  In imitation, the air cracks and splits, opening into a yawning area of roiling blue-green energy resembling a great mouth. \nAll creatures in the area take 1d6 points of damage per caster level in the round when you cast the spell and each round thereafter at the start of your turn.  Those damaged must also make a Will saving throw or be dazed for 1 round. Second, the chaotic energy makes it difficult to concentrate.  Any activity that involves concentration (such as casting a spell or using a spell-like ability) requires a Concentration check (DC 25 + spell level) to succeed. \nCreatures with the chaotic subtype are unaffected by this spell. \nMaterial Component: A jawbone with teeth. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Mordenkainen's Disjunction",
+    "school": "abjuration",
+    "components": "verbal",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates (object)",
+    "effect": "",
+    "description": "All magical effects and magic items within the radius of the spell, except for those that you carry or touch, are disjoined. That is, spells and spell-like effects are separated into their individual components (ending the effect as a dispel magic spell does), and each permanent magic item must make a successful Will save or be turned into a normal item. An item in a creature's possession uses its own Will save bonus or its possessor's Will save bonus, whichever is higher. You also have a 1% chance per caster level of destroying an antimagic field. If the antimagic field survives the disjunction, no items within it are disjoined. Even artifacts are subject to disjunction, though there is only a 1% chance per caster level of actually affecting such powerful items. Additionally, if an artifact is destroyed, you must make a DC 25 Will save or permanently lose all spellcasting abilities. (These abilities cannot be recovered by mortal magic, not even miracle or wish). Note: Destroying artifacts is a dangerous business, and it is 95% likely to attract the attention of some powerful being who has an interest in or connection with the device. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Prismatic Sphere",
+    "school": "abjuration",
+    "components": "verbal",
+    "range": " 10 ft.",
+    "duration": "",
+    "saving_throw": "",
+    "effect": " 10-ft.-radius sphere centered on you",
+    "description": "This spell functions like prismatic wall, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum. \nThe sphere's blindness effect on creatures with less than 8 HD lasts 2d4×10 minutes. \nYou can pass into and out of the prismatic sphere and remain near it without harm.  However, when you're inside it, the sphere blocks any attempt to project something through the sphere (including spells).  Other creatures that attempt to attack you or pass through suffer the effects of each color, one at a time. \nTypically, only the upper hemisphere of the globe will exist, since you are at the center of the sphere, so the lower half is usually excluded by the floor surface you are standing on. \nThe colors of the sphere have the same effects as the colors of a prismatic wall. \nPrismatic sphere can be made permanent with a permanency spell. \n\n\nColor \nOrder \nEffect of Color \nNegated By \n\n\n Red \n 1st \n Stops nonmagical ranged weapons.  \n Cone of cold \n\n\n \n \n Deals 20 points of fire damage (Relfex half).  \n \n\n\n Orange \n 2nd \n Stops magical ranged weapons.  \n Gust of wind \n\n\n \n \n Deals 40 points of acid damage (Reflex half).  \n \n\n\n Yellow \n 3rd \n Stops poisons, gases and petrification.  \n Disintegrate \n\n\n \n \n Deals 80 points of electricity damage (Reflex half).  \n \n\n\n Green \n 4th \n Stops breath weapons \n Passwall \n\n\n \n \n Poison (Kills; Fortitude partial for 1d6 points of Con damage instead).  \n \n\n\n Blue \n 5th \n Stops divination and mental attacks.  \n Magic missle \n\n\n \n \n Turned to stone (Fortitude negates).  \n \n\n\n Indigo \n 6th \n Stops all spells.  \n Daylight \n\n\n \n \n Will save or become insane (as insanity spell).  \n \n\n\n Violet \n 7th \n Energy field destroys all objects and effects.  \n Dispel magic \n\n\n \n \n Creatures sent to another plane (Will negates).  \n \n\n\nNote: The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Reaving Dispel",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "duration": " Instantaneous",
+    "saving_throw": " See text",
+    "effect": "",
+    "description": "Bringing to your lips some of the most elemental words of arcane power, you feel stirring within you the spirits of ancient mages as you prepare to absorb the spell energies you have targeted.  Your body shakes uncontrollably, as if eagerly anticipating the power behind those spells. \nThis spell functions like dispel magic (PH 223), except that your caster level for your dispel check is a maximum of +20 instead of +10, and (as with greater dispel magic) you have a chance to dispel any effect that remove curse can remove, even if dispel magic can't dispel that effect.  When casting a targeted dispel or counterspell, you can choose to reave each spell you successfully dispel, stealing its power and effect for yourself.  When making a targeted dispel, make a Spellcraft check (DC 25 + spell level) to identify the target spell or each ongoing spell currently in effect on the target creature or object.  \nEach spell you dispel with a targeted dispel can be reaved if you so desire, and the spell's effects are redirected to you, continuing as if cast on you by the original caster with no interruption to or extension of duration.  Once you reave the spell, you identify it if you haven't done so already (see below).  If the subject was the caster and the spell is dismissible, you can dismiss it as if you had cast it yourself.  Likewise, if the subject was the caster and the spell requires concentration, you must concentrate to maintain the spell's effect as if you had cast it yourself. \nYou can still attempt to reave a spell you didn't identify with your Spellcraft check, but doing so can be risky if you don't know the specifics of the spell's effect.  For example, if you fail to identity an ongoing spell effect on an enemy character and choose to reave anyway, you might find yourself under the influence of the dominate person effect that character was suffering from.  Any spell resistance you might have has no effect against harmful spells you might inadvertently reave, but you get the same chance to save against those spell effects as the original target. \nIf you choose to reave a spell you have successfully counterspelled with reaving dispel, you seize control of the spell after the enemy caster completes it, and you can redirect the spell to whatever targets or area you wish (including the original caster, if appropriate).  Again, you must make a Spellcraft check (DC 25 + spell level) to identify the spell you intend to reave, but you are free to choose to redirect a spell whose effect, range, and area you don't know.  If the redirected spell's correct casting conditions aren't met (because you guess at an improper target or range, for example), the spell fails. \nReaving dispel can be used to cast an area dispel with the increased maximum caster level, but any magical effects so dispelled cannot be reaved. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Soulmeld Disjunction",
+    "school": "abjuration",
+    "components": "verbal,somatic",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "This spell rips apart the soulmelds shaped on a particular creature, unshaping them in a burst of scattered incarnum. Make a caster level check (1d20 + caster level, maximum +25) against each of the soulmelds shaped on the chosen creature (against a DC of 11 + meldshaper level), starting with the soulmeld with the highest essentia investment (break ties randomly). Add +4 to the DC if the soulmeld is bound to a chakra. Essentia invested in unshaped soulmelds returns to its owner's essentia pool. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Srinshee's Spell Shift",
+    "school": "abjuration",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 1 round/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This potent spell opens your senses to the Weave, allowing you to perceive its very fabric as clearly as you might see the trees in a forest while standing in the heart of it. When a spell is cast, you can visually observe its effects on the Weave. Thanks to this heightened understanding, you can use the counterspell action to do much more than merely counter another caster's spell. Srinshee's spell shift grants you a +4 insight bonus on Spellcraft checks made to identify spells for counterspelling. Furthermore, instead of simply negating the effect of a spell you successfully counter, you can choose from among the following options as long as Srinshee's spell shift lasts. Aid: You can boost the effectiveness of an ally's spell by applying any one metamagic feat from the following list: Empower Spell, Enlarge Spell, Extend Spell, Maximize Spell, or Widen Spell. To use this option, you must expend a spell slot (or sacrifice a prepared spell) whose spell level equals or exceeds that of the ally's spell with the desired metamagic feat applied. For example, empowering an ally's fireball would require you to expend a 5th-level or higher spell slot. Manipulate: You can seize control of the spell's range, area, or targets, as appropriate, and reshape these factors as you choose. For example, you could cause an enemy wizard's fireball to explode at his feet, or you could cause his haste spell to target your allies within the area he has specified. Only one property of the spell, chosen from among those that the caster can normally designate, can be manipulated in this manner. For example, you could not choose the targets of a sleep spell because the targets affected are determined by the spell itself, not the caster. Backlash: You counter the spell as normal, but your opponent must succeed on a Fortitude save or be stunned for 1d6 rounds. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Unbinding",
+    "school": "abjuration",
+    "components": "verbal,somatic,material,divine focus",
+    "range": " 180 ft",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "A burst of white energy erupts from your body to destroy spells that contain, constrain, or seal. \nAn unbinding spell negates charm and hold spells of all types; arcane locks and similar closures; and spells that create physical or magical barriers, such as wall of fire, wall of force, guards and wards, temporal stasis, and slow spells, among others.  The effect of a statue spell is also ended, and a magic jar is shattered—forever destroyed—and the life force within snuffed out.  In addition, any spell that holds magical effects, including other spells (magic mouth, imbue with spell ability, and so on), immediately releases them at a range of 0 feet. \nProtective spells such as protection from evil, shield, globe of invulnerability, and similar spells are not affected by an unbinding.  Petrified creatures are neither revealed nor restored.  Individuals bound to service are not freed (including creatures such asfamiliars, invisible stalkers, genies, and elementals).  An antimagic field is not affected, nor does the effect of unbinding penetrate one.  A magic circle against evil (or another alignment) that currently holds a creature imprisoned is dispelled.  \nCurses and geas/quest spells are negated only if you are of a level equal to or greater than that of the original caster. \nAll these effects occur without regard to the caster's wishes.  Spell effects on the person of the caster, or effects or items being carried or worn by the caster, remain undisturbed, but any others within the area are affected, including those of allies.  The opening of locks or other closures triggers any alarms or traps attached to them.  Any released creature might or might not be friendly to the caster. \nMaterial Components: A lodestone and a pinch of saltpeter",
+    "is_30_spell": 0
+  }
+]

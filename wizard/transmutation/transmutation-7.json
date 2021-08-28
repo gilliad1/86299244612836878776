@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Ability Rip",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Touch",
+    "duration": " 1 hour/level",
+    "saving_throw": " Fortitude negates (see text)",
+    "effect": "",
+    "description": "You rip a supernatural ability of your choice away from one creature and transfer it to another. \nThe two creatures must be within 30 feet of each other and remain conscious throughout the casting of the spell.  In exchange for this new ability, the recipient permanently loses a supernatural ability it already possesses.  If it has none to exchange, it instead loses two class levels (or 2 Hit Dice if it has no class levels). \nClass features cannot be transferred by means of this spell. \nThe spell fails if used to transfer an ability to a creature that lacks the proper body parts, size, or other criterion for its use, or if the target creature has fewer than 2 Hit Dice and no supernatural abilities to trade.  Either subject may negate the transfer with a successful Fortitude save. \nMaterial Component: A caterpillar in a cocoon. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Adamantine Wings",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 hour/level (D) or until expended",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You feel an instant of searing pain from your back, which swiftly fades into a sensation of ultimate freedom. You sprout a pair of dull gleaming wings made of overlapping feathers of dark metal. You grow a pair of adamantine wings. The wings grant you a fly speed of 60 feet (or 40 feet if you wear medium or heavy armor or carry a medium or heavy load), with good maneuverability. If you are not flying, you can use a standard action to make one wing attack or a full attack action to make two such attacks (as if they were natural weapons). Each wing deals 2d6 points of slashing damage (plus your Strength modifier), and threatens a critical hit on a 19-20. The wings are considered both magic and adamantine for the purpose of overcoming damage reduction or penetrating hardness. Wing strikes are not additional attacks; they replace any other attack or full attack action. As a swift action, you can choose to launch the adamantine feathers as a burst of razor-sharp blades. This attack takes the form of a 60-foot cone-shaped burst. All creatures within the cone take 10d6 points of damage (Reflex half; spell resistance applies). Since this is a spell effect, damage reduction does not affect the damage dealt by the cone. This action immediately ends the spell's duration. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Animalistic Power, Mass",
+    "school": "transmutation",
+    "components": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like animalistic power, except that it affects multiple creature. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Animate Breath",
+    "school": "transmutation",
+    "components": "somatic",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You exhale a flaming tongue of fire, but instead of lashing out against your foes, it produces a creature made of flames that answers to your bidding. \nFor this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as dragon breath (page 73).  When you successfully cast this spell, you imbue the energy of your breath weapon with coherence, mobility, and a semblance of life.  The animated breath then attacks whomever or whatever you designate.  The spell works only on breath weapons that deal energy (acid, cold, electricity, fire, or sonic) damage.  The animated breath uses the statistics of a Huge fire elemental (MM 99), with the following exceptions. \n\nThe creature's subtype changes to match the energy damage dealt by the breath weapon. \n\n\nThe creature deals 2d8 points of damage of the same type as the breath weapon with each successful slam attack, instead of 2d8 points of fire. \n\n\nThe creature has immunity to its own energy type, but no vulnerability to another energy type. \n\n\nThe creature does not have the burn ability. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "As the Frost",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "With a crystalline tinkling, your body transforms into a figure of ice and cold, your equipment melding into your new form. Your skin becomes brilliant blue and transparent, with glimpses of liquid beneath. Frost forms across your hands and arms, dripping down to form knifelike icicles. Your breath hisses white in the bitterly cold air surrounding you. Snow swirls about you as your presence freezes the air's moisture. Ice crystals spread from your footprints. Your creature type changes to outsider. Unlike other outsiders, you can be brought back to life if you die in this form. You gain the following qualities and abilities:\n\nImmunity to cold. \nDamage reduction 10/magic and piercing. \nAt the beginning of your action, creatures within 15 feet of you take 2d6 points of cold damage per round. \nA creature that takes damage from this effect must make a Fortitude save (DC 17 + your key ability modifier) or be slowed, as the slow spell, for the remaining duration of as the frost. Spell resistance applies to this effect. Material Component: A chunk of ice or crystal. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Bite of the Werebear",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": " No",
+    "effect": "",
+    "description": "With an inhuman roar, your face extends and expands, and your hands enlarge into clawed paws.  Powerful muscle builds under your skin, and you become a half-bear creature. \nYou gain a +16 enhancement bonus to Strength, a +2 enhancement bonus to Dexterity, a +8 enhancement bonus to Constitution, and a +7 enhancement bonus to natural armor.  Your hands become claws, granting you two claw attacks, and your mouth becomes that of a bear, giving you a bite attack.  You can attack with both claws at your full attack bonus, but your bite attack takes a —2 penalty (as if you had the Multiattack feat).  Each claw deals 1d8 points of damage (1d6 if you are Small) + your Str modifier, and your bite deals 2d8 points of damage (2d6 if you are Small) + 1/2 your Str modifier.  You gain the benefits of the Blind-Fight and Power Attack feats, as well.  If your base attack bonus is +6 or higher, you do not gain any additional attacks. \nMaterial Component: A tuft of bear fur. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Changestones",
+    "school": "transmutation",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Touch",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "When you place specially prepared stones on the ground and speak a command to conclude the casting of this spell, the stones transform into creatures that look and fight just like liths (see Chapter 6). These stone-born creatures are not true liths, however; they cannot converse with actual liths or use any of a lith's psionic powers. These stone-born liths defend you and obey any spoken commands. When reduced to 0 or fewer hit points, a stone-born lith crumbles to powder, and the prepared stone used to create it is destroyed. Otherwise, the stone-born liths revert to prepared stones when the duration of the spell expires, and these stones can be used as the focus for another casting of the spell. The stone-born liths are always at full strength when created, despite any damage they may have taken the last time they appeared. You can prepare up to one stone per four caster levels, to a maximum of five stones at 20th level. A stone can remain prepared indefinitely; the spell isn't actually cast until you complete it by changing the stone into a lith. Focus: The requisite number of stones, which must be specially prepared. The materials for polishing and smoothing each stone cost 200 gp. Once the stones are prepared, you must perform a rite of purification that requires one day per stone. You cannot adventure or engage in any other strenuous activity during the purification process. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Control Weather",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " 2 miles",
+    "duration": " 4d12 hours; see text",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. The current, natural weather conditions are determined by the DM. You can call forth weather appropriate to the climate and season of the area you are in. You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot control specific applications of the weather—where lightning strikes, for example, or the exact path of a tornado. When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later (changing gradually, not abruptly). The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory conditions are not possible simultaneously—fog and strong wind, for example. Control weather can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them. A druid casting this spell doubles the duration and affects a circle with a 3-mile radius. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Eladrin Form",
+    "school": "transmutation",
+    "components": "verbal",
+    "range": " Personal",
+    "duration": " 1 round/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You assume the form of an incorporeal globe of eldritch colors, 5 feet in diameter. In this form, you can fly at a speed of 150 feet with perfect maneuverability and can pass through walls and other solid objects. You can use any spell-like or psionic abilities you possess, but you cannot cast spells or make physical attacks. The globe form is incorporeal, and you have no Strength score while in that form. While incorporeal, you can be harmed only by other incorporeal creatures, +1 or better magic weapons, psionics, spells, spell-like abilities, or supernatural abilities. You are immune to all nonmagical attack forms. Even when hit by spells or magic weapons, you have a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects, or attacks made with ghost touch weapons). ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Elemental Body",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You can transform your body into a particular type of elemental substance. You and your possessions appear to be made of that element, though in the same general shape and size as your normal appearance. You gain the following abilities when you use elemental body:\n\nYou have the benefits of the attune form spell with respect to the appropriate element. \nIf you choose a water body, for example, you can breathe normally on water-dominant planes. \n\nYou are immune to poison, sleep, paralysis, and stunning, and are not subject to critical hits or flanking. \nYou gain darkvision with a range of 60 feet. \n\nYour creature type remains unchanged, so you are unaffected by spells that target elementals. \nIn addition, you gain the following exceptional abilities according to the type of elemental body chosen: Air: Fly at your normal speed (perfect maneuverability), air mastery (airborne creatures suffer a -1 penalty on attack and damage rolls against you). Earth: Earth mastery (you gain a +1 attack and damage bonus if both you and your foe touch the ground), push (you may start a bull rush maneuver without provoking an attack of opportunity), +3 natural armor bonus to AC. Fire: Fire immunity, burn (those you hit in melee and those who attack you with natural weapons must make a Reflex save or catch fire, with a save DC equal to that of a fire elemental of the same size). Water: Swim at your normal speed, water mastery (you gain a +1 attack and damage bonus if both you and your opponent touch water), drench (you may use your elemental form to put out nonmagical open flames and dispel magical fire you touch as if casting dispel magic at your caster level). The elemental body spell has the descriptor of the element you choose. So, if you choose a body of fire, elemental body is a fire spell. Material Component: A bit of the element in question from a plane other than the one where the spell is being cast. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Energy Transformation Field",
+    "school": "transmutation",
+    "components": "verbal,somatic,material,experience",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "effect": "",
+    "description": "You hold the eye in your palm, sprinkle it with blood and diamonds, and speak the words.  Slowly it rises from your hand, emitting a soft beam that illuminates the chosen area.  Then it disappears, and you place the spell within the magic trap. \nYou create a lingering zone of transformative magic that absorbs magic energy from magic items or spellcasting and uses it to power another spell tied to that location.  For example, you could have an energy transformation field tied to a summon monster V spell that would summon a monster when the field had absorbed enough magic. \nThe field absorbs the magic of spells cast, spell-like or supernatural abilities that are activated, and magic items used within its dimensions.  Each source of magic provides spell levels of energy to the field equal to the spell level of the effect used.  Supernatural abilities that emulate spells provide energy equal to the spell level of the effect.  Super-natural abilities that do not emulate spells provide energy equal to the HD of the creature using the ability.  For example, a cast fireball spell or a charge from a wand of fireball would add three spell levels to the field's store, a potion of cure light wounds would add one, and a wish from a ring of three wishes would add nine.  Items that don't have a clearly defined spell level (such as the effects of most rods) use the prerequisite caster level needed to create that item (so an immovable rod would provide two spell levels every time it was activated because of its levitate prerequisite).  Effects that are absorbed give no indication of where the magic went; they simply vanish. \nThe field absorbs only magic that is actually used within its area.  Ongoing magical effects that enter the area, including spells cast from outside the area into the field or continually functioning items such as a +1 mace, are often visibly reduced, but do not have their actual effects hindered.  For example, a continual flame would dim slightly, but its overall magic would not be affected. \nAn energy transformation field has a single spell linked to it.  When the field has absorbed spell levels equal to the spell level of its linked spell, it automatically casts that spell at a point within the field designated by you at the time of the casting of the field.  This expends those absorbed spell levels (although unused levels remain until they are used or expire).  The cast spell functions as if cast by you in terms of duration and all level-based spell effects.  Absorbed spell levels fade at a rate of one per day if not used.  The field automatically triggers its linked spell if it has enough stored spell levels and the duration of its previous casting has expired.  If a linked spell requires concentration to maintain, the field expends one spell level for every hour of concentration (the field's concentration is interrupted only by its complete destruction).  Spells that require a target will target the living creature nearest to the field. \nTypical spells linked to an energy transformation field are \"blindness/deafness\":spells/players-handbook-v35—6/blindnessdeafness—2715/, fireball, suggestion, summon monster, or wall of force.  Spells that have a costly material component or an XP cost cannot be linked to a field, but those with a costly focus can if the focus object is present within the field (typically sealed into a wall or in a secret compartment). \nOnly Mordenkainen's disjunction, limited wish, wish, or similar spells can destroy the energy transformation field.  Spells of lower level, such as dispel magic and greater dispel magic, are absorbed by it, and an antimagic field prevents it from absorbing magical energy within the field but does not otherwise hamper this spell.  If two or more field spells share an overlapping area, each field has an equal chance of absorbing a spell effect in that area. \nMaterial Component: Three drops of your blood, an eye from any humanoid, and 5,000 gp worth of powdered diamond. \nXP Cost: 250 XP. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Ethereal Jaunt",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round/level (D)",
+    "saving_throw": "",
+    "effect": "",
+    "description": "You become ethereal, along with your equipment. For the duration of the spell, you are in a place called the Ethereal Plane, which overlaps the normal, physical, Material Plane. When the spell expires, you return to material existence. An ethereal creature is invisible, insubstantial, and capable of moving in any direction, even up or down, albeit at half normal speed. As an insubstantial creature, you can move through solid objects, including living creatures. An ethereal creature can see and hear on the Material Plane, but everything looks gray and ephemeral. Sight and hearing onto the Material Plane are limited to 60 feet. Force effects (such as magic missile and wall of force) and abjurations affect an ethereal creature normally. Their effects extend onto the Ethereal Plane from the Material Plane, but not vice versa. An ethereal creature can't attack material creatures, and spells you cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or effects that work on the Ethereal Plane (such as a basilisk's gaze attack). Treat other ethereal creatures and ethereal objects as if they were material. If you end the spell and become material while inside a material object (such as a solid wall), you are shunted off to the nearest open space and take 1d6 points of damage per 5 feet that you so travel. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Eye of the Beholder",
+    "school": "transmutation",
+    "components": "verbal,somatic",
+    "range": " Personal",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "effect": "",
+    "description": "One of the caster's eyes grows out of her head on an eyestalk, becoming like that of a beholder. Due to the mobility of the eye, the caster gains a +2 circumstance bonus on Spot checks. More important, the eye has one of the beholder's eye powers, determined randomly. The caster can use this power as a standard action during the spell's duration. Each type of eye produces an effect identical to that of a spell cast by a 13th-level caster, but it follows the rules for a ray (see Aiming a Spell in Chapter 10 of the Player's Handbook). All of these effects have a range of 150 feet and a save DC of 18. Roll 1d10 to see which eye the caster gains. ",
+    "is_30_spell": 1
+  },
+  {
+    "name": "Flesh to Salt, Mass",
+    "school": "transmutation",
+    "components": "",
+    "range": "",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like flesh to salt, except that it affects multiple creatures. You can transform one additional creature for every four caster levels, to a maximum of five creatures at 20th level. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Glass Strike",
+    "school": "transmutation",
+    "components": "verbal,somatic,arcane focus",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 hour/level",
+    "saving_throw": " Fortitude negates",
+    "effect": "",
+    "description": "The spell erupts from the surface of the mirror you hold, striking your foe square in the chest and transforming it to glass. \nYou transform the target into glass.  You can cast either of these two versions:\nGlass Creature: As flesh to stone (PH 232), but the subject becomes glass. \nGlass Object: An object of up to 4 cubic feet in volume is affected.  Part of a larger object (such as a floor or wall) can be transformed by this spell.  Glass has hardness 1, and 1 hit point per inch of thickness. \nNeither version of the spell affects magic items (magic items carried by a transformed creature remain intact).  When the duration ends, the subject returns to its original materials.  If the subject was broken or damaged while in glass form, its normal form has similar damage. \nFocus: A piece of glass from a mirror. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Investiture of the Ice Devil",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless); see text",
+    "effect": "",
+    "description": "Malevolent blue light suffuses the target as the temperature nearby drops ominously. You infuse a creature with the savage brutality and cold cunning of an ice devil. While under the effect of this spell, whenever the subject hits a living creature with a melee attack, that creature must succeed on a Will save against the spell's DC or be slowed for 3 rounds. The subject also deals an extra 1d6 points of cold damage with each successful melee attack that it makes with a weapon or natural weapon. In addition, the subject gains resistance to cold and fire 10. The resistance to fire stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the ice devil). While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture. After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute. Material Component: A fist-sized chunk of brimstone. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Lifebound",
+    "school": "transmutation",
+    "components": "verbal,somatic,material",
+    "range": " Touch",
+    "duration": " 1d6 rounds",
+    "saving_throw": " Will negates; see text",
+    "effect": "",
+    "description": "",
+    "is_30_spell": 0
+  }
+]

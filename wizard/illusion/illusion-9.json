@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Ice Assassin",
+    "school": "illusion",
+    "components": "Verbal,Somatic,Material,Experience,",
+    "range": " Touch",
+    "duration": " Instantaneous",
+    "saving_throw": " None; see text",
+    "effect": " One duplicate creature",
+    "description": "The ice assassin spell is in many ways an improved version of simulacrum. Developed by powerful frost mages who have more than their fair share of enemies to fight, an ice assassin is an effective way to destroy an enemy without putting yourself at risk. An ice assassin spell creates a living, breathing creature that is a near-perfect duplicate of an existing creature. The duplicate is formed entirely out of ice, but once the spell is in effect, it appears as an exact duplicate to all but its source, who always sees the ice assassin as an animated ice statue of himself. The ice assassin possesses all the skills, abilities, and memories possessed by the original, but its personality is warped and twisted by an all-consuming need to slay the original. It also constantly uses locate creature on its duplicate at a caster level equal to your own. If its quarry is outside the range of this effect, the ice assassin must rely on its own cleverness or advice from you to track the original. The ice assassin has the cold subtype. Creatures familiar with the original might detect the ruse with a successful Spot check. You must make a Disguise check (gaining a +10 circumstance bonus from the power of the spell) when you cast the spell to determine how good the likeness is. The ice assassin is under your absolute command. You possess a telepathic link to the ice assassin, and when you concentrate, you receive a clear image of the area surrounding the ice assassin as if you were scrying it. Further, you can have any spell you cast on yourself affect the ice assassin as well; this includes spells with a target of \"You\" only. These benefits persist as long as you and the ice assassin remain within a mile of each other. If the ice assassin travels beyond this range, it continues to function and seek out its nemesis, but you have no direct control over it. An ice assassin has no ability to become more powerful; it cannot increase its level or abilities. Damage caused to the ice assassin can be repaired only via a complex process requiring 1 day, 100 gp per hit point, and a fully equipped laboratory. If the ice assassin is reduced to 0 hit points by any damage except for fire damage, it explodes into a burst of icy shrapnel in a 20-foot radius that causes 1d6 points of cold damage for every two caster levels you possess; a successful Reflex saving throw halves the damage. An ice assassin slain by fire damage simply melts into a pool of water. Material Component: This spell is cast over the ice statue of the creature to be duplicated. Some portion of the creature to be duplicated (hair, nail, and so on) must be placed inside the ice statue as it is constructed. In addition, the spell requires powdered diamond worth 20,000 gp. XP Cost: 5,000. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Shades",
+    "school": "illusion",
+    "components": "",
+    "range": "",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like shadow conjuration, except that it mimics sorcerer and wizard conjuration spells of 8th level or lower. The illusory conjurations created deal four-fifths (80%) damage to nonbelievers, and nondamaging effects are 80% likely to work against nonbelievers. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Superior Invisibility",
+    "school": "illusion",
+    "components": "Verbal,Somatic,",
+    "range": " Personal or touch",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "effect": "",
+    "description": "This powerful glamer functions like invisibility, except that it masks image, scent, and sound alike, concealing the subject from all senses except touch and taste. As with greater invisibility, this spell doesn't end if the subject attacks. While invisible, the subject exudes no scent and radiates a silence that absorbs all sound and vibration in a 5-foot radius, preventing detection by tremorsense and similar abilities, as well as preventing speech and the casting of spells with somatic components (though the subject remains able to detect scents and can hear as normal). Superior invisibility renders the recipient immune to detection by see invisibility, faerie fire, glitterdust, invisibility purge, dust of appearance, and the blindsense ability, though creatures under the effect of the spell can be detected by true seeing or the blindsight ability. Certain mundane conditions (such as leaving footprints) can also render a subject detectable. ",
+    "is_30_spell": 0
+  },
+  {
+    "name": "Weird",
+    "school": "illusion",
+    "components": "",
+    "range": "",
+    "duration": "",
+    "saving_throw": "",
+    "effect": "",
+    "description": "This spell functions like phantasmal killer, except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes. If a subject's Fortitude save succeeds, it still takes 3d6 points of damage and is stunned for 1 round. The subject also takes 1d4 points of temporary Strength damage. ",
+    "is_30_spell": 0
+  }
+]
