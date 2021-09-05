@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Deadly Sunstroke",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "Beams of desiccating heat lance into your foes, scorching their flesh and draining their vitality. This spell creates waves of overwhelming heat that deal 1d6 points of fire damage per caster level, maximum 25d6. Undead and plants take +50% damage. Any living creature damaged by this spell becomes fatigued. A successful Fortitude save halves the damage and negates the fatigue. If you cast this spell in any locale where the temperature exceeds 90 degrees Fahrenheit, the spell instead deals 1d8 points of fire damage per caster level (maximum 25d8) and makes living creatures exhausted. A successful Fortitude save halves the damage and negates the exhaustion. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic",
+    "target": " One creature/level, no two of which are more than 60 ft. apart",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

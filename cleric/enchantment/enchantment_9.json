@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anathema",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "champions_of_ruin",
+    "description": "You can permanently break the divine link between your deity and a lower-level cleric, druid, ranger or paladin of your faith, or upon a common worshiper. The spell has no effect on spellcasters of a faith other than your own. You can pronounce an anathema upon any character of your faith, no matter where he is, even if on a different plane. You cannot pronounce an anathema against someone who is already dead. Some deities do not allow an anathema to be pronounced against the innocent or against their chosen, while others grant their high-level clerics free use of this most terrible of divine curses. An individual under anathema can no longer cast divine spells or call upon the power of his god to turn or command undead, heal, harm, smite, shape change, or use any other divine power associated with his character class. An ordinary worshiper placed under anathema is not allowed to take advantage of any of the faith's services, such as healing, naming, marrying, or burial of the dead. Anyone who dies while under anathema is barred from entry into his deity's plane just as though he had never declared allegiance to a god. His soul is condemned to eternally writhe in the Wall ofthe Faithless. On a more personal level, the anathema spell marks the subject as accursed with regard to others of the faith. They are not allowed to speak to him, look at him, or even acknowledge his existence. The common members of the faith are only aware that the subject is under anathema if so informed by the church hierarchy; however, clerics, paladins, druids and rangers of the faith can automatically detect an anathema effect simply by looking at the subject. The effect is permanent until lifted, either by the original spellcaster, or by a cleric of the same faith, of a higher level than the caster, who casts an atonement spell upon the subject. The subject of an anathema can also remove its effect by changing his divine allegiance (see Changing Deities, page 233 of the FORGOTTEN REALMS Campaign Setting). Focus: The subject's name must be inscribed in a book or scroll especially consecrated for this purpose and detailing the crimes (real or imagined) for which the subject is being condemned. The book is not consumed in the process. ",
+    "effect": "",
+    "range": " Unlimited",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": " One creature of the same faith as the spellcaster",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Spread of Savagery",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "All living creatures within the area become hostile to anyone not affected by the spell, whether in or out of the area, and regardless of alignment or former association. They are likely to attack such creatures, although they retain their intellect and thus retreat or avoid opponents obviously too powerful for them to overcome. Affected creatures are likely to continue with their normal activities until presented with someone not affected by the spell. Subjects of spread of savagery can identify unaffected creatures by sight through an instinctive, supernatural sense granted by the spell. Arcane Material Component: Three drops of brain fluid from a beast. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " 10-ft./level radius spread",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "End to Strife",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "This spell creates an invisible aura of divine power around the caster. All intelligent creatures within the spell's area suddenly become aware that any hostile actions they take will be met with dire consequences. Any creature in the spell's area that makes an attack takes 20d6 points of damage. The caster decides whether the spell deals lethal or nonlethal damage but cannot change her mind once the spell is cast. Creatures with multiple attacks take the damage after every attack they make. Targets outside the area of the spell may freely attack creatures in the area without taking damage from this spell. ",
+    "effect": "",
+    "range": " 80 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " 80-ft.-radius emanation, centered on you",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

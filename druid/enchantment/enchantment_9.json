@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Anathema",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "champions_of_ruin",
+    "description": "You can permanently break the divine link between your deity and a lower-level cleric, druid, ranger or paladin of your faith, or upon a common worshiper. The spell has no effect on spellcasters of a faith other than your own. You can pronounce an anathema upon any character of your faith, no matter where he is, even if on a different plane. You cannot pronounce an anathema against someone who is already dead. Some deities do not allow an anathema to be pronounced against the innocent or against their chosen, while others grant their high-level clerics free use of this most terrible of divine curses. An individual under anathema can no longer cast divine spells or call upon the power of his god to turn or command undead, heal, harm, smite, shape change, or use any other divine power associated with his character class. An ordinary worshiper placed under anathema is not allowed to take advantage of any of the faith's services, such as healing, naming, marrying, or burial of the dead. Anyone who dies while under anathema is barred from entry into his deity's plane just as though he had never declared allegiance to a god. His soul is condemned to eternally writhe in the Wall ofthe Faithless. On a more personal level, the anathema spell marks the subject as accursed with regard to others of the faith. They are not allowed to speak to him, look at him, or even acknowledge his existence. The common members of the faith are only aware that the subject is under anathema if so informed by the church hierarchy; however, clerics, paladins, druids and rangers of the faith can automatically detect an anathema effect simply by looking at the subject. The effect is permanent until lifted, either by the original spellcaster, or by a cleric of the same faith, of a higher level than the caster, who casts an atonement spell upon the subject. The subject of an anathema can also remove its effect by changing his divine allegiance (see Changing Deities, page 233 of the FORGOTTEN REALMS Campaign Setting). Focus: The subject's name must be inscribed in a book or scroll especially consecrated for this purpose and detailing the crimes (real or imagined) for which the subject is being condemned. The book is not consumed in the process. ",
+    "effect": "",
+    "range": " Unlimited",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": " One creature of the same faith as the spellcaster",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Sympathy",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You cause an object or location to emanate magical vibrations that attract either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The particular kind of creature to be affected must be named specifically—for example, red dragons, hill giants, wererats, lammasus, or vampires. A creature subtype (such as goblinoid) is not specific enough. Likewise, the specific alignment must be named—for example, chaotic evil, chaotic good, lawful neutral, or neutral. Creatures of the specified kind or alignment feel elated and pleased to be in the area or desire to touch or to possess the object. The compulsion to stay in the area or touch the object is overpowering. If the save is successful, the creature is released from the enchantment, but a subsequent save must be made 1d6×10 minutes later. If this save fails, the affected creature attempts to return to the area or object. Sympathy counters and dispels antipathy. Material Component: 1,500 gp worth of crushed pearls and a drop of honey. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One location (up to a 10-ft. cube/level) or one object",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Antipathy",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You cause an object or location to emanate magical vibrations that repel either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you.  The kind of creature to be affected must be named specifically—for example, red dragons, hill giants, wererats, lammasus, cloakers, or vampires.  A creature subtype (such as goblinoid) is not specific enough.  Likewise, the specific alignment to be repelled must be named—for example, chaotic evil, chaotic good, lawful neutral, or neutral. \nCreatures of the designated kind or alignment feel an overpowering urge to leave the area or to avoid the affected item.  A compulsion forces them to abandon the area or item, shunning it and never willingly returning to it while the spell is in effect.  A creature that makes a successful saving throw can stay in the area or touch the item but feels uncomfortable doing so.  This distracting discomfort reduces the creature's Dexterity score by 4 points. \nAntipathy counters and dispels sympathy. \nArcane Material Component: A lump of alum soaked in vinegar. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One location (up to a 10-ft. cube/level) or one object",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

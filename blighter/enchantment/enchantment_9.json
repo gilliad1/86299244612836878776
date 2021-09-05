@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Antipathy",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You cause an object or location to emanate magical vibrations that repel either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you.  The kind of creature to be affected must be named specifically—for example, red dragons, hill giants, wererats, lammasus, cloakers, or vampires.  A creature subtype (such as goblinoid) is not specific enough.  Likewise, the specific alignment to be repelled must be named—for example, chaotic evil, chaotic good, lawful neutral, or neutral. \nCreatures of the designated kind or alignment feel an overpowering urge to leave the area or to avoid the affected item.  A compulsion forces them to abandon the area or item, shunning it and never willingly returning to it while the spell is in effect.  A creature that makes a successful saving throw can stay in the area or touch the item but feels uncomfortable doing so.  This distracting discomfort reduces the creature's Dexterity score by 4 points. \nAntipathy counters and dispels sympathy. \nArcane Material Component: A lump of alum soaked in vinegar. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One location (up to a 10-ft. cube/level) or one object",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

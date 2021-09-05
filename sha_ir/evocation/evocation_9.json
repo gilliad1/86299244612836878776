@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Meteor Swarm",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Meteor swarm is a very powerful and spectacular spell that is similar to fireball in many aspects. When you cast it, four 2-foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks. If you aim a sphere at a specific creature, you may make a ranged touch attack to strike the target with the meteor. Any creature struck by one of these spheres takes 2d6 points of bludgeoning damage (no save) and receives no saving throw against the sphere's fire damage (see below). If a targeted sphere misses its target, it simply explodes at the nearest corner of the target's space. You may aim more than one meteor at the same target. Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, dealing 6d6 points of fire damage to each creature in the area. If a creature is within the area of more than one sphere, it must save separately against each. (Fire resistance applies to each sphere's damage individually). ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Four 40-ft.-radius spreads; see text",
+    "duration": " Instantaneous",
+    "saving_throw": " None or Reflex half; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bigby_s Crushing Hand",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like Bigby's interposing hand, except that the hand can interpose itself, push, or crush one opponent that you select. The crushing hand can grapple an opponent like Bigby's grasping hand does. Its grapple bonus equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively), +12 for the hand's Strength score (35), +4 for being Large. The hand deals 2d6+12 points of damage (lethal, not nonlethal) on each successful grapple check against an opponent. The crushing hand can also interpose itself as Bigby's interposing hand does, or it can bull rush an opponent as Bigby's forceful hand does, but at a +18 bonus. Directing the spell to a new target is a move action. Clerics who cast this spell name it for their deities—St. Cuthbert's crushing hand, for example. Arcane Material Component: The shell of an egg. Arcane Focus: A glove of snakeskin. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,material,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]
