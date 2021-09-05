@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Protection from Possession",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "ghostwalk",
+    "description": "This spell wards a creature against mental control and possession attempts. The spell blocks any attempt to possess the warded creature (as by a magic jar attack or certain ghost feats) or to exercise mental control over the creature (as by a vampire's supernatural domination ability, which works similarly to dominate person). The protection does not prevent a vampire's domination itself, but it prevents the vampire from mentally commanding the protected creature. If the protection from possession effect ends before the domination effect does, the vampire would then be able to mentally command the controlled creature. Likewise, the spell keeps out a possessing life force, but does not expel one if it is in place before the spell is cast. Arcane Material Component: A bit of powdered silver, which is used to mark the forehead of the target creature. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

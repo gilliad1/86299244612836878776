@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mage Burr",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "complete_scoundrel",
+    "description": "Sharp ridges, split leather, and cracking patches of rust spread over your enemy's armor like an angry, irritating disease. Jagged edges and rough surfaces break forth all over the target creature's armor and shield. These protrusions deal no damage and are little more than an uncomfortable annoyance. Arcane spellcasters, however, find the effect most distracting, incurring double the normal arcane spell failure chance for armor and shields. In addition, any creature affected by this spell takes a -5 penalty on Concentration checks. The check penalty does not worsen if an affected creature is both wearing armor and using a shield. For example, a wizard wearing chainmail and carrying a light steel shield would normally have a 35% chance of arcane spell failure. That wizard, if targeted by this spell, would incur a 70% chance of arcane spell failure, as well as taking a -5 penalty on Concentration checks. This spell has no effect on unarmored opponents or on creatures with only natural armor or an AC bonus from items other than armor. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature wearing armor or using a shield",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Armor Lock",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "complete_scoundrel",
+    "description": "The plates and joints of your opponent's armor become as rigid as stone, encumbering his movement. You cause the target's armor to swell and stiffen, slowing the wearer's movement and trapping him within. The target's land speed is reduced to 10 feet. If the target has a burrow, climb, or swim speed, these are also reduced to 10 feet. The target also loses any Dexterity bonus to AC for the duration of the spell. While affected by this spell, the target cannot remove his armor; its joints are too tight and restrictive to escape from. This spell has no effect on unarmored opponents, creatures with only natural armor or an AC bonus from items other than armor, or those using only shields. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature wearing armor",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

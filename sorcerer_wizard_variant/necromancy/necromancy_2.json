@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bonefiddle",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "You rub your middle finger across your thumb like a bow against a fiddle while simultaneously humming a discordant tune under your breath.  Nearby, you see a translucent bone-white fiddle bow appear and sink into the flesh of your target.  It begins sawing, as if playing your target like a fiddle. \nYou call up a ghostly fiddle bow in the air above the targeted creature.  This bow immediately descends into the target body and begins to saw back and forth against its skeleton.  Although the music produced is eerily beautiful, it causes intense pain and anguish in the victim.  Each round on its turn, the victim must make a Fortitude save or take 3d6 points of sonic damage and a —20 penalty on Move Silently checks.  A successful save negates the damage and ends the spell.  The spell's effects continue even if the subject moves so that you no longer have line of sight or line of effect to it. \nFocus: A miniature silver fiddle worth at least 30 gp. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One creature with a skeleton or exoskeleton",
+    "area": "",
+    "duration": " Concentration, up to 1 round/level",
+    "saving_throw": " Fortitude Negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

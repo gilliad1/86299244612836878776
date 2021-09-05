@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Radiant Assault",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "With outstretched hand, you gesture toward the area where the spell will come into effect.  An instant later a blast of multicolored light fills that area. \nThis spell releases energy in the form of a multitude of rainbow-colored beams that erupt in every direction within the area designated by you.  This kaleidoscopic burst of energy deals 1d6 points of damage per caster level (maximum 15d6), and all creatures within the burst are dazed for 1d6 rounds.  Those that succeed on a Will save take only half normal damage and are dazzled for 1d6 rounds instead. \nSightless creatures are unaffected by this spell. \nFocus: An eye from any outsider that has 4 or more Hit Dice. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,arcane focus",
+    "target": "",
+    "area": " 20-ft.- radius burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

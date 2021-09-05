@@ -1,0 +1,18 @@
+[
+  {
+    "name": "False Sending",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "book_of_vile_darkness",
+    "description": "The caster contacts a particular creature with whomshe is familiar and sends a short message of twenty-five words or less to the subject. The subject is convinced that the sender of the message is someone other than the caster, as specified by the caster. The caster must be also familiar with the false sender. The subject can answer in like manner immediately. Creatures with Intelligence scores as low as 1 can understand the sending, though a subject's ability to react is limited normally by its Intelligence. Even if the sending is received, the subject creature is not obligated to act upon it in any manner. If the creature in question is not on the same plane of existence as the caster, there is a 5% chance that the sending does not arrive. (Local conditions on other planes may worsen this chance considerably, at the option of the DM). Arcane Material Component: A short piece of corroded copper wire. ",
+    "effect": "",
+    "range": " See text",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round (see text)",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

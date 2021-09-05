@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Disintegrate",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected. When used against an object, the ray simply disintegrates as much as one 10-foot cube of nonliving matter. Thus, the spell disintegrates only part of any very large object or structure targeted. The ray affects even objects constructed entirely of force, such as Bigby's forceful hand or a wall of force, but not magical effects such as a globe of invulnerability or an antimagic field. A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated. Only the first creature or object struck can be affected; that is, the ray affects only one target per casting. Arcane Material Component: A lodestone and a pinch of dust. ",
+    "effect": " Ray",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Control Weather",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. The current, natural weather conditions are determined by the DM. You can call forth weather appropriate to the climate and season of the area you are in. You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot control specific applications of the weather—where lightning strikes, for example, or the exact path of a tornado. When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later (changing gradually, not abruptly). The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory conditions are not possible simultaneously—fog and strong wind, for example. Control weather can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them. A druid casting this spell doubles the duration and affects a circle with a 3-mile radius. ",
+    "effect": "",
+    "range": " 2 miles",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " 2-mile-radius circle, centered on you; see text",
+    "duration": " 4d12 hours; see text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

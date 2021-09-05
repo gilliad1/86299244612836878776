@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bull_s Strength",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject becomes stronger.  The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier. \nArcane Material Component: A few hairs, or a pinch of dung, from a bull. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Darkvision",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject gains the ability to see 60 feet even in total darkness.  Darkvision is black and white only but otherwise like normal sight.  Darkvision does not grant one the ability to see in magical darkness. \nDarkvision can be made permanent with a permanency spell. \nMaterial Component: Either a pinch of dried carrot or an agate. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

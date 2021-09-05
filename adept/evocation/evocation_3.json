@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Daylight",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that.  Creatures that take penalties in bright light also take them while within the radius of this magical light.  Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light (such as vampires). \nIf daylight is cast on a small object that is then placed inside or under a light-proof covering, the spell's effects are blocked until the covering is removed. \nDaylight brought into an area of magical darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect. \nDaylight counters or dispels any darkness spell of equal or lower level, such as darkness. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Object touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Continual Flame",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  The effect looks like a regular flame, but it creates no heat and doesn't use oxygen.  A continual flame can be covered and hidden but not smothered or quenched. \nLight spells counter and dispel darkness spells of an equal or lower level. \nMaterial Component: You sprinkle ruby dust (worth 50 gp) on the item that is to carry the flame. ",
+    "effect": " Magical, heatless flame",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Object touched",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Lightning Bolt",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips. The lightning bolt sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise, it stops at the barrier just as any other spell effect does. Material Component: A bit of fur and an amber, crystal, or glass rod. ",
+    "effect": "",
+    "range": " 120 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " 120-ft. line",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

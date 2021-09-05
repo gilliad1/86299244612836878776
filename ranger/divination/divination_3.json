@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Guardian Spirit",
+    "school": "divination",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "You bestow a prescient unborn soul on the creature touched, giving him an uncanny ability to anticipate danger. As an immediate action, the target creature can activate the guardian spirit. While active, the spirit's prescience provides the recipient of the spell with a +2 insight bonus on Armor Class, Reflex saving throws, Dexterity checks (including initiative checks), and Dexterity-based skill checks. The guardian spirit remains active for 1 minute, and then its power is expended and the spell ends. No creature can be the target of more than one guardian spirit spell simultaneously. If a second is cast before the first has been discharged, the second spell dissipates to no effect. Essentia: For every point of essentia you invest in this spell, the bonus provided by the spirit improves by 1. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level or until discharged",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

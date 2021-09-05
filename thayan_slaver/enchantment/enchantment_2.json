@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hold Person",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject becomes paralyzed and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. (This is a full-round action that does not provoke attacks of opportunity). A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown. Arcane Focus: A small, straight piece of iron. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": " One humanoid creature",
+    "area": "",
+    "duration": " 1 round/level (D); see text",
+    "saving_throw": " Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

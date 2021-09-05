@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Arcane Lock",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "An arcane lock spell cast upon a door, chest, or portal magically locks it. You can freely pass your own arcane lock without affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell. Add 10 to the normal DC to break open a door or portal affected by this spell. (A knock spell does not remove an arcane lock; it only suppresses the effect for 10 minutes). Material Component: Gold dust worth 25 gp. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " The door, chest, or portal touched, up to 30 sq. ft./level in size",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Obscure Object",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell hides an object from location by divination (scrying) effects, such as the scrying spell or a crystal ball. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person). Arcane Material Component: A piece of chameleon skin. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One object touched of up to 100 lb./level",
+    "area": "",
+    "duration": " 8 hours (D)",
+    "saving_throw": " Will negates (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

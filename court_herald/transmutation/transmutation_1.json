@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Feather Fall",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The affected creatures or objects fall slowly, though faster than feathers typically do. Feather fall instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of afall froma few feet), and the subjects take no damage upon landing while the spell is in effect. However, when the spell duration expires, a normal rate of falling resumes. The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each creature's maximum load) or objects, or the equivalent in larger creatures: A Large creature or object counts as two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth. You can cast this spell with an instant utterance, quickly enough to save yourself if you unexpectedly fall. Casting the spell is a free action, like casting a quickened spell, and it counts toward the normal limit of one quickened spell per round. You may even cast this spell when it isn't your turn. This spell has no special effect on ranged weapons unless they are falling quite a distance. If the spell is cast on a falling item, such as a boulder dropped from the top of a castle wall, the object does half normal damage based on its weight, with no bonus for the height of the drop. (See the Dungeon Master's Guide for information on falling objects). Feather fall works only upon free-falling objects. It does not affect a sword blow or a charging or flying creature. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart",
+    "area": "",
+    "duration": " Until landing or 1 round/level",
+    "saving_throw": " Will negates (harmless) or Will negates (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Erase",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Erase removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove explosive runes, a glyph of warding, a sepia snake sigil, or an arcane mark, but not illusory script or a symbol spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%. Magic writing must be touched to be erased, and you also must succeed on a caster level check (1d20 + caster level) against DC 15. (A natural 1 or 2 is always a failure on this check). If you fail to erase explosive runes, a glyph of warding, or a sepia snake sigil, you accidentally activate that writing instead. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One scroll or two pages",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " See text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

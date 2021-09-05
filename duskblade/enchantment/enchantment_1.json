@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Rouse",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_ii",
+    "description": "With a loud snap of your fingers, you cause any sleeping creatures in the spell's area to awaken. This spell has no effect on creatures that are unconscious due to being reduced to negative hit points, or that have taken nonlethal damage in excess of their current hit points. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " 10-ft.-radius burst",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

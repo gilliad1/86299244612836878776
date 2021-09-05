@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Draconic Might",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "_Upon casting this spell, your ally's face is covered briefly with a fine pattern of yellow scales, the scales, fade, but the golden radiance remains.  The subject of the spell gains a +4 enhancement bonus to Strength, Constitution, and Charisma.  It also gains a +4 enhancement bonus to natural armor.  Finally, it has immunity to magic sleep and paralysis effects. \nSpecial: Sorcerers cast this spell at +1 caster level. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Dragonmarked Weapon, Greater",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "dragonmarked",
+    "description": "As dragonmarked weapon, except that the weapon deals an extra 2d6 points of damage to any dragonmarked creature whose mark does not correspond to the caster's dragonmarked house.  In addition, the weapon's hardness is doubled for the spell's duration. \nDragonmark: Any greater true or aberrant dragonmark, or any Siberys dragonmark. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

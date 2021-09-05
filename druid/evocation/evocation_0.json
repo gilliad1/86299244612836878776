@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Light",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell causes an object to glow like a torch, shedding bright light in a 20-footradius (and dim light for an additional 20 feet) from the point you touch. The effect is immobile, but it can be cast on a movable object. Light taken into an area of magical darkness does not function. A light spell (one with the light descriptor) counters and dispels a darkness spell (one with the darkness descriptor) of an equal or lower level. Arcane Material Component: A firefly or a piece of phosphorescent moss. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material,divine focus",
+    "target": " Object touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Candlelight",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "ghostwalk",
+    "description": "You cause an object to glow like a candle, shedding light in a 5-foot radius from the point you touch. The effect is immobile, but it can be cast on a movable object if desired. The light produced by this cantrip is not strong enough to counter or dispel any magical darkness. Invented by the elves for use in nighttime ceremonies, candlelight has made its way into common usage. It is particularly useful to novices and apprentices who need to spend long hours in study. Arcane Material Component: A tiny candle. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material,divine focus",
+    "target": " Object touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Flare",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by flare. ",
+    "effect": " Burst of light",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Protection from Energy",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Protection from energy grants temporary immunity to the type of energy you specify when you cast it (acid, cold, electricity, fire, or sonic).  When the spell absorbs 12 points per caster level of energy damage (to a maximum of 120 points at 10th level), it is discharged. \nNote: Protection from energy overlaps (and does not stack with) resist energy.  If a character is warded by protection from energy and resist energy, the protection spell absorbs damage until its power is exhausted. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level or until discharged",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

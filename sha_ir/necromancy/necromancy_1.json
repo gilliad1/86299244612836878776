@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cause Fear",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The affected creature becomes frightened.  If the subject succeeds on a Will save, it is shaken for 1 round.  Creatures with 6 or more Hit Dice are immune to this effect. \nCause fear counters and dispels remove fear. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature with 5 or fewer HD",
+    "area": "",
+    "duration": " 1d4 rounds or 1 round; see text",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Ray of Enfeeblement",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A coruscating ray springs from your hand. You must succeed on a ranged touch attack to strike a target. The subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject's Strength score cannot drop below 1. ",
+    "effect": " Ray",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Chill Touch",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level. An undead creature you touch takes no damage of either sort, but it must make a successful Will saving throw or flee as if panicked for 1d4 rounds +1 round per caster level. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature or creatures touched (up to one/level)",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial or Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

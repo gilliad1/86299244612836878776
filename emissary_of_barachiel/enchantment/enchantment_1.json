@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ray of Hope",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "Powerful hope wells up in the subject, who gains a +2 morale bonus on saving throws, attack rolls, ability checks, and skill checks. Ray of hope counters and dispels sorrow (detailed in the Book of Vile Darkness). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

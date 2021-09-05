@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Improved Invisibility",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_3.0",
+    "description": "As invisibility , except the spell doesn't end if the subject attacks. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic",
+    "target": " You or creature touched",
+    "area": "",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": true,
+    "is_30_spell": true
+  },
+  {
+    "name": "Displacement",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "Emulating the natural ability of the displacer beast (see the Monster Manual), the subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment, displacement does not prevent enemies from targeting the creature normally. True seeing reveals its true location. Material Component: A small strip of leather made from displacer beast hide, twisted into a loop. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

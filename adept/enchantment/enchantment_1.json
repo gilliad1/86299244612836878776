@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sleep",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "A sleep spell causes a magical slumber to come upon 4 Hit Dice of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. For example, Mialee casts sleep at one rat (1/4 HD), one kobold (1 HD), two gnolls (2 HD), and an ogre (4 HD). The rat, the kobold, and one gnoll are affected (1/4 + 1 + 2 = 3-1/4 HD). The remaining 3/4 HD is not enough to affect the last gnoll or the ogre. Mialee can't choose to have sleep affect the ogre or the two gnolls. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). Sleep does not target unconscious creatures, constructs, or undead creatures. Material Component: A pinch of fine sand, rose petals, or a live cricket. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " One or more living creatures within a 10-ft.-radius burst",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bless",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects. Bless counters and dispels bane. ",
+    "effect": "",
+    "range": " 50 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " The caster and all allies within a 50-ft. burst, centered on the caster",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Command",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity.  You may select from the following options. \nApproach: On its turn, the subject moves toward you as quickly and directly as possible for 1 round.  The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nDrop: On its turn, the subject drops whatever it is holding.  It can't pick up any dropped item until its next turn. \nFall: On its turn, the subject falls to the ground and remains prone for 1 round.  It may act normally while prone but takes any appropriate penalties. \nFlee: On its turn, the subject moves away from you as quickly as possible for 1 round.  It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nHalt: The subject stands in place for 1 round.  It may not take any actions but is not considered helpless.  \nIf the subject can't carry out your command on its next turn, the spell automatically fails. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

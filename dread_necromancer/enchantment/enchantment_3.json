@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Crushing Despair",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a -2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. Crushing despair counters and dispels good hope. Material Component: A vial of tears. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

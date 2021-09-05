@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tongues",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell grants the creature touched the ability to speak and understand the language of any intelligent creature, whether it is a racial tongue or a regional dialect. The subject can speak only one language at a time, although it may be able to understand several languages. Tongues does not enable the subject to speak with creatures who don't speak. The subject can make itself understood as far as its voice carries. This spell does not predispose any creature addressed toward the subject in any way. Tongues can be made permanent with a permanency spell. Arcane Material Component: A small clay model of a ziggurat, which shatters when the verbal component is pronounced. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "See Invisibility",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible.  Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.  \nThe spell does not reveal the method used to obtain invisibility.  It does not reveal illusions or enable you to see through opaque objects.  It does not reveal creatures who are simply hiding, concealed, or otherwise hard to see. \nSee invisibility can be made permanent with a permanency spell. \nMaterial Component: A pinch of talc and a small sprinkling of powdered silver. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": " You",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Locate Object",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You sense the direction of a well-known or clearly visualized object. The spell locates such objects as apparel, jewelry, furniture, tools, weapons, or even a ladder. You can search for general items such as a stairway, a sword, or a jewel, in which case you locate the nearest one of its kind if more than one is within range. Attempting to find a certain item, such as a particular piece of jewelry, requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails. You cannot specify a unique item (such as \"Baron Vulden's signet ring\") unless you have observed that particular item firsthand (not through divination). The spell is blocked by even a thin sheet of lead. Creatures cannot be found by this spell. Polymorph any object fools it. Arcane Focus: A forked twig. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": " Circle, centered on you, with a radius of 400 ft. + 40 ft./level",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Acid Fog",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "Acid fog creates a billowing mass of misty vapors similar to that produced by a solid fog spell (page 281).  In addition to slowing creatures down and obscuring sight, this spell's vapors are highly acidic.  Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it. \nArcane Material Component: A pinch of dried, powdered peas combined with powdered animal hoof. ",
+    "effect": " Fog spreads in 20-ft. radius, 20 ft. high",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Planar Binding",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like lesser planar binding, except that you may call a single creature of 12 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 12. Each creature gets a save, makes an independent attempt to escape, and must be individually persuaded to aid you. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic",
+    "target": " Up to three elementals or outsiders, totaling no more than 12 HD, no two of which can be more than 30 ft. apart when they appear",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Hold Person, Mass",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like hold person, except as noted above. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": " One or more humanoid creatures, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Power Word Blind",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You utter a single word of power that causes one creature of your choice to become blinded, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 201 or more hit points is unaffected by power word blind. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature with 200 hp or less",
+    "area": "",
+    "duration": " See text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

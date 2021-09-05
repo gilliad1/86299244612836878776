@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Resist Energy",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This abjuration grants a creature limited protection from damage of whichever one of five energy types you select: acid, cold, electricity, fire, or sonic.  The subject gains energy resistance 10 against the energy type chosen, meaning that each time the creature is subjected to such damage (whether from a natural or magical source), that damage is reduced by 10 points before being applied to the creature's hit points.  The value of the energy resistance granted increases to 20 points at 7th level and to a maximum of 30 points at 11th level.  The spell protects the recipient's equipment as well.  \nResist energy absorbs only damage.  The subject could still suffer unfortunate side effects, such as drowning in acid (since drowning damage comes from lack of oxygen) or becoming encased in ice. \nNote: Resist energy overlaps (and does not stack with) protection from energy. If a character is warded by protection from energy and resist energy, the protection spell absorbs damage until its power is exhausted. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Arcane Lock",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "An arcane lock spell cast upon a door, chest, or portal magically locks it. You can freely pass your own arcane lock without affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell. Add 10 to the normal DC to break open a door or portal affected by this spell. (A knock spell does not remove an arcane lock; it only suppresses the effect for 10 minutes). Material Component: Gold dust worth 25 gp. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " The door, chest, or portal touched, up to 30 sq. ft./level in size",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Protection from Arrows",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The warded creature gains resistance to ranged weapons. The subject gains damage reduction 10/magic against ranged weapons. (This spell doesn't grant you the ability to damage creatures with similar damage reduction). Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged. Focus: A piece of shell from a tortoise or a turtle. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level or until discharged",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

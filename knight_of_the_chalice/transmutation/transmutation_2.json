@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bear_s Endurance",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The affected creature gains greater vitality and stamina.  The spell grants the subject a +4 enhancement bonus to Constitution, which adds the usual benefits to hit points, Fortitude saves, Constitution checks, and so forth.  \nHit points gained by a temporary increase in Constitution score are not temporary hit points.  They go away when the subject's Constitution drops back to normal.  They are not lost first as temporary hit points are (see page 146). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bull_s Strength",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject becomes stronger.  The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier. \nArcane Material Component: A few hairs, or a pinch of dung, from a bull. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

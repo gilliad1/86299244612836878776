@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Scrying, Greater",
+    "school": "divination",
+    "sub_school": "scrying",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like scrying, except as noted above.  Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues. ",
+    "effect": " Magical sensor",
+    "range": " See text",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

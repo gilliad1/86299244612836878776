@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dance of Ruin",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "To cast this spell, the caster dances wildly and chants. After she finishes her dance, a wave of crackling energy flashes outward up to the extent of the range. All nondemon creatures within the area take 2d20 points of damage. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Spread centered on caster",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

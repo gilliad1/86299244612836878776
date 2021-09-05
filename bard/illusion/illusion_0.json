@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ghost Sound",
+    "school": "illusion",
+    "sub_school": "figment",
+    "source": "player's_handbook_v.3.5",
+    "description": "Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound ghost sound creates when casting it and cannot thereafter change the sound's basic character. The volume of sound created depends on your level. You can produce as much noise as four normal humans per caster level (maximum twenty humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The noise a ghost sound spell produces can be virtually any type of sound within the volume limit. A horde of rats running and squeaking is about the same volume as eight humans running and shouting. A roaring lion is equal to the noise from sixteen humans, while a roaring dire tiger is equal to the noise from twenty humans. Ghost sound can enhance the effectiveness of a silent image spell. Ghost sound can be made permanent with a permanency spell. Material Component: A bit of wool or a small lump of wax. ",
+    "effect": " Illusory sounds",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Percussion",
+    "school": "illusion",
+    "sub_school": "figment",
+    "source": "song_and_silence:_a_guidebook_to_bards_and_rogues",
+    "description": "Percussion fills the immediate area with the sounds of drums, chimes, and other percussive instruments. The music can range from the gentle tapping of a single tom-tom to the thunder of a squad of drummers. Upon casting the spell, you set the tempo of the drums and the rhythm they repeat. Thereafter, you can change the tempo, rhythm, or volume simply by concentrating for 1 round. Bards often use this spell to provide background accompaniment for their own music and songs. The sounds produced are no louder than real drums would be, but the effect is realistic enough to fool anyone who can't see that no drummers are present. Material Component: Two smooth wooden sticks, which you must touch together to cast the spell. ",
+    "effect": " Illusory sounds",
+    "range": " Close (25ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 5 minutes/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

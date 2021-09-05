@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Desiccate, Mass",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "sandstorm",
+    "description": "This spell functions like desiccate, except that it affects multiple creatures. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "",
+    "target": " One living creature/level, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Mummify",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "sandstorm",
+    "description": "You flash-dry a creature, killing it and preserving it in an instantaneous mummification process. A creature that makes a successful Fortitude saving throw instead takes 6d6 points of dessication damage and is dehydrated. If the damage kills the target, it is still mummified. Arcane Material Component: A strip of salted cloth. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Pox",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "Subjects take 1d4 points of Constitution drain. Their skin breaks out in lesions and takes on a pale yellow pallor. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " Up to one living creature/level, no two of which can be more than 10 ft. apart",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

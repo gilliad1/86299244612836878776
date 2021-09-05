@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Protection from Good",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks from good creatures, and good summoned creatures cannot touch the subject. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Protection from Law",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks from lawful creatures, and lawful summoned creatures cannot touch the subject. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Creature Touched",
+    "area": "",
+    "duration": "",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

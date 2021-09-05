@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lantern Light",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_exalted_deeds",
+    "description": "Rays of holy light flash from your eyes. You can fire 1 ray per 2 caster levels, but no more than 1 ray per round. You must succeed on a ranged touch attack to hit a target. The target takes 1d6 points of damage from each ray. Abstinence Component: You must abstain from sexual intercourse for 24 hours before casting this spell. ",
+    "effect": " Ray",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

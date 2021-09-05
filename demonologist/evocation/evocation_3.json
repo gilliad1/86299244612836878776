@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dread Word",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster speaks a single unique word of pure malevolence—a powerful utterance from the Dark Speech (see Chapter 2). The word is so foul that it harms the very soul of one that hears it. The utterance of a dread word causes one subject within range to take 1d3 points of Charisma drain. The power of this spell protects the caster from the damaging effects of both hearing and knowing the word. To attempt to speak this unique word without using this spell means instant death (and no effect, because the caster dies before she gets the entire word out). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature of good alignment",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Evil Eye",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster focuses malevolent wishes through her gaze and curses someone with bad luck. The subject takes a -4 luck penalty on all attack rolls, saves, and checks. The spell ends at the next sunrise, when dismissed, when a remove curse is cast on the subject, or when the caster takes at least 1 point of damage from the subject. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous (see text)",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

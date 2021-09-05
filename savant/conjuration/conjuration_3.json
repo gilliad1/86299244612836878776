@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Phantom Steed",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You conjure a Large, quasi-real, horselike creature. The steed can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it. The mount has an AC of 18 (-1 size, +4 natural armor, +5 Dex) and 7 hit points +1 hit point per caster level. If it loses all its hit points, the phantom steed disappears. A phantom steed has a speed of 20 feet per caster level, to a maximum of 240 feet. It can bear its rider's weight plus up to 10 pounds per caster level. These mounts gain certain powers according to caster level. A mount's abilities include those of mounts of lower caster levels. Thus, a mount created by a 12th-level caster has the 8th, 10th, and 12th caster level abilities. 8th Level: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed. 10th Level: The mount can use water walk at will (as the spell, no action required to activate this ability). 12th Level: The mount can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground. 14th Level: The mount can fly at its speed (average maneuverability). \nSpecial: When casting phantom steed as a Spider Domain spell, the steed has a vermin shape. ",
+    "effect": " One quasi-real, horselike creature",
+    "range": " 0 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Sleet Storm",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "Driving sleet blocks all sight (even darkvision) within it and causes the ground in the area to be icy. A creature can walk within or through the area of sleet at half normal speed with a DC 10 Balance check. Failure means it can't move in that round, while failure by 5 or more means it falls (see the Balance skill for details). The sleet extinguishes torches and small fires. Arcane Material Component: A pinch of dust and a few drops of water. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " Cylinder (40-ft. radius, 20 ft. high)",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Sepia Snake Sigil",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "When you cast sepia snake sigil, a small symbol appears in the text of one written work such as a book, scroll, or map. The text containing the symbol must be at least twenty-five words long. When anyone reads the text containing the symbol, the sepia snake springs into being and strikes the reader, provided there is line of effect between the symbol and the reader. Simply seeing the enspelled text is not sufficient to trigger the spell; the subject must deliberately read it. The target is entitled to a save to evade the snake's strike. If it succeeds, the sepia snake dissipates in a flash of brown light accompanied by a puff of dun-colored smoke and a loud noise. If the target fails its save, it is engulfed in a shimmering amber field of force and immobilized until released, either at your command or when 1d4 days + one day per caster level have elapsed. While trapped in the amber field of force, the subject does not age, breathe, grow hungry, sleep, or regain spells. It is preserved in a state of suspended animation, unaware of its surroundings. It can be damaged by outside forces (and perhaps even killed), since the field provides no protection against physical injury. However, a dying subject does not lose hit points or become stable until the spell ends. The hidden sigil cannot be detected by normal observation, and detect magic reveals only that the entire text is magical. A dispel magic can remove the sigil. An erase spell destroys the entire page of text. Sepia snake sigil can be cast in combination with other spellsthat hide or garble text, such as secret page. Material Component: 500 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " One touched book or written work",
+    "area": "",
+    "duration": " Permanent or until discharged; until released or 1d4 days + one day/level; see text",
+    "saving_throw": " Reflex negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

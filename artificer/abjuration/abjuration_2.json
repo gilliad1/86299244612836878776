@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Suppress Dragonmark",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "magic_of_eberron",
+    "description": "Using an inversely charged Siberys dragonshard, this spell absorbs the magical energy of the target creature's dragonmark.  In casting the spell, you must touch the target creature with the charged dragonshard, requiring either a ranged or melee touch attack.  If the creature is struck by the Siberys shard and fails its Will save, it loses the ability to use any spell-like abilities granted by its dragonmark for the duration of the spell. \nFocus: A Siberys dragonshard worth at least 25 gp and inversely tuned, a process requiring 1 hour of uninterrupted concentration.  Once the spell is cast, the inverse tuning must be repeated for the focus to work again. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "somatic,arcane focus",
+    "target": " One dragonmarked creature",
+    "area": "",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Ray of Retaliation",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "dragonmarked",
+    "description": "You raise your hand to block an incoming ray attack and absorb the energy into your dragonmark.  An instant later, a ray of force, colored like your dragonmark, springs from your outstretched hand and races back toward your attacker. \nWhen you are hit with a ray attack, you can cast this spell to negate the ray's effect and turn its energy back against its caster.  You must be aware of the ray attack and not flat-footed.  Casting this spell is an immediate action that does not provoke attacks of opportunity.  You must succeed on a ranged touch attack.  If the ray hits and penetrates the target's spell resistance (if any), you deal an amount of force damage determined by the strength of your dragonmark. \n\n\nDragonmark \nForce Damage \n\n\n Least \n 1d6 per 2 caster levels (max.  5d6) \n\n\n Lesser \n 1d8 per 2 caster levels (max.  5d8) \n\n\n Greater or Siberys \n 1d6 per caster level (max.  10d6) \n\n\nYour ray is a force effect with the same range as the original ray.  You cannot use the ray to attack any target other than the caster of the original ray. \nDragonmark: Any true or aberrant dragonmark. ",
+    "effect": "",
+    "range": " See text",
+    "components": "somatic",
+    "target": " See text",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

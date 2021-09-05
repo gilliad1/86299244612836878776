@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Construct Essence, Mass Lesser",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "faiths_of_eberron",
+    "description": "You spread your arms, and about you, your warforged comrades become more durable and unyielding. \nAs lesser construct essence, except as noted above. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living construct/level, no two of which are more than 30 ft. apart",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Circle of Death",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A circle of death snuffs out the life force of living creatures, killing them instantly. The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected first. No creature of 9 or more HD can be affected, and Hit Dice that are not sufficient to affect a creature are wasted. Material Component: The powder of a crushed black pearl with a minimum value of 500 gp. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Several living creatures within a 40-ft.-radius burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

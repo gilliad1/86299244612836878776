@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Flame Arrow",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery projectiles. Each piece of ammunition deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable object or structure, but it won't ignite a creature it strikes. Material Component: A drop of oil and a small piece of flint. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " Fifty projectiles, all of which must be in contact with each other at the time of casting",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

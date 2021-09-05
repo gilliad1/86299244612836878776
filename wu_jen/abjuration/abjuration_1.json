@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shield",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Shield creates an invisible, tower shield-sized mobile disk of force that hovers in front of you. It negates magic missile attacks directed at you. The disk also provides a +4 shield bonus to AC. This bonus applies against incorporeal touch attacks, since it is a force effect. The shield has no armor check penalty or arcane spell failure chance. Unlike with a normal tower shield, you can't use the shield spell for cover. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Endure Elements",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A creature protected by endure elements suffers no harm from being in a hot or cold environment.  It can exist comfortably in conditions between -50 and 140 degrees Fahrenheit without having to make Fortitude saves (as described in the Dungeon Master's Guide).  The creature's equipment is likewise protected. \nEndure elements doesn't provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

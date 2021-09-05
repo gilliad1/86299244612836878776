@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ray of Hope",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "Powerful hope wells up in the subject, who gains a +2 morale bonus on saving throws, attack rolls, ability checks, and skill checks. Ray of hope counters and dispels sorrow (detailed in the Book of Vile Darkness). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Vision of Heaven",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_exalted_deeds",
+    "description": "Your words allow the target creature the merest glimpse of the blessed joy of the SevenHeavens, spurring the target to a moment of regret for its evil deeds. For 1 round, the target is dazed. In addition, the creature is more susceptible to future redemption. For the next 24 hours, the creature takes a -1 penalty on all Will saves related to redemption (see Chapter 2). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One evil creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Resist Elements",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "psionics_handbook_3.0",
+    "description": "As endure elements, except resist elements absorbs the first 12 points of damage. Note: Resist elements overlaps (and does not stack with) endure elements and protection from elements.  If a character is warded by protection from elements and one or both of the other spells, the protection spell absorbs damage until it is exhausted.  If a character is warded by resist elements and endure elements at the same time, the resist spell absorbs damage but the endure spell does not. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

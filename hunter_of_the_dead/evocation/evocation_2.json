@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Continual Flame",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  The effect looks like a regular flame, but it creates no heat and doesn't use oxygen.  A continual flame can be covered and hidden but not smothered or quenched. \nLight spells counter and dispel darkness spells of an equal or lower level. \nMaterial Component: You sprinkle ruby dust (worth 50 gp) on the item that is to carry the flame. ",
+    "effect": " Magical, heatless flame",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Object touched",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

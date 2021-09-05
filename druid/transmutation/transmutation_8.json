@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Earth Glide",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "races_of_stone",
+    "description": "You give the subject the ability to glide through earth and stone as easily as an earth elemental does. The affected creature can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. A move earth spell cast on an area containing the affected creature flings the creature back 30 feet and stuns the creature for 1 round unless it succeeds on a DC 15 Fortitude save. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Fimbulwinter",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "",
+    "effect": "",
+    "range": " 1 mile/level",
+    "components": "verbal,somatic,experience",
+    "target": "",
+    "area": " 1 mile/level radius, centered on you",
+    "duration": " 4d12 weeks",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Frostfell",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "The area you designate becomes a frigid and icy environment, immediately dropping the temperature by 3 temperature bands. For example, if the temperature is moderate, it drops to extreme cold (see page 9). If the new temperature is below the cold band, all water is turned to ice and all earth and stone becomes everfrost to a depth of 10 feet per caster level. Air within the area freezes, resulting in a heavy snowstorm lasting for the duration of the spell. Snow accumulates only if the ground temperature is below the moderate band. Living creatures caught within the area when the spell is cast instantly turn to ice (as per the flesh to ice spell). If a creature successfully saves, frostfell deals 1d6 points of frostburn damage per caster level (maximum 20d6). Creatures entering the area after the spell has been cast do not take this damage; however, all creatures in the area are subject to the normal effects of cold, snow, and ice for the duration of the spell. Objects in the area, including those held by creatures, are instantly covered in a thin layer of frost, making them slippery. When a creature uses a frosted item (a weapon, lockpicks, a potion, and so on), it must succeed on a DC 10 Dexterity check or it drops the item before it can be used. Cold spells cast within the area gain a +1 caster level. Multiple frostfells may be cast in the same area to increase the effects (dropping the temperature by an additional 3 bands). The temperature band cannot be dropped below unearthly cold, no matter how many times frostfell has been cast. Arcane Material Component: A pinch of dust and a few drops of water. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " 20-ft. cube/level",
+    "duration": " 1 hour/level",
+    "saving_throw": " Fortitude partial; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

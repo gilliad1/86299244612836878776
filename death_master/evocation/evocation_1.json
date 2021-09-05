@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Shocking Grasp",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Your successful melee touch attack deals 1d6 points of electricity damage per caster level (maximum 5d6). When delivering the jolt, you gain a +3 bonus on attack rolls if the opponent is wearing metal armor (or made out of metal, carrying a lot of metal, or the like). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature or object touched",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

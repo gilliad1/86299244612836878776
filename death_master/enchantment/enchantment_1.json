@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bane",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "Bane fills your enemies with fear and doubt.  Each affected creature takes a -1 penalty on attack rolls and a -1 penalty on saving throws against fear effects.  \nBane counters and dispels bless. ",
+    "effect": "",
+    "range": " 50 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " All enemies within 50 ft.",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Command",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity.  You may select from the following options. \nApproach: On its turn, the subject moves toward you as quickly and directly as possible for 1 round.  The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nDrop: On its turn, the subject drops whatever it is holding.  It can't pick up any dropped item until its next turn. \nFall: On its turn, the subject falls to the ground and remains prone for 1 round.  It may act normally while prone but takes any appropriate penalties. \nFlee: On its turn, the subject moves away from you as quickly as possible for 1 round.  It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nHalt: The subject stands in place for 1 round.  It may not take any actions but is not considered helpless.  \nIf the subject can't carry out your command on its next turn, the spell automatically fails. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

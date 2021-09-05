@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Shivering Touch",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "On a successful melee touch attack, you instantly suck the heat from the target's body, rendering it numb.  The target takes 3d6 points of Dexterity damage. \nCreatures with the cold subtype are immune to the effects of shivering touch. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bless",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects. Bless counters and dispels bane. ",
+    "effect": "",
+    "range": " 50 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " The caster and all allies within a 50-ft. burst, centered on the caster",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

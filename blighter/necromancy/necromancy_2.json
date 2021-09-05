@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Inflict Moderate Wounds",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like inflict light wounds, except that you deal 2d8 points of damage +1 point per caster level (maximum +10). ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Death Knell",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You draw forth the ebbing life force of a creature and use it to fuel your own power. Upon casting this spell, you touch a living creature that has -1 or fewer hit points. If the subject fails its saving throw, it dies, and you gain 1d8 temporary hit points and a +2 bonus to Strength. Additionally, your effective caster level goes up by +1, improving spell effects dependent on caster level. (This increase in effective caster level does not grant you access to more spells). These effects last for 10 minutes per HD of the subject creature. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " Instantaneous/10 minutes per HD of subject; see text",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Chill Touch",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level. An undead creature you touch takes no damage of either sort, but it must make a successful Will saving throw or flee as if panicked for 1d4 rounds +1 round per caster level. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature or creatures touched (up to one/level)",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial or Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

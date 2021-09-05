@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Heart_s Ease",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "Heart's ease cures emotional wounds in the same way that heal wipes away physical ones. The subjects are cured of any fear effect, despair effect (such as the crushing despair spell), or similar mindaffecting condition, excluding charms and compulsions (such as charm person, dominate person, and similar spells). It removes any lingering psychological effects of torture (including the increased effectiveness of torture devices, as described in the Book of Vile Darkness). It cures confusion and insanity, restores 2d4 points of Wisdom damage (but not permanent Wisdom drain), and leaves the targets feeling refreshed and at peace. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One creature/level",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

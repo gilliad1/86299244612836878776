@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fire Trap",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Fire trap creates a fiery explosion when an intruder opens the item that the trap protects. A fire trap can ward any object that can be opened and closed (book, box, bottle, chest, coffer, coffin, door, drawer, and so forth). When casting fire trap, you select a point on the object as the spell's center. When someone other than you opens the object, a fiery explosion fills the area within a 5-foot radius around the spell's center. The flames deal 1d4 points of fire damage +1 point per caster level (maximum +20). The item protected by the trap is not harmed by this explosion. A fire trapped item cannot have a second closure or warding spell placed on it. A knock spell does not bypass a fire trap. An unsuccessful dispel magic spell does not detonate the spell. Underwater, this ward deals half damage and creates a large cloud of steam. You can use the fire trapped object without discharging it, as can any individual to whom the object was specifically attuned when cast. Attuning a fire trapped object to an individual usually involves setting a password that you can share with friends. Note:Magic traps such as fire trap are hard to detect and disable. A rogue (only) can use the Search skill to find a fire trap and Disable Device to thwart it. The DC in each case is 25 + spell level (DC 27 for a druid's fire trap or DC 29 for the arcane version). Material Component: A half-pound of gold dust (cost 25 gp) sprinkled on the warded object. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Object touched",
+    "area": "",
+    "duration": " Permanent until discharged (D)",
+    "saving_throw": " Reflex half; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Resist Elements",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "psionics_handbook_3.0",
+    "description": "As endure elements, except resist elements absorbs the first 12 points of damage. Note: Resist elements overlaps (and does not stack with) endure elements and protection from elements.  If a character is warded by protection from elements and one or both of the other spells, the protection spell absorbs damage until it is exhausted.  If a character is warded by resist elements and endure elements at the same time, the resist spell absorbs damage but the endure spell does not. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

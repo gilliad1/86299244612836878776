@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Blade of Pain and Fear",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "A three-foot-long column of disembodied gnashing teeth springs forth from your hand. \nFor the duration of the spell, you can make melee touch attacks that deal 1d6 points of damage +1 point per two caster levels (maximum +10).  Your Strength modifier does not apply to the damage.  A creature that you successfully deal damage to must also make a Will saving throw or become frightened for 1d4 rounds. ",
+    "effect": " Swordlike column of gnashing teeth",
+    "range": " 0 ft",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Darklight",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster makes one creature or object radiate special darkness called darklight in a 5-foot-radius sphere. This spell is most useful in a large, naturally dark area. Within the darklight sphere, creatures that can normally see in the light can see, even though there is no light. Only creatures and objects in the sphere can be seen, and only creatures in the sphere can see within the sphere, unless other observers can naturally see in the dark. Thus, while two creatures in the sphere can see each other, a creature standing outside the sphere can neither see the creatures in the sphere (assuming it doesn't have darkvision), nor can it be seen by them. A creature with darkvision standing outside the sphere could see those within the sphere, but those inside could not discern the creature. The darklight spell's sphere is invisible in normal light and does not function in magical darkness. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " One creature or object touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Veil of Shadow",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "You speak the words of this spell, and tendrils of purple darkness rise from the ground, surrounding you and concealing you from your foes. \nSwirling wisps of darkness obscure your form, granting you concealment.  The 20% miss chance is in effect even if the attacker has darkvision. \nThis spell effect is dispelled in daylight or in the area of a light spell of 3rd level or higher. \nSee invisibility does not counter a veil of shadow's concealment effect, but a true seeing spell does. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

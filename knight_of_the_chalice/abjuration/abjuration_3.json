@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dispel Magic",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Because magic is so powerful, so too is the ability to dispel magic.  You can use dispel magic to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster's spell.  A dispelled spell ends as if its duration had expired.  Some spells, as detailed in their descriptions, can't be defeated by dispel magic.  Dispel magic can dispel (but not counter) spell-like effects just as it does spells. \nNote: The effect of a spell with an instantaneous duration can't be dispelled, because the magical effect is already over before the dispel magic can take effect.  Thus, you can't use dispel magic to repair damage caused by a fireball or to turn a petrified character back to flesh.  In these cases, the magic has departed, leaving only burned flesh or perfectly normal stone in its wake. \nYou choose to use dispel magic in one of three ways: a targeted dispel, an area dispel, or a counterspell:\nTargeted Dispel: One object, creature, or spell is the target of the dispel magic spell.  You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature.  The DC for this dispel check is 11 + the spell's caster level. \nFor example, Mialee, at 5th level, targets dispel magic on a drow who is under the effects of haste, mage armor, and bull's strength.  All three spells were cast on the drow by a 7th-level wizard.  Mialee makes a dispel check (1d20 + 5 against DC 18) three times, once each for the haste, mage armor, and bull's strength effects.  If she succeeds on a particular check, that spell is dispelled (the drow's spell resistance doesn't help him); if she fails, that spell remains in effect. \nIf you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), you make a dispel check to end the spell that conjured the object or creature. \nIf the object that you target is a magic item, you make a dispel check against the item's caster level.  If you succeed, all the item's magical properties are suppressed for 1d4 rounds, after which the item recovers on its own.  A suppressed item becomes nonmagical for the duration of the effect.  An interdimensional interface (such as a bag of holding) is temporarily closed.  A magic item's physical properties are unchanged: A suppressed magic sword is still a sword (a masterwork sword, in fact).  Artifacts and deities are unaffected by mortal magic such as this. \nYou automatically succeed on your dispel check against any spell that you cast yourself. \nArea Dispel: When dispel magic is used in this way, the spell affects everything within a 20-foot radius. \nFor each creature within the area that is the subject of one or more spells, you make a dispel check against the spell with the highest caster level.  If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell (which discharges the dispel magic spell so far as that target is concerned) or until you fail all your checks.  The creature's magic items are not affected. \nFor each object within the area that is the target of one or more spells, you make dispel checks as with creatures.  Magic items are not affected by an area dispel. \nFor each ongoing area or effect spell whose point of origin is within the area of the dispel magic spell, you can make a dispel check to dispel the spell. \nFor each ongoing spell whose area overlaps that of the dispel magic spell, you can make a dispel check to end the effect, but only within the overlapping area. \nIf an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning) is in the area, you can make a dispel check to end the spell that conjured that object or creature (returning it whence it came) in addition to attempting to dispel spells targeting the creature or object. \nYou may choose to automatically succeed on dispel checks against any spell that you have cast. \nCounterspell: When dispel magic is used in this way, the spell targets a spellcaster and is cast as a counterspell (page 170).  Unlike a true counterspell, however, dispel magic may not work; you must make a dispel check to counter the other spellcaster's spell. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": " One spellcaster, creature, or object; or 20-ft.-radius burst",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Protection from Energy",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Protection from energy grants temporary immunity to the type of energy you specify when you cast it (acid, cold, electricity, fire, or sonic).  When the spell absorbs 12 points per caster level of energy damage (to a maximum of 120 points at 10th level), it is discharged. \nNote: Protection from energy overlaps (and does not stack with) resist energy.  If a character is warded by protection from energy and resist energy, the protection spell absorbs damage until its power is exhausted. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level or until discharged",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Magic Circle Against Evil",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "All creatures within the area gain the effects of a protection from evil spell, and no nongood summoned creatures can enter the area either. You must overcome a creature's spell resistance in order to keep it at bay (as in the third function of protection from evil), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies' spell resistance. This spell has an alternative version that you may choose when casting it. A magic circle against evil can be focused inward rather than outward. When focused inward, the spell binds a nongood called creature (such as those called by the lesser planar binding, planar binding, and greater planar binding spells) for a maximum of 24 hours per caster level, provided that you cast the spell that calls the creature within 1 round of casting the magic circle. The creature cannot cross the circle's boundaries. If a creature too large to fit into the spell's area is the subject of the spell, the spell acts as a normal protection from evil spell for that creature only. A magic circle leaves much to be desired as a trap. If the circle of powdered silver laid down in the process of spellcasting is broken, the effect immediately ends. The trapped creature can do nothing that disturbs the circle, directly or indirectly, but other creatures can. If the called creature has spell resistance, it can test the trap once a day. If you fail to overcome its spell resistance, the creature breaks free, destroying the circle. A creature capable of any form of dimensional travel (astral projection, blink, dimension door, etherealness, gate, plane shift, shadow walk, teleport, and similar abilities) can simply leave the circle through that means. You can prevent the creature's extradimensional escape by casting a dimensional anchor spell on it, but you must cast the spell before the creature acts. If you are successful, the anchor effect lasts as long as the magic circle does. The creature cannot reach across the magic circle, but its ranged attacks (ranged weapons, spells, magical abilities, and the like) can. The creature can attack any target it can reach with its ranged attacks except for the circle itself. You can add a special diagram (a two-dimensional bounded figure with no gaps along its circumference, augmented with various magical sigils) to make the magic circle more secure. Drawing the diagram by hand takes 10 minutes and requires a DC 20 Spellcraft check. The DM makes this check secretly. If the check fails, the diagram is ineffective. You can take 10 (see page 65) when drawing the diagram if you are under no particular time pressure to complete the task. This task also takes 10 full minutes. If time is no factor at all, and you devote 3 hours and 20 minutes to the task, you can take 20. A successful diagram allows you to cast a dimensional anchor spell on the magic circle during the round before casting any summoning spell. The anchor holds any called creatures in the magic circle for 24 hours per caster level. A creature cannot use its spell resistance against a magic circle prepared with a diagram, and none of its abilities or attacks can cross the diagram. If the creature tries a Charisma check to break free of the trap (see the lesser planar binding spell), the DC increases by 5. The creature is immediately released if anything disturbs the diagram—even a straw laid across it. However, the creature itself cannot disturb the diagram either directly or indirectly, as noted above. This spell is not cumulative with protection from evil and vice versa. Arcane Material Component: A little powdered silver with which you trace a 3-footdiameter circle on the floor (or ground) around the creature to be warded. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " 10-ft.-radius emanation from touched creature",
+    "duration": " 10 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

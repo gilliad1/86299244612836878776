@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bewildering Substitution",
+    "school": "illusion",
+    "sub_school": "phantasm",
+    "source": "complete_champion",
+    "description": "You channel the mockery of the trickster deities to sow dissension among your opponents. By casting this spell, you cause the subject to believe that one ally and one enemy have traded places. The ally physically closest to the subject now seems to have the appearance, voice, clothing, and gear of its nearest enemy, and that enemy looks and sounds exactly like the subject's nearest ally. Both the ally and the enemy must be within the spell's range, and the effect ends immediately if either moves out of its range from you. The illusion affects only the subject. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bewildering Visions",
+    "school": "illusion",
+    "sub_school": "phantasm",
+    "source": "complete_champion",
+    "description": "You channel mischievous divine energy to envelop your foe in sickened disorientation. This spell makes the world appear to be tossing and rippling in a nauseating manner. The subject is sickened for the duration of the spell and must make a Fortitude save or be nauseated. This saving throw must be repeated each round. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Know the Shadows",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "oriental_adventures",
+    "description": "You bend surrounding shadows and blend them to yourself, making yourself one with the darkness. As long as you remain within 10 feet of some kind of shadow (except your own shadow) or within at least moderate darkness, your ability to hide is greatly enhanced. You can hide yourself from view in the open without anything to hide behind, even while being observed, and you gain a +20 circumstance bonus on Hide checks. Unlike invisibility, this spell's effects do not end when you attack, though you cannot hide and attack at the same time. You are clearly visible while attacking (and thus do not gain a +2 bonus on your attack for being invisible, nor is your target denied its Dexterity bonus to AC), but you can use a move-equivalent action to hide again after attacking (or hide as part of a move action), and you still gain the +20 circumstance bonus on your Hide check. Your opponent can ready an action to attack you when you come into view to attack. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "somatic,divine focus",
+    "target": " You",
+    "area": "",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

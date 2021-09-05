@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Early Twilight",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "heroes_of_battle",
+    "description": "Early twilight suppresses light in its area, even casting a shadow over daylight. This effect reduces the illumination in the area by one category (from bright light to shadowy, or from shadowy to darkness). It does not stack with other magical darkness effects. Unlike other spells with the darkness descriptor, early twilight counters and dispels battlefield illumination (see page 125) but not other light spells. Arcane Material Component: A black veil. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,material,divine focus",
+    "target": "",
+    "area": " 80-ft.-radius cylinder, 40 ft. high",
+    "duration": " 10 minutes/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

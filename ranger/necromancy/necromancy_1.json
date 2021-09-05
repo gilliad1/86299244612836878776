@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ease of Breath",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "You grant the target the ability to survive in thin air, conferring a +20 inherent bonus on Fortitude saves to resist altitude sickness as well as saving throws to resist becoming fatigued due to altitude or thin air. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

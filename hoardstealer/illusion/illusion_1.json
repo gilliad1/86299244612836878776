@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ghost Sound",
+    "school": "illusion",
+    "sub_school": "figment",
+    "source": "player's_handbook_v.3.5",
+    "description": "Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound ghost sound creates when casting it and cannot thereafter change the sound's basic character. The volume of sound created depends on your level. You can produce as much noise as four normal humans per caster level (maximum twenty humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The noise a ghost sound spell produces can be virtually any type of sound within the volume limit. A horde of rats running and squeaking is about the same volume as eight humans running and shouting. A roaring lion is equal to the noise from sixteen humans, while a roaring dire tiger is equal to the noise from twenty humans. Ghost sound can enhance the effectiveness of a silent image spell. Ghost sound can be made permanent with a permanency spell. Material Component: A bit of wool or a small lump of wax. ",
+    "effect": " Illusory sounds",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Nystul_s Magic Aura",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "You alter an item's aura so that it registers to detect spells (and spells with similar capabilities) as though it were nonmagical, or a magic item of a kind you specify, or the subject of a spell you specify. You could make an ordinary sword register as a +2 vorpal sword as far as magical detection is concerned or make a +2 vorpal sword register as if it were a +1 sword or even a nonmagical sword. If the object bearing Nystul's magic aura has identify cast on it or is similarly examined, the examiner recognizes that the aura is false and detects the object's actual qualities if he succeeds on a Will save. Otherwise, he believes the aura and no amount of testing reveals what the true magic is. If the targeted item's own aura is exceptionally powerful (if it is an artifact, for instance), Nystul's magic aura doesn't work. Note: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura. Focus: A small square of silk that must be passed over the object that receives the aura. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One touched object weighing up to 5 lb./level",
+    "area": "",
+    "duration": " One day/level (D)",
+    "saving_throw": " None; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

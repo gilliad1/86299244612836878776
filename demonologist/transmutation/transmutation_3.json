@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Distort Summons",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster creates an area in which only evil creatures can be magically summoned. No matter what a later caster attempts to summon, he actually summons an evil version (a fiendish beast rather than a celestial one, for example) or an evil equivalent (a devil rather than a formian). If the summoner was attempting to summon a good or neutral creature, the evil creature that appears does not obey the commands of the summoner or attack his enemies. Instead, it attacks the summoner, and the spell that summoned the evil creature cannot be dismissed. A distort summons spell can be dispelled normally, however. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " 50-ft.-radius spread",
+    "duration": " 1 hour/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  },
+  {
+    "name": "Dancing Chains",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster can control one chain per level as a standard action, making the chains dance or move as she wishes. In addition, the caster can increase the chains' length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as spiked chains that use the caster's normal ranged attack bonus on attack rolls or grapple checks (treat each chain as Medium-size when grappling). The caster can climb a chain she controls at normal speed without making a Climb check. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One chain per level within range",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Bestow Greater Curse",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster places a curse on the creature touched, choosing one of the following three effects:\n\nOne ability score is reduced to 1, or two ability scores take -6 penalties (to a minimum score of 1). \n-8 penalty on attack rolls, saving throws, ability checks, and skill checks. \nEach turn, the subject has a 25% chance to act normally; otherwise, he takes no action. \nA player may invent a new curse, but it should be no more powerful than those listed above, and the Dungeon Master (DM) has final say on the curse's effect. A greater curse cannot be dispelled, nor can it can be removed with a break enchantment, limited wish, or remove curse spell. A miracle or wish spell removes the greater curse, and any particular greater curse can be removed if the subject performs some deed that the caster designates. The deed must be something that the subject can accomplish within one year (assuming he undertakes it immediately). For example, the deed might be \"Slay the dragon under Castle Bluecraft\", or \"Climb the tallest mountain in the world\". The cursed victim can have help accomplishing the task, and in some cases another character can lift the curse (see the Curses section of Chapter 2 for guidelines). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

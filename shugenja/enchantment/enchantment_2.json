@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Interfaith Blessing",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "complete_champion",
+    "description": "You feel your deity speaking through you to other gods, filling the space around you with diverse divine energies that strengthen your ally. \nWhen you cast interfaith blessing, every creature within range is individually blessed by its own deity for the duration of the spell.  The specific blessing gained depends on the particular deity worshiped, as given on the table below.  A subject that venerates more than one deity must roll randomly to determine which blessing is received. \n\n\nDeity \nBlessing \n\n\n Bahamut, St.  Cuthbert, or Yondalla \n +1 on attack rolls and saves \n\n\n Boccob, Corellon Larethian, Vecna, or Wee Jas \n +1 on attack rolls and skill checks \n\n\n Ehlonna, Obad-Hai, or the general worship of nature \n +1 on attack rolls and to AC \n\n\n Erythnul, Gruumsh, or Lolth \n +2 on damage rolls \n\n\n Fharlanghn, Moradin, or Pelor \n +2 to AC \n\n\n Garl Glittergold, Olidammara, or no deity \n Roll 1d8 to determine blessing; a result of 6 is player's choice \n\n\n Heironeous, Hextor, or Nerull \n +2 on attack rolls \n\n\n Kord, Kurtulmak, or Tiamat \n +1 on attack rolls and damage rolls",
+    "effect": "",
+    "range": " 20 ft. Area: 20-ft.-radius burst centered on you",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

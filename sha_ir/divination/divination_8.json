@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Moment of Prescience",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell grants you a powerful sixth sense in relation to yourself. Once during the spell's duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, opposed ability or skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect doesn't take an action; you can even activate it on another character's turn if needed. You must choose to use the moment of prescience before you make the roll it is to modify. Once used, the spell ends. You can't have more than one moment of prescience active on you at the same time. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 hour/level or until discharged",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Discern Location",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A discern location spell is among the most powerful means of locating creatures or objects.  Nothing short of a mind blank spell or the direct intervention of a deity keeps you from learning the exact location of a single individual or object.  Discern location circumvents normal means of protection from scrying or location.  The spell reveals the name of the creature or object's location (place, name, business name, building name, or the like), community, county (or similar political division), country, continent, and the plane of existence where the target lies. \nTo find a creature with the spell, you must have seen the creature or have some item that once belonged to it.  To find an object, you must have touched it at least once. ",
+    "effect": "",
+    "range": " Unlimited",
+    "components": "verbal,somatic,divine focus",
+    "target": " One creature or object",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Prying Eyes, Greater",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like prying eyes, except that the eyes can see all things as they actually are, just as if they had true seeing with a range of 120 feet. Thus, they can navigate darkened areas at full normal speed. Also, a greater prying eye's maximum Spot modifier is +25 instead of +15. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

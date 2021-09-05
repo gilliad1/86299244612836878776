@@ -1,0 +1,34 @@
+[
+  {
+    "name": "False Peacebond",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "cityscape",
+    "description": "The weapon glows with a faint aura. For just a moment, your companion shimmers to match, before the light fades. This spell functions as peacebond (see the facing page), except that you can choose a single individual who can draw the weapon freely. This individual might be yourself, or anyone else present at the time of casting. Once this individual draws the weapon, the false peacebondeffect ends; resheathing the weapon does not reactivate the spell. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Investiture of the Spined Devil",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "fiendish_codex_ii:_tyrants_of_the_nine_hells",
+    "description": "The air stinks of sulfur and brimstone as you use the essence of a spinagon to imbue a creature with the power of Baator. You cause a creature to suddenly bristle with spines. The subject can snap its body forward to unleash a volley of up to three spines as a standard action (make a separate attack roll for each spine). The spines each deal 1d6 points of damage plus the subject's Strength modifier. This attack has a range of 60 feet with no range increment. The spines can be directed against different targets if desired, but all targets must be within 30 feet of one another. The subject can launch up to fifteen spines per casting of this spell. In addition, the subject gains resistance to fire 5. This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the spined devil). While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture. After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute. Material Component: A fist-sized chunk of brimstone. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

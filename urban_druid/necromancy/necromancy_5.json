@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Death Ward",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects (such as from inflict spells or chill touch). \nThis spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level. \nDeath ward does not protect against other sorts of attacks, such as hit point loss, poison, or petrification, even if those attacks might be lethal. \n(note: Heroes of Horror lists this spell as both a 3rd and 4th level spell for the Dread Necromancer). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Eyes of the Avoral",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "book_of_exalted_deeds",
+    "description": "The subject gains an avoral's sharp eyesight, receiving a +8 racial bonus on Spot checks for the duration of the spell. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Enlarge Person, Mass",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like enlarge person, except that it affects multiple creatures. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": " One humanoid creature/level, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Suppress Legacy",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "weapons_of_legacy",
+    "description": "You temporarily disrupt the bond between the target creature and a single legacy item it possesses. The target loses access to all legacy abilities granted by that item. For the duration of the spell, it cannot activate any of the item's legacy abilities, nor do any continuous effects of the legacy item grant any benefit to the target. If the target has more than one legacy item, determine randomly which one is affected. This effect cannot be dispelled, but it can be negated by break enchantment, remove curse, or any other effect that removes a curse. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Spirit Self",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "complete_arcane",
+    "description": "You can send your spirit outside yourself in an incorporeal form while maintaining some semblance of life within your physical body. Your spirit is treated as an incorporeal creature for the purposes of determining movement, special qualities, and weaknesses, and has a speed of 90 feet but cannot move more than 200 feet from your body. In your spirit form, a spellcaster using commune with lesser spirit or commune with greater spirit can contact you, and you can cast spells that have only verbal components. You cannot attack physically or otherwise affect the physical world, and you can return your spirit to your body on your turn as a standard action. While you function in your spirit form, your body assumes a half-awake state, able to take only one move action per round, losing its Dexterity bonus to Armor Class (if any), and granting its foes a +2 bonus on attack rolls against it. Within 5 feet of your body, you can command it to take simple actions such as walking, talking (in a slow, slurred fashion), or eating. Damage taken by either your spirit or your body is subtracted from your hit point total, and if you are reduced to 0 or fewer hit points, you die. Likewise, you die if your body moves more than 200 feet from your spirit form and you cannot follow (while under the effects of a spirit needle, for example), or if you are otherwise prevented from returning to your body when the spell ends. Material Component: A small prayer wheel. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": " You",
+    "area": "",
+    "duration": " 1 minute (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Symbol of Pain",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like symbol of death, except that each creature within the radius of a symbol of pain instead suffers wracking pains that impose a -4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol. Unlike symbol of death, symbol of pain has no hit point limit; once triggered, a symbol of pain simply remains active for 10 minutes per caster level. Note:Magic traps such as symbol of pain are hard to detect and disable. A rogue (only) can use the Search skill to find a symbol of pain and Disable Device to thwart it. The DC in each case is 25 + spell level, or 30 for symbol of pain. Material Component:Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 1,000 gp. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

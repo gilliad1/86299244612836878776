@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bane",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "Bane fills your enemies with fear and doubt.  Each affected creature takes a -1 penalty on attack rolls and a -1 penalty on saving throws against fear effects.  \nBane counters and dispels bless. ",
+    "effect": "",
+    "range": " 50 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " All enemies within 50 ft.",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

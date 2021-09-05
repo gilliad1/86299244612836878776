@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Hold Animal",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like hold person, except that it affects an animal instead of a humanoid. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic",
+    "target": " One animal",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Train Animal",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "spell_compendium",
+    "description": "At last, you near the end of the spell's complicated procedure.  As the final act of the ritual, you call out the tricks you wish to teach the animal you are touching.  Your hand tingles for a moment as the spell takes effect. \nWhile this spell is in effect, the affected animal gains a number of additional tricks equal to half your caster level (maximum five). \nThis spell does not modify an animal's attitude toward you, nor does it guarantee that an animal will cooperate when instructed to perform the newly learned tricks. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Animal touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bottomless Hate",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "ghostwalk",
+    "description": "You fill yourself with a terrible hatred against your favored enemies. Against them you gain a +1 morale bonus on attack and damage rolls for every three caster levels. This spell is suppressed by spells such as calm emotions. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

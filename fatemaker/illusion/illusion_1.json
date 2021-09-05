@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Disguise Self",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "You make yourself—including clothing, armor, weapons, and equipment—look different.  You can seem 1 foot shorter or taller, thin, fat, or in between.  You cannot change your body type.  For example, a human caster could look human, humanoid, or like any other human-shaped bipedal creature.  Otherwise, the extent of the apparent change is up to you.  You could add or obscure a minor feature or look like an entirely different person.  The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment.  A battleaxe made to look like a dagger still functions as a battleaxe. \nIf you use this spell to create a disguise, you get a +10 bonus on the Disguise check. \nA creature that interacts with the glamer gets a Will save to recognize it as an illusion.  For example, a creature that touched you and realized that the tactile sensation did not match the visual one would be entitled to such a save. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

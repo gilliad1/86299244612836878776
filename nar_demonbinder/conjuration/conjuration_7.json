@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Summon Monster VII",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \nSpecial\nWhen casting Summon Monster VII as a Abyss Domain spell, only Chaotic Evil creatures may be summoned. When casting Summon Monster VII as a Arborea Domain spell, only Chaotic Good creatures may be summoned. When casting Summon Monster VII as a Baator Domain spell, only Lawful Evil creatures may be summoned. When casting Summon Monster VII as a Celestia Domain spell, only Lawful Good creatures may be summoned. \n7TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial elephant \n LG \n\n\n Avoral (guardinal) \n NG \n\n\n Celestial baleen whale 1 \n NG \n\n\n Djinni (genie) \n CG \n\n\n Elemental, Huge (any) \n N \n\n\n Invisible stalker \n N \n\n\n Slaad, red \n CN \n\n\n Devil, bone \n LE \n\n\n Fiendish megaraptor \n LE \n\n\n Fiendish monstrous scorpion, Huge \n NE \n\n\n Babau (demon) \n CE \n\n\n Fiendish giant octopus 1 \n CE \n\n\n Fiendish girallon \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

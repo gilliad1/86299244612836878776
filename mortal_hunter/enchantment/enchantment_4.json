@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Morality Undone",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster turns one creature evil. The chaotic/neutral/lawful component of the subject's alignment is unchanged. The subject retains whatever outlook, allegiances, and outlooks it had before, so long as they do not conflict with the new alignment. Otherwise, it acts with its new selfish, bloodthirsty, cruel outlook on all things. For example, a wizard might not immediately turn on her fighter companion for no apparent reason, particularly in the middle of a combat when they're fighting on the same side. But she might try to steal the fighter's bag of gems, even using applicable spells (charm person, suggestion, and invisibility, for instance) against her friend. She might even eventually decide to betray or attack her friend if there is some potential gain involved. Using this spell in conjunction with a spell such as dominate person or suggestion is particularly useful, because it changes what acts are against a subject's nature. Arcane Material Component: A powdered holy symbol. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One nonevil creature",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

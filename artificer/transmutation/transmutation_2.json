@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ignite Dragonmark",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "dragonmarked",
+    "description": "With a soft utterance and a sharp thrust of your hand, you cause the target's dragonmark to burst into flame. \nThe target's dragonmark ignites momentarily, dealing it 1d6 points of fire damage per caster level (maximum 5d6).  In addition, the target cannot use any of its dragonmark powers for 1 round per 5 points of damage taken (rounded down). \nDragonmark: Any true or aberrant dragonmark. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": " One dragonmarked creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will half; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Construct Essence, Lesser",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "races_of_eberron",
+    "description": "When this spell is cast upon a living construct, it takes on more of the qualities of a true construct.  The living construct gains the moderate fortification armor special quality, negating critical hits and sneak attacks 75% of the time.  As well, the living construct gains low-light vision and immunity to nonlethal damage and stunning. \nThis spell counters and dispels lesser humanoid essence.  If this spell is cast on a creature under the effect of lesser humanoid essence, both spells are dispelled and have no effect.  It has no effect if cast on a creature under the effect of humanoid essence or greater humanoid essence. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living construct touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

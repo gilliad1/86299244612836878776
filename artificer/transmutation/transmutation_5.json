@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dragonmarked Weapon, Greater",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "dragonmarked",
+    "description": "As dragonmarked weapon, except that the weapon deals an extra 2d6 points of damage to any dragonmarked creature whose mark does not correspond to the caster's dragonmarked house.  In addition, the weapon's hardness is doubled for the spell's duration. \nDragonmark: Any greater true or aberrant dragonmark, or any Siberys dragonmark. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Construct Essence",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "races_of_eberron",
+    "description": "As lesser construct essence with the following additional effects.  The living construct becomes immune to critical hits, sneak attacks, ability damage, ability drain, death effects, and necromancy effects.  The living construct also gains darkvision out to 60 feet. \nThis spell counters and dispels lesser humanoid essence and humanoid essence.  If this spell is cast on a creature under the effect of lesser humanoid essence, the latter spell is automatically ended.  If this spell is cast on a creature under the effect of humanoid essence, both spells are dispelled and have no effect.  It has no effect if cast on a creature under the effect of greater humanoid essence. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living construct touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

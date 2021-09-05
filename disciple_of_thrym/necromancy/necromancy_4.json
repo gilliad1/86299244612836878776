@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Frostburn",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "This spell functions like lesser frostburn, except that it deals 3d12 points of frostburn damage +1 point per caster level (maximum +20). ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

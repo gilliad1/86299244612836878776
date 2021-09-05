@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Kiss of the Toad",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "complete_arcane",
+    "description": "Your touch becomes toxic, poisoning a creature you hit with a successful melee touch attack. The poison deals 1d6 points of Constitution damage immediately and another 1d6 points of Constitution damage 1 minute later. Each instance of damage can be negated with a successful Fortitude save. Focus: A tattoo of a toad on your skin. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " Instantaneous; see text",
+    "saving_throw": " Fortitude negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Blackrot",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "The plant-matter creaks and writhes beneath your hand as you generate a malignant rot at its center. This spell allows you to deliver a single touch that either damages a plant creature over a number of rounds or renders a wooden weapon poisonous. When used as a touch attack against a plant creature, the spell deals 1d8 points of damage per round. A successful Fortitude save reduces the duration to 1 round. Alternatively, you can touch a weapon with a wooden striking surface (such as a club or quarterstaff). Any creature damaged by the weapon is sickened for 1 round unless it succeeds on a Fortitude save. Treat this as a poison effect for creatures immune or resistant to such effects. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " One plant creature or one wooden weapon touched",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Fortitude partial or Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shatter",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Shatter creates a loud, ringing noise that breaks brittle, nonmagical objects; sunders a single solid, nonmagical object; or damages a crystalline creature. Used as an area attack, shatter destroys nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, and so forth. All such objects within a 5-foot radius of the point of origin are smashed into dozens of pieces by the spell. Objects weighing more than 1 pound per your level are not affected, but all other objects of the appropriate composition are shattered. Alternatively, you can target shatter against a single solid object, regardless of composition, weighing up to 10 pounds per caster level. Targeted against a crystalline creature (of any weight), shatter deals 1d6 points of sonic damage per caster level (maximum 10d6), with a Fortitude save for half damage. Arcane Material Component: A chip of mica. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " 5-ft.-radius spread; or one solid object or one crystalline creature",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates (object); Will negates (object) or Fortitude half; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Darkness",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell causes an object to radiate shadowy illumination out to a 20-foot radius. All creatures in the area gain concealment (20% miss chance). Even creatures that can normally see in such conditions (such as with darkvision or lowlight vision) have the miss chance in an area shrouded in magical darkness. Normal lights (torches, candles, lanterns, and so forth) are incapable of brightening the area, as are light spells of lower level (such as light or dancing lights). Higher level light spells (such as daylight) are not affected by darkness. If darkness is cast on a small object that is then placed inside or under a lightproof covering, the spell's effect is blocked until the covering is removed. Darkness counters or dispels any light spell of equal or lower spell level. Arcane Material Component: A bit of bat fur and either a drop of pitch or a piece of coal. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material,divine focus",
+    "target": " Object touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

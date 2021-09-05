@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ghost Light",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "complete_arcane",
+    "description": "You create a ghostly green radiance anywhere within range that shines with the brightness of a torch and is imbued with unearthly power, causing creatures within 30 feet to become shaken unless they succeed on a Will save. The light can be shaped to any Medium or smaller form, and can move at a speed of 30 feet as long as you maintain concentration on the spell (so that you can shape the effect into a human form and make it seem to walk or fly, for example). The shape of a ghost light can be changed at any time during the spell's duration as a free action. Material Component: A bit of phosphorus. ",
+    "effect": " One Medium or smaller ghostly light",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " Concentration",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

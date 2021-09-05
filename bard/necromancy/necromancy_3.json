@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Curse of Impending Blades, Mass",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "This spell functions like curse of impending blades, except that it affects multiple enemies. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Enemies in a 20-ft.-radius burst",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Fear",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save.  If cornered, a panicked creature begins cowering.  (See the Dungeon Master's Guide for more information on fear-panicked creatures).  If the Will save succeeds, the creature is shaken for 1 round. \nMaterial Component: Either the heart of a hen or a white feather. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " 1 round/level or 1 round; see text",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Curse of Impending Blades, Legion_s",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "miniatures_handbook",
+    "description": "This spell functions like curse of impending blades, except that it affects multiple enemies. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "",
+    "target": " Enemies in a 20-ft.-radius burst",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

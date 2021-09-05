@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Thunderhead",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "Black mist forms near the ground and sweeps upward to join a small cloud forming above the creature you designate as your target.  Miniature peals of thunder erupt from the cloud. \nThunderhead creates a small thundercloud over the subject's head.  The cloud moves with the subject, following it unerringly even if he becomes invisible or leaves the region.  In every round of the spell's duration, a miniature bolt of lightning leaps from the thundercloud to strike the subject.  Each bolt deals 1 point of electricity damage that is negated by a successful Reflex save. \nMaterial Component: A small piece of copper wire. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One Creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Reflex negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Darsson_s Cooling Breeze",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "shining_south",
+    "description": "You create a light breeze (approximately 9 mph) that originates from a point you designate, affecting all creatures, gasses, clouds, and fogs in its path. Any airborne vapors, fumes, clouds, smoke, and gasses drift away from the point at a speed of 80 feet per round and dissipate in one-fourth the normal time. In addition to the effects noted, the cooling breeze can do anything that a normal breeze would be expected to do. It can move wind chimes, scatter pieces of paper or parchment, cause candle or hearth flames to flicker, and so forth. Darsson's cooling breeze can be made permanent with a permanency spell. ",
+    "effect": " Line-shaped breeze emanating out from a point you designate within 10 feet of you to the extreme of the range",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

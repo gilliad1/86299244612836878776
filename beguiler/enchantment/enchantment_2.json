@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Whelming Blast",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_ii",
+    "description": "You stretch your arms before you, spread your hands wide, and unleash an invisible cone of magical power that assails the minds of the creatures within it. You assail the mental faculties of creatures in the area, dealing 1d6 points of nonlethal damage per two caster levels (maximum 5d6 at 10th level) to each creature that fails its save. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Stay the Hand",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "player's_handbook_ii",
+    "description": "Your words invoke compassion and mercy in the merciless. If the target creature fails its save against stay the hand, it refrains from attacking you or targeting you with spells for the remainder of the current round. You can cast this spell during an opponent's turn after the opponent announces its intention to attack you or target you with a spell. If the opponent becomes subject to this spell, it can choose a new target to attack, but it takes a -4 circumstance penalty on its attack roll due to the sudden change of intentions at the last second. Likewise, the subject of this spell can redirect a spell that had been targeted on you, but it must succeed on a Concentration check (DC 15 + the spell's level) or the spell is wasted. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal",
+    "target": " One humanoid",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Daze Monster",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like daze, but daze monster can affect any one living creature of any type. Creatures of 7 or more HD are not affected. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "",
+    "target": " One living creature of 6 HD or less",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

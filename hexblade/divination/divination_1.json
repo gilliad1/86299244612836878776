@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Detect Weaponry",
+    "school": "divination",
+    "sub_school": "",
+    "source": "cityscape",
+    "description": "With your final utterance, tiny bits of the world around you begin to glow. The points of light grow in brightness and size, finally taking the general dimensions of swords, axes, and other implements of death. You can detect the presence of weapons in a cone emanating out from you in whatever direction you face. A \"weapon\" is generally defined as any manufactured weapon. The spell detects improvised weapons such as bottles or pitchforks only if the wielder actively intends to use such an item as a weapon. The amount of information revealed by this spell depends on how long you search a particular area. 1st Round: Presence or absence of weapons. 2nd Round: Number of weapons in the area. 3rd Round: Specific locations of the weapons and the type of damage they deal (bludgeoning, piercing, or slashing). This spell does not reveal if weapons are magical, or anything else about them. Weapons hidden by secret weapon, or borne by individuals who are under the effect of a nondetection spell, do not register. Each round, you can turn to detect weapons in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet or wood or dirt blocks it. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped emanation",
+    "duration": " Concentration, up to 10 min./level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

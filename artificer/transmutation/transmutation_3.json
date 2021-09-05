@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dragonmarked Weapon",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "dragonmarked",
+    "description": "You imbue the touched weapon with the power of your dragonmark, a ghostly likeness of which appears on the weapon's surface. \nA weapon under the effect of this spell deals an extra 1d6 points of damage to any dragonmarked creature whose mark does not correspond to the caster's dragonmarked house.  Because aberrant dragonmarks are unique, a dragonmarked weapon created by a caster with an aberrant dragonmark deals its extra damage to all dragonmarked creatures (except the caster).  In addition, a dragonmarked weapon's hardness increases by 50% for the spell's duration. \nA mundane weapon under the effect of this spell is treated as a magic weapon for the purpose of bypassing damage reduction. \nCasting this spell on a bow, crossbow, or sling bestows the extra damage benefit upon the weapon's ammunition. \nDragonmark: Any true or aberrant dragonmark. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

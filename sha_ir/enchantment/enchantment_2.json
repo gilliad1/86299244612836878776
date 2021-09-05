@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Touch of Idiocy",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "With a touch, you reduce the target's mental faculties.  Your successful melee touch attack applies a 1d6 penalty to the target's Intelligence, Wisdom, and Charisma scores.  This penalty can't reduce any of these scores below 1. This spell's effect may make it impossible for the target to cast some or all of its spells, if the requisite ability score drops below the minimum required to cast spells of that level. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " No",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Daze Monster",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like daze, but daze monster can affect any one living creature of any type. Creatures of 7 or more HD are not affected. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "",
+    "target": " One living creature of 6 HD or less",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Tasha_s Hideous Laughter",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell afflicts the subject with uncontrollable laughter. It collapses into gales of manic laughter, falling prone. The subject can take no actions while laughing, but is not considered helpless. After the spell ends, it can act normally. A creature with an Intelligence score of 2 or lower is not affected. A creature whose type (such as humanoid or dragon) is different from the caster's receives a +4 bonus on its saving throw, because humor doesn't \"translate\" well. Material Component: Tiny tarts that are thrown at the target and a feather that is waved in the air. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One creature; see text",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

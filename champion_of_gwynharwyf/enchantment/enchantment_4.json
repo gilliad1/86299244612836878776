@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sword of Conscience",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "The target creature, which must be evil, is struck by pangs of conscience and remorse. The creature instantaneously takes Wisdom and Charisma damage according to the magnitude of its evil. The creature regains lost abilities normally; they do not automatically return when the spell's duration expires. This effect is not language-dependent. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,divine focus",
+    "target": " One evil creature",
+    "area": "",
+    "duration": " Instantaneous; see text",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

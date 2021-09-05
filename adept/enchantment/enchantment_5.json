@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bewildering Mischance",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "complete_champion",
+    "description": "Your deity's laughter rains down on your suddenly clumsy foe. Bewildering mischance causes extreme bad luck to befall the target. For the duration of the spell, the subject must roll each saving throw, attack roll, and skill check twice, keeping the lower of the two rolls. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

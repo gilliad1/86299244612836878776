@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Warcry",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "You unleash a tremendous battle cry that causes creatureswithin a 30-foot cone to cower in fear for 1d4 rounds. Any creature that fails its Fortitude save loses its Dexterity bonus to AC and can take no actions. Foes gain a +2 bonus to hit cowering creatures. ",
+    "effect": " Cone-shaped burst",
+    "range": " 30 ft.",
+    "components": "verbal",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

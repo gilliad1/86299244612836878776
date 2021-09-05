@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Heartache",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster fills the subject with heart-wrenching sorrow that renders it incapacitated for 1 round. The subject cannot move or take actions and is helpless for that round. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

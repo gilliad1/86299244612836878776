@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ease of Breath",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "You grant the target the ability to survive in thin air, conferring a +20 inherent bonus on Fortitude saves to resist altitude sickness as well as saving throws to resist becoming fatigued due to altitude or thin air. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Sunstroke",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "sandstorm",
+    "description": "You cause a living creature to experience the effects of heatstroke. The target takes 2d6 points of nonlethal damage. If the target fails a Fortitude save, it immediately becomes fatigued, or exhausted if already fatigued. Since this spell causes heatstroke, the damage and fatigue dealt can only be healed after that condition is treated properly (see page 13). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

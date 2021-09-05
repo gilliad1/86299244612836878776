@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Locate Object",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You sense the direction of a well-known or clearly visualized object. The spell locates such objects as apparel, jewelry, furniture, tools, weapons, or even a ladder. You can search for general items such as a stairway, a sword, or a jewel, in which case you locate the nearest one of its kind if more than one is within range. Attempting to find a certain item, such as a particular piece of jewelry, requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails. You cannot specify a unique item (such as \"Baron Vulden's signet ring\") unless you have observed that particular item firsthand (not through divination). The spell is blocked by even a thin sheet of lead. Creatures cannot be found by this spell. Polymorph any object fools it. Arcane Focus: A forked twig. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": " Circle, centered on you, with a radius of 400 ft. + 40 ft./level",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

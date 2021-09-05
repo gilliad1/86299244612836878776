@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Summon Monster VI",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n6TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial polar bear \n LG \n\n\n Celestial orca whale 1 \n NG \n\n\n Bralani (eladrin) \n CG \n\n\n Celestial dire lion \n CG \n\n\n Elemental, Large (any) \n N \n\n\n Janni (genie) \n N \n\n\n Chaos beast \n CN \n\n\n Devil, chain \n LE \n\n\n Xill \n LE \n\n\n Fiendish monstrous centipede, Gargantuan \n NE \n\n\n Fiendish rhinoceros \n NE \n\n\n Fiendish elasmosaurus 1 \n CE \n\n\n Fiendish monstrous spider, Huge \n CE \n\n\n Fiendish snake, giant constrictor \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Call Faithful Servants",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "book_of_exalted_deeds",
+    "description": "You call 1d4 lawful good lantern archons from Celestia, 1d4 chaotic good coure eladrins from Arborea, or 1d4 neutral good musteval guardinals from Elysium to your location. They serve you for up to one year as guards, soldiers, spies, or whatever other holy purpose you have. No matter how many times you cast this spell, you can control no more than 2 HD worth of celestials per caster level. If you exceed this number, all the newly called creatures fall under your control, and any excess servants from previous castings return to their home plane. Abstinence Component: The character must abstain from casting Conjuration spells for 3 days prior to casting this spell. ",
+    "effect": " 1d4 lantern archons, coure eladrins, or musteval guardinals",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

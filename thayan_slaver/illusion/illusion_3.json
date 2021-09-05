@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Improved Invisibility",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_3.0",
+    "description": "As invisibility , except the spell doesn't end if the subject attacks. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic",
+    "target": " You or creature touched",
+    "area": "",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

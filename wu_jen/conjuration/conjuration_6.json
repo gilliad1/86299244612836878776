@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Summon Monster VI",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n6TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial polar bear \n LG \n\n\n Celestial orca whale 1 \n NG \n\n\n Bralani (eladrin) \n CG \n\n\n Celestial dire lion \n CG \n\n\n Elemental, Large (any) \n N \n\n\n Janni (genie) \n N \n\n\n Chaos beast \n CN \n\n\n Devil, chain \n LE \n\n\n Xill \n LE \n\n\n Fiendish monstrous centipede, Gargantuan \n NE \n\n\n Fiendish rhinoceros \n NE \n\n\n Fiendish elasmosaurus 1 \n CE \n\n\n Fiendish monstrous spider, Huge \n CE \n\n\n Fiendish snake, giant constrictor \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Wall of Iron",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You cause a flat, vertical iron wall to spring into being. This wall can be used to seal off a passage or close a breach, for the wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space. A wall of iron is 1 inch thick per four caster levels. You can double the wall's area by halving its thickness. Each 5-foot square of the wall has 30 hit points per inch of thickness and hardness 10. A section of wall whose hit points drop to 0 is breached. If a creature tries to break through the wall with a single attack, the DC for the Strength check is 25 + 2 per inch of thickness. If you desire, the wall can be created vertically resting on a flat surface but not attached to the surface, so that it can be tipped over to fall on and crush creatures beneath it. The wall is 50% likely to tip in either direction if left unpushed. Creatures can push the wall in one direction rather than letting it fall randomly. A creature must make a DC 40 Strength check to push the wall over. Creatures with room to flee the falling wall may do so by making successful Reflex saves. Any Large or smaller creature that fails takes 10d6 points of damage. The wall cannot crush Huge and larger creatures. Like any iron wall, this wall is subject to rust, perforation, and other natural phenomena. Material Component: A small piece of sheet iron plus gold dust worth 50 gp (1 pound of gold dust). ",
+    "effect": " Iron wall whose area is up to one 5-ft. square/level; see text",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " See text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

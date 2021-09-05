@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Charm Monster",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like charm person, except that the effect is not restricted by creature type or size. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " One day/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

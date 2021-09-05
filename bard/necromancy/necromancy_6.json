@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wave of Pain",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "All living creatures within the cone are overcome with pain and suffering. They are stunned for the duration of the spell. A creature with no discernible anatomy is unaffected by this spell. Material Component: A needle. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "somatic,material",
+    "target": "",
+    "area": " Cone",
+    "duration": " 1 round/2 levels",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Eyebite",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Each round, you may target a single living creature, striking it with waves of evil power.  Depending on the target's HD, this attack has as many as three effects. \n\n\nHD \nEffect \n\n\n 10 or more \nSickened \n\n\n 5-9 \n Panicked, sickened \n\n\n 4 or less \n Comatose, panicked, sickened \n\n\nThe effects are cumulative and concurrent. \nSickened: Sudden pain and fever sweeps over the subject's body.  A sickened creature takes a -2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks.  A creature affected by this spell remains sickened for 10 minutes per caster level.  The effects cannot be negated by a remove disease or heal spell, but a remove curse is effective. \nPanicked: The subject becomes panicked for 1d4 rounds.  Even after the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.  This is a fear effect. \nComatose: The subject falls into a catatonic coma for 10 minutes per caster level.  During this time, it cannot be awakened by any means short of dispelling the effect.  This is not a sleep effect, and thus elves are not immune to it. \nThe spell lasts for 1 round per three caster levels.  You must spend a move action each round after the first to target a foe. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round per three levels; see text",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Soul Link",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "fiendish_codex_i:_hordes_of_the_abyss",
+    "description": "You draw forth a scrap of parchment and speak the name written on it in blood. The parchment turns to dust as you touch the targeted creature with you other hand, creating a potent link between the two of you. You can use a soul link to monitor the subject's condition and location, as though it were affected by a status spell. You and the subject can also communicate telepathically as long as you are both on the same plane. By concentrating, you can also use scrying upon the subject, which is permitted no saving throw to resist. In addition, the subject takes a -4 penalty on any saving throw made to resist a mind-affecting spell or ability you use against it. At the time the spell is cast, you can choose to take a -2 penalty to one of your ability scores in order to grant the subject a +2 enhancement bonus to that same ability score. If you use this option, the subject chooses the ability score affected for both of you and takes a -4 penalty on its saving throw to resist the effects of this spell. You can have only one soul link in effect at a time. If you cast this spell a second time, the soul link already active ends immediately, regardless of the outcome of the second casting. Material Component: A piece of parchment with the target's name (or detailed physical description) written upon it in your own blood. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

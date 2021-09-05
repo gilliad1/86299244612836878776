@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Summon Monster III",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1d3 creatures of the same kind from the 2nd-level list, or 1d4+1 creatures of the same kind from the 1st-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \nSpecial\nWhen casting Summon Monster III as a Abyss Domain spell, only Chaotic Evil creatures may be summoned. When casting Summon Monster III as a Arborea Domain spell, only Chaotic Good creatures may be summoned. When casting Summon Monster III as a Baator Domain spell, only Lawful Evil creatures may be summoned. When casting Summon Monster III as a Celestia Domain spell, only Lawful Good creatures may be summoned. \n3RD LEVEL\n\n\nMonster \nAlignment \n\n\n Celestial black bear \n LG \n\n\n Celestial bison \n NG \n\n\n Celestial dire badger \n CG \n\n\n Celestial hippogriff \n CG \n\n\n Elemental, Small (any) \n N \n\n\n Fiendish ape \n LE \n\n\n Fiendish dire weasel \n LE \n\n\n Hell hound \n LE \n\n\n Fiendish snake, constrictor \n LE \n\n\n Fiendish boar \n NE \n\n\n Fiendish dire bat \n NE \n\n\n Fiendish monstrous centipede, Huge \n NE \n\n\n Fiendish crocodile \n CE \n\n\n Dretch (demon) \n CE \n\n\n Fiendish snake, Large viper \n CE \n\n\n Fiendish wolverine \n CE",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

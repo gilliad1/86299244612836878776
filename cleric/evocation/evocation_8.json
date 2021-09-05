@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Illusion Purge",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "races_of_eberron",
+    "description": "You surround yourself with a powerful sphere of magical clarity that negates all illusions of 7th level or lower.  Anything concealed or altered by illusion appears in its natural state while in the area. ",
+    "effect": "",
+    "range": " 5 ft./level",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " 5-ft.-radius/level emanation, centered on you",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

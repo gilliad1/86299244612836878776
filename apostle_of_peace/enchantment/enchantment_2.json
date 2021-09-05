@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Yoke of Mercy",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "book_of_exalted_deeds",
+    "description": "This spell compels a creature up to 4 HD more than the caster's level to fight in a merciful manner. Specifically, the creature deals nonlethal damage with its attacks, avoids using damaging spells or spell-like abilities, and does not deliver a coup de grace to a helpless foe. Abstinence Component: You must not have dealt damage, by spell or any other means, to another living creature within the last 8 hours before casting this spell. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

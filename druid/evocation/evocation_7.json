@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Haze of Smoldering Stone",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "dragon_magic",
+    "description": "Glowing embers swirl around your body, then fly outward to pummel nearby foes with searing volcanic rock. This spell projects hundreds of tiny, burning volcanic rocks outward from your body, dealing 4d6 points of bludgeoning damage and 8d6 points of fire damage. If you cast haze of smoldering stone again before the end of your next turn, the second casting deals 5d6 points of bludgeoning damage and 10d6 points of fire damage. Special: A character who learns this spell gains resistance to fire 3, which stacks with any other resistance to fire he already possesses. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

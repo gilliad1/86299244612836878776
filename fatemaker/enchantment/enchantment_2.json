@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Daze Monster",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like daze, but daze monster can affect any one living creature of any type. Creatures of 7 or more HD are not affected. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "",
+    "target": " One living creature of 6 HD or less",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

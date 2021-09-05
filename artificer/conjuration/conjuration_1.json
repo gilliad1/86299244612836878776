@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Summon Marked Homunculus",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "dragonmarked",
+    "description": "This spell allows a caster with the Mark of Making to summon a special homunculus.  If you possess a least Mark of Making, you can summon a dedicated wright, expeditions messenger, or furtive filcher homunculus (ECS 284-286), or an arbalester homunculus (Magic of Eberron 152).  If you possess a more powerful Mark of Making, you can instead summon a true homunculus (MM 154), an iron defender (ECS 287), a packmate (MoE 153), or a persistent harrier (MoE 153). A small glyph resembling your dragonmark appears somewhere on the homunculus's body.  If the homunculus is reduced to 0 hit points, it explodes in a burst of blue, green, and purple light that deals 1d6 points of damage to all adjacent creatures except you. \nMaterial Component: A pinch of dragonshard dust. \nDragonmark: Any Mark of Making",
+    "effect": " One summoned homunculus",
+    "range": " Close (25ft. + 5ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

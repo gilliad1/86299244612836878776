@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Blockade",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "complete_scoundrel",
+    "description": "You drop a tiny wooden block before you. It rapidly begins growing and hits the ground with a heavy thud, now a perfect 5-foot cube of dense wood. You call a cube of solid wood, 5 feet on a side, into being. The cube must be created upon solid ground in an empty square. If no solid surface exists that is large enough for the cube to fit on, or if no adjacent square is empty, the spell fails. The cube weighs 2,000 pounds. It has a hardness of 5 and 600 hit points, and it completely fills one 5-foot square. Multiple cubes can be stacked. If it is pushed into water, the cube floats. Material Component: A block of wood, less than 3 inches on a side. ",
+    "effect": " 5-ft. cube of wood",
+    "range": " 0 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 3 rounds",
+    "saving_throw": " No",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Deep Breath",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "spell_compendium",
+    "description": "You let out a quick cry and instantly feel your chest swell with air, as if you had taken a deep breath.  Strangely, you feel no need to exhale. \nYour lungs instantly fill with air, and continue to refill with air for the duration of the spell.  When the spell's duration expires, you can continue to hold your breath as if you had just gulped down a lungful of air. \nYou can cast this spell with an instant utterance, quickly enough to save yourself from drowning after being suddenly plunged into water. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal",
+    "target": " You",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

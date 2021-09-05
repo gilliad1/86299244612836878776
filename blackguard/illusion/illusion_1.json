@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Secret Weapon",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "cityscape",
+    "description": "At your touch, the weapon seems to disappear from view. You enable someone to hide a weapon on his person. The weapon does not become truly invisible so much as easily overlooked. Secret weapon adds +20 to the Sleight of Hand check to conceal a light weapon, and +10 to the check to conceal a larger weapon (even one normally too large to conceal). A \"weapon\" is defined as any manufactured weapon. With the aid of this spell, you can attempt to hide a weapon even if you do not possess the Sleight of Hand skill. Additionally, you can hide the presence of a weapon from detection spells, although true seeing penetrates the glamer. Material Component: A thin black cloth. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

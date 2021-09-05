@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Masochism",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "For every 10 points of damage the caster takes in a given round, he gains a +1 luck bonus on attack rolls, saving throws, and skill checks made in the following round. The more damage the caster takes, the greater the luck bonus. It's possible to get a luck bonus in multiple rounds if the caster takes damage in more than one round during the spell's duration. Material Component: A leather strap that has been soaked in the caster's blood. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": " Caster",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  },
+  {
+    "name": "Sadism",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "For every 10 points of damage the caster deals in a given round while under the effect of this spell, she gains a +1 luck bonus on attack rolls, saving throws, and skill checks in the next round. The more damage the caster deals, the greater the luck bonus. It's possible to get a luck bonus for multiple rounds if she deals damage in more than one round during the spell's duration. Material Component: A leather strap that has been soaked in human blood. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": " Caster",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

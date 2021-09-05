@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dimensional Anchor",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck by the ray is covered with a shimmering emerald field that completely blocks extradimensional travel. Forms of movement barred by a dimensional anchor include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. The spell also prevents the use of a gate or teleportation circle for the duration of the spell. A dimensional anchor does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms, such as a basilisk's gaze. Also, dimensional anchor does not prevent summoned creatures from disappearing at the end of a summoning spell. ",
+    "effect": " Ray",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Dismissal",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell's save DC – creature's HD + your caster level).  If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One extraplanar creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

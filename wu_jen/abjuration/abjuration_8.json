@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mysterious Redirection",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "Your foe's attacks mysteriously veer toward other targets. This spell creates a field around you that deflects physical blows. The field affects melee and ranged attacks made with natural or manufactured weapons, but not spells or magical attacks unless they are delivered with a physical touch attack. Anyone who aims a melee or ranged attack against you must make a Will save to overcome the spell's effect. If the save fails, all attacks that individual makes against you while the spell lasts have a 50% chance to be deflected to another target instead. Spell resistance applies to this effect. If a melee attack is deflected, the new target must be a creature both adjacent to you and within your attacker's melee reach. If a ranged attack is deflected, the new target must be both adjacent to you and within your attacker's range. If more than one target is available, determine which creature is attacked randomly. Any combat modifiers (such as cover) apply to the attack. A creature that has total cover against the attacker can't be selected as a target, nor can the attacker. If no eligible target exists, the attack misses. As an immediate action while the spell lasts, you can choose to redirect a deflected attack back at the attacker. You can wait to make this decision until after you know an attack has been deflected, but you must do so before you know which creature is the target of the deflected attack. Using this ability ends the spell's duration. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 5 rounds or until expended",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Mind Blank",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject is protected from all devices and spells that detect, influence, or read emotions or thoughts. This spell protects against all mind-affecting spells and effects as well as information gathering by divination spells or effects. Mind blank even foils limited wish, miracle, and wish spells when they are used in such a way as to affect the subject's mind or to gain information about it. In the case of scrying that scans an area the creature is in, such as arcane eye, the spell works but the creature simply isn't detected. Scrying attempts that are targeted specifically at the subject do not work at all. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

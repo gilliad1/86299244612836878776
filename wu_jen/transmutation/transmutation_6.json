@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Control Water",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Depending on the version you choose, the control water spell raises or lowers water. Lower Water: This causes water or similar liquid to reduce its depth by as much as 2 feet per caster level (to a minimum depth of 1 inch). The water is lowered within a squarish depression whose sides are up to caster level x 10 feet long. In extremely large and deep bodies of water, such as a deep ocean, the spell creates a whirlpool that sweeps ships and similar craft downward, putting them at risk and rendering them unable to leave by normal movement for the duration of the spell. When cast on water elementals and other water-based creatures, this spell acts as a slow spell (Will negates). The spell has no effect on other creatures. Raise Water: This causes water or similar liquid to rise in height, just as the lower water version causes it to lower. Boats raised in this way slide down the sides of the hump that the spell creates. If the area affected by the spell includes riverbanks, a beach, or other land nearby, the water can spill over onto dry land. With either version, you may reduce one horizontal dimension by half and double the other horizontal dimension. Arcane Material Component: A drop of water (for raise water) or a pinch of dust (for lower water). ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " None; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Flesh to Stone",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not dead, but it does not seem to be alive either when viewed with spells such as deathwatch. Only creatures made of flesh are affected by this spell. Material Component: Lime, water, and earth. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Control Weather",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. The current, natural weather conditions are determined by the DM. You can call forth weather appropriate to the climate and season of the area you are in. You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot control specific applications of the weather—where lightning strikes, for example, or the exact path of a tornado. When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later (changing gradually, not abruptly). The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory conditions are not possible simultaneously—fog and strong wind, for example. Control weather can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them. A druid casting this spell doubles the duration and affects a circle with a 3-mile radius. ",
+    "effect": "",
+    "range": " 2 miles",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " 2-mile-radius circle, centered on you; see text",
+    "duration": " 4d12 hours; see text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

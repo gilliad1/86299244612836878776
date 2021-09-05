@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Rend Essentia",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "When you cast this spell, you consume a small portion of your enemy's soul to strengthen your own personal essence and become stronger. You deal 1d4 points of Charisma damage plus 1 additional point for every three caster levels, to a maximum of 1d4+5 points at caster level 15th. If the target has an essentia pool, he instead loses essentia equal to the Charisma damage that would be dealt (if the damage is larger than the target's essentia pool, any leftover points of damage are dealt as Charisma damage). This spell can't reduce a target's Charisma below 1. You gain 1 point of temporary essentia for every point of essentia or Charisma damage you deal to the subject. This temporary essentia remains in your pool for 1 minute, after which it dissipates. While you have it, you can use your temporary essentia just like normal essentia. Material Component: A black pearl worth at least 100 gp. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Unbind Chakra",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "You temporarily sever one or more chakra binds between the target and his soulmelds and/or magic items. This affects one chakra bind for every four caster levels, to a maximum of three binds at 12th level. For the spell's duration, the target creature loses all benefits of the severed chakra binds. The target also takes 1d6 points of damage per chakra bind severed. At the time of casting, you can choose particular chakra binds to sever (such as arms or soul). If you do not choose specific chakra binds, the DM randomly determines which chakra binds are affected. Essentia: Every point of essentia you invest in this spell adds +1d6 to the damage dealt per chakra bind severed. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

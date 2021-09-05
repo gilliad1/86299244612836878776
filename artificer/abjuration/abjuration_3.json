@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Spell Snare",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "magic_of_eberron",
+    "description": "A spell snare takes advantage of an Eberron dragonshard's innate magical affi nity, tuning the shard so that it readily absorbs the energy of a spell.  The next spell or spelllike ability of 3rd level or lower that targets the bearer of the spell snare is absorbed into the dragonshard and has no effect.  Only spells or spell-like abilities that affect a single target, or orb or ray spells directed at the bearer, can be absorbed.  Once the spell snare has absorbed a spell, its magic expires and the dragonshard disintegrates.  It requires no action to absorb a spell, but you must have the dragonshard in hand. \nA spell snare does not discriminate between harmful or beneficial spells, and will just as readily absorb a cure light wounds spell as vampiric touch (though a character could temporarily put away or set aside the spell snare to receive a beneficial spell). \nA character can only benefit from one spell snare at any given time.  If more than one affected shard is carried, they will all activate (and be destroyed) by the first spell to target the bearer. \nMaterial Component: An Eberron dragonshard worth at least 25 gp.  Unlike most material components, the dragonshard is consumed when the spell snare effect functions, not when the spell is cast. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "somatic,material",
+    "target": " Eberron dragonshard touched",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " None (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

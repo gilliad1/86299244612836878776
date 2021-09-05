@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Moon Lust",
+    "school": "illusion",
+    "sub_school": "pattern",
+    "source": "spell_compendium",
+    "description": "Forcefully presenting a silver ingot in your hand, you extol the virtues of the moon's beauty in a language both beautiful and dead.  The words of your loving declaration call forth a silver-white glow around your target that swiftly fades. \nThis spell instills in the target an obsessive fascination with the moon.  If the target fails its save, it fixates on the moon, staring at the moon or imagining it in its mind, and is considered fascinated for the duration of the spell. \nIf the saving throw is successful, the subject is instead dazzled for the duration of the spell. \nSightless creatures are not affected by this spell. \nFocus: A silver ingot worth 5 gp. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Pleasant Visage",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "ghostwalk",
+    "description": "You disguise the wounds of a ghost who has a disturbing, repulsive, or gruesome appearance, making it appear completely normal (although still a ghost). The spell does not change the ghost's features or disguise it in any way; it conceals the manner of the ghost's death so that it can walk about in polite society. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " One ghost",
+    "area": "",
+    "duration": " 24 hours",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

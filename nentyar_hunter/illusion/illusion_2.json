@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Blur",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject's outline appears blurred, shifting and wavering. This distortion grants the subject concealment (20% miss chance). A see invisibility spell does not counteract the blur effect, but a true seeing spell does. Opponents that cannot see the subject ignore the spell's effect (though fighting an unseen opponent carries penalties of its own; see page 151). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

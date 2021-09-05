@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Grease",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "A grease spell covers a solid surface with a layer of slippery grease.  Any creature in the area when the spell is cast must make a successful Reflex save or fall.  This save is repeated on your turn each round that the creature remains within the area. \nA creature can walk within or through the area of grease at half normal speed with a DC 10 Balance check.  Failure means it can't move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Balance skill for details).  \nThe DM should adjust saving throws by circumstance.  For example, a creature charging down an incline that is suddenly greased has little chance to avoid the effect, but its ability to exit the affected area is almost assured (whether it wants to or not).  \nThe spell can also be used to create a greasy coating on an item—a rope, ladder rungs, or a weapon handle, for instance.  Material objects not in use are always affected by this spell, while an object wielded or employed by a creature receives a Reflex saving throw to avoid the effect.  If the initial saving throw fails, the creature immediately drops the item.  A saving throw must be made in each round that the creature attempts to pick up or use the greased item. \nA creature wearing greased armor or clothing gains a +10 circumstance bonus on Escape Artist checks and on grapple checks made to resist or escape a grapple or to escape a pin.  Material Component: A bit of pork rind or butter. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One object or a 10-ft. square",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " See text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Unseen Servant",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "An unseen servant is an invisible, mindless, shapeless force that performs simple tasks at your command. It can run and fetch things, open unstuck doors, and hold chairs, as well as clean and mend. The servant can perform only one activity at a time, but it repeats the same activity over and over again if told to do so, thus allowing you to command it to clean the floor and then turn your attention elsewhere as long as you remain within range. It can open only normal doors, drawers, lids, and the like. It has an effective Strength score of 2 (so it can lift 20 pounds or drag 100 pounds). It can trigger traps and such, but it can exert only 20 pounds of force, which is not enough to activate certain pressure plates and other devices. It can't perform any task that requires a skill check with a DC higher than 10 or that requires a check using a skill that can't be used untrained. Its speed is 15 feet. The servant cannot attack in any way; it is never allowed an attack roll. It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks. (It gets no saves against attacks). If you attempt to send it beyond the spell's range (measured from your current position), the servant ceases to exist. Material Component: A piece of string and a bit of wood. ",
+    "effect": " One invisible, mindless, shapeless servant",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Obscuring Mist",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "A misty vapor arises around you.  It is stationary once created.  The vapor obscures all sight, including darkvision, beyond 5 feet.  A creature 5 feet away has concealment (attacks have a 20% miss chance).  Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). \nA moderate wind (11+ mph), such as from a gust of wind spell, disperses the fog in 4 rounds.  A strong wind (21+ mph) disperses the fog in 1 round.  A fireball, flame strike, or similar spell burns away the fog in the explosive or fiery spell's area.  A wall of fire burns away the fog in the area into which it deals damage.  This spell does not function underwater. ",
+    "effect": " Cloud spreads in 20-ft. radius from you, 20 ft. high",
+    "range": " 20 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

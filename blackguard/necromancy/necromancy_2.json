@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Execration",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "complete_champion",
+    "description": "You channel the wrath of your deity through a simple touch, inflicting misfortune on your foe. With a touch, you impose a -2 penalty on all of another creature's saving throws. If the subject is also under another effect that imposes saving throw penalties, the effects stack. At any point before the spell's duration expires, you can force the subject to reroll a single attack roll, saving throw, skill check, or ability check as an immediate action. You can require this action either before or after the subject rolls, but you must have line of sight to the subject at the time. The lower of the two rolls applies. Once this option is exercised, the spell ends immediately. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 minutes/level or until discharged",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Boneblade",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster changes a bone at least 6 inches long into a longsword, short sword, or greatsword (caster's choice). This weapon has a +1 enhancement bonus on attacks and damage for every five caster levels (at least +1, maximum +4). Furthermore, this blade deals an extra +1d6 points of damage to living targets and an additional +1d6 points of damage to good-aligned targets. This spell confers no proficiency with the blade, but the caster doesn't need to be the one wielding the blade for it to be effective. Focus: A 6-inch-long bone. ",
+    "effect": " One bone that becomes a blade",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": "",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  },
+  {
+    "name": "Vestigewrack",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "tome_of_magic",
+    "description": "You hold the curved dagger aloft, and as you slice it through the air at the incorporeal creature before you, you speak words of power that remind it of the life it once had, and the pain of its loss. Clutching a curved blade, you make a downward cutting motion that produces a field of pulsing, unholy, red light around you. Each incorporeal creature within this light must succeed on a Fortitude save or be wracked with sensations of loss. This effect manifests as a -2 penalty on attack rolls, damage rolls, skill checks, and saves for as long as the creature remains in range, and for 1d4 rounds afterward. In addition, every corporeal user of pact magic gains a +2 bonus on binding checks made against any vestige within range of this spell. Focus: An ornate sacrificial dagger or kukri worth 300 gp. ",
+    "effect": "",
+    "range": " 20 ft.",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One incorporeal creature or apparition/level in a 20-ft.-radius emanation centered on you",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

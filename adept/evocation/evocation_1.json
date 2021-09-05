@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Burning Hands",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials, such as cloth, paper, parchment, and thin wood burn if the flames touch them. A character can extinguish burning items as a full-round action. ",
+    "effect": "",
+    "range": " 15 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

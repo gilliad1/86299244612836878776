@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cone of Cold",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Cone of cold creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6). Arcane Material Component: A very small crystal or glass cone. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Waves of Exhaustion",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Waves of negative energy cause all living creatures in the spell's area to become exhausted. This spell has no effect on a creature that is already exhausted. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " No",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Finger of Death",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You can slay any one living creature within range. The target is entitled to a Fortitude saving throw to survive the attack. If the save is successful, the creature instead takes 3d6 points of damage +1 point per caster level (maximum +25). The subject might die from damage even if it succeeds on its saving throw. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

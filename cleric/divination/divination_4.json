@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Assay Resistance",
+    "school": "divination",
+    "sub_school": "",
+    "source": "complete_arcane",
+    "description": "This spell enables you to divine the exact nature and vulnerabilities of a single creature's magical defenses, giving you a +10 bonus on caster level checks to overcome its spell resistance. Assay resistance is effective only against one specific creature per casting, and you must be able to see the creature when you cast the spell. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Tongues",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell grants the creature touched the ability to speak and understand the language of any intelligent creature, whether it is a racial tongue or a regional dialect. The subject can speak only one language at a time, although it may be able to understand several languages. Tongues does not enable the subject to speak with creatures who don't speak. The subject can make itself understood as far as its voice carries. This spell does not predispose any creature addressed toward the subject in any way. Tongues can be made permanent with a permanency spell. Arcane Material Component: A small clay model of a ziggurat, which shatters when the verbal component is pronounced. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Assay Spell Resistance",
+    "school": "divination",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "Finishing the spell, your eyes glow with a pale blue radiance, and you understand how to overcome your foe's resistance to your magic. \nThis spell gives you a +10 bonus on caster level checks to overcome the spell resistance of a specific creature.  Assay resistance is effective against only one specific creature per casting, and you must be able to see the creature when you cast the spell. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

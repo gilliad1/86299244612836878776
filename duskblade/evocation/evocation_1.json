@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bigby_s Tripping Hand",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "A large glowing hand, the size of a human torso, appears in front of the creature and sweeps at its legs. The large hand sweeps at the target creature's legs in a tripping maneuver (PH 158). This trip attempt does not provoke attacks of opportunity. Its attack bonus equals your caster level + your key ability modifier + 2 for the hand's Strength score (14). The hand has a bonus of +1 on the trip attempt for every three caster levels, to a maximum of +5 at 15th level. Material Components: Three glass beads. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Burning Hands",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials, such as cloth, paper, parchment, and thin wood burn if the flames touch them. A character can extinguish burning items as a full-round action. ",
+    "effect": "",
+    "range": " 15 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Shocking Grasp",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Your successful melee touch attack deals 1d6 points of electricity damage per caster level (maximum 5d6). When delivering the jolt, you gain a +3 bonus on attack rolls if the opponent is wearing metal armor (or made out of metal, carrying a lot of metal, or the like). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature or object touched",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

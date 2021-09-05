@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Summon Monster I",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell summons an extraplanar creature (typically an outsider, elemental, or magical beast native to another plane).  It appears where you designate and acts immediately, on your turn.  It attacks your opponents to the best of its ability.  If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions.  \nThe spell conjures one of the creatures from the 1st-level list on the accompanying Summon Monster table.  You choose which kind of creature to summon, and you can change that choice each time you cast the spell.  Information on these creatures can be found in the Monster Manual. \nA summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities.  Creatures cannot be summoned into an environment that cannot support them.  For instance, a celestial porpoise may only be summoned in an aquatic environment. \nWhen you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.  For example, a summon monster I is a lawful and evil spell when cast to summon a fiendish dire rat. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n1ST LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial dog \n LG \n\n\n Celestial owl \n LG \n\n\n Celestial giant fire beetle \n NG \n\n\n Celestial porpoise 1 \n NG \n\n\n Celestial badger \n CG \n\n\n Celestial monkey \n CG \n\n\n Fiendish dire rat \n LE \n\n\n Fiendish raven \n LE \n\n\n Fiendish monstrous centipede, Medium \n NE \n\n\n Fiendish monstrous scorpion, Small \n NE \n\n\n Fiendish hawk \n CE \n\n\n Fiendish monstrous spider, Small \n CE \n\n\n Fiendish octopus 1 \n CE \n\n\n Fiendish snake, Small viper \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One summoned creature",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

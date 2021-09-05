@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dispel Magic, Greater",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like dispel magic, except that the maximum caster level on your dispel check is +20 instead of +10. \nAdditionally, greater dispel magic has a chance to dispel any effect that remove curse can remove, even if dispel magic can't dispel that effect. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Banishment",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A banishment spell is a more powerful version of the dismissal spell.  It enables you to force extraplanar creatures out of your home plane.  As many as 2 Hit Dice of creatures per caster level can be banished.  You can improve the spell's chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes.  For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target's spell resistance (if any), the saving throw DC increases by 2.  For example, if this spell were cast on a demon that hated light and was vulnerable to holy water and cold iron weapons, you might use iron, holy water, and a torch in the spell.  The three items would give you a +3 bonus on your check to overcome the demon's spell resistance and add 6 to the spell's save DC. \nAt the DM's option, certain rare items might work twice as well as a normal item for the purpose of the bonuses (each providing a +2 bonus on the caster level check against spell resistance and increasing the save DC by 4). \nArcane Focus: Any item that is distasteful to the subject (optional, see above). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One or more extraplanar creatures, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

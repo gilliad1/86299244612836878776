@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Phase Door",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. The phase door is invisible and inaccessible to all creatures except you, and only you can use the passage. You disappear when you enter the phase door and appear when you exit. If you desire, you can take one other creature (Medium or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can you see through it without using it. Thus, the spell can provide an escape route, though certain creatures, such as phase spiders, can follow with ease. A gem of true seeing or similar magic reveals the presence of a phase door but does not allow its use. A phase door is subject to dispel magic. If anyone is within the passage when it is dispelled, he is harmlessly ejected just as if he were inside a passwall effect. You can allow other creatures to use the phase door by setting some triggering condition for the door. Such conditions can be as simple or elaborate as you desire. They can be based on a creature's name, identity, or alignment, but otherwise must be based on observable actions or qualities. Intangibles such as level, class, Hit Dice, and hit points don't qualify. Phase door can be made permanent with a permanency spell. ",
+    "effect": " Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three levels",
+    "range": " 0 ft.",
+    "components": "verbal",
+    "target": "",
+    "area": "",
+    "duration": " One usage per two levels",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Mordenkainen_s Magnificent Mansion",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You conjure up an extradimensional dwelling that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 4 feet wide and 8 feet high. Only those you designate may enter the mansion, and the portal is shut and made invisible behind you when you enter. You may open it again from your own side at will. Once observers have passed beyond the entrance, they are in a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm. You can create any floor plan you desire to the limit of the spell's effect. The place is furnished and contains sufficient foodstuffs to serve a nine-course banquet to a dozen people per caster level. A staff of near-transparent servants (as many as two per caster level), liveried and obedient, wait upon all who enter. The servants function as unseen servant spells except that they are visible and can go anywhere in the mansion. Since the place can be entered only through its special portal, outside conditions do not affect the mansion, nor do conditions inside it pass to the plane beyond. Focus: A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon (each item worth 5 gp). ",
+    "effect": " Extradimensional mansion, up to three 10-ft. cubes/level (S)",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus",
+    "target": "",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

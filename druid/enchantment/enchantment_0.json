@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Daze Animal",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "masters_of_the_wild:_a_guidebook_to_barbarians,_druids,_and_rangers",
+    "description": "This enchantment clouds the target animal's mind. The subject is not stunned, so attackers get no special advantage against it, but it cannot move or attack. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,divine focus",
+    "target": " One Medium-size or smaller animal with less than 5 HD",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

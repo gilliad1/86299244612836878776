@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Soul Shackles",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster draws out the soul of a dead creature and imprisons it within a specially made talisman. The subject must have had the talisman in his possession when he died, or the spell cannot function. Henceforth, if the talisman is in the caster's possession, she can call forth the soul of the subject and question it about what it knew in life for up to 1 round/level each day, asking one question per round. The soul looks as it did in life, including the clothing and equipment it had with it on the day it died. Answers are clear, complete, and precise. If the subject is hostile, or if the answer to the question was an important secret to it in life, the subject gains a Will saving throw. A successful saving throw indicates that the spell ends and the soul departs to the afterlife. Focus: The talisman that will be the receptacle for the soul. Location Component: An area under the effect of a desecrate or unhallow spell. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None (see text)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Wail of Doom",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "You unleash a terrible cry of malice and anger.  The very air darkens with black energy as your cry echoes away from you. \nAnyone caught in the area of this spell suffers excruciating pain and becomes demoralized.  Each creature takes 1d4 points of damage per caster level (maximum 15d4) and becomes panicked for 1 round per caster level.  A successful Will save halves the damage, reduces the panicked effect to shaken, and reduces the duration of the shaken effect to 1 round. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous + 1 round/level or 1 round; see text",
+    "saving_throw": " Will partial; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

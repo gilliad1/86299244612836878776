@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Wind Wall",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "An invisible vertical curtain of wind appears.  It is 2 feet thick and of considerable strength.  It is a roaring blast sufficient to blow away any bird smaller than an eagle, or tear papers and similar materials from unsuspecting hands.  (A Reflex save allows a creature to maintain its grasp on an object).  Tiny and Small flying creatures cannot pass through the barrier.  Loose materials and cloth garments fly upward when caught in a wind wall.  Arrows and bolts are deflected upward and miss, while any other normal ranged weapon passing through the wall has a 30% miss chance.  (A giant-thrown boulder, a siege engine projectile, and other massive ranged weapons are not affected).  Gases, most gaseous breath weapons, and creatures in gaseous form cannot pass through the wall (although it is no barrier to incorporeal creatures). \nWhile the wall must be vertical, you can shape it in any continuous path along the ground that you like.  It is possible to create cylindrical or square wind walls to enclose specific points.  A 5th-level caster can create a wall up to 50 feet long and up to 25 feet high, sufficient to form a cylinder of wind 15 feet in diameter. \nArcane Material Component: A tiny fan and a feather of exotic origin. ",
+    "effect": " Wall up to 10 ft./level long and 5 ft./level high (S)",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " None; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Invoke the Cerulean Sign",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "lords_of_madness",
+    "description": "The cerulean sign is an ancient symbol said to embody the purity of the natural world, and as such it is anathema to aberrations. While druids and rangers are the classes most often known to cast this ancient spell, its magic is nearly universal and can be mastered by all spellcasting classes. When you cast this spell, you trace the cerulean sign in the air with a hand, leaving a glowing blue rune in the air for abrief moment before it flashes and fills the area of effect with a pulse of cerulean light. Any aberration within the area must make a Fortitude saving throw or suffer the following ill effects. Closer aberrations are affected first. Each effect lasts for 1 round. None: The aberration suffers no ill effect, even if it fails thesaving throw. Sickened: The aberration takes a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1 round. Nauseated: The aberration cannot attack, cast spells, concentrate on spells, or do anything but take a single move action for 1 round. Dazed: The aberration can take no actions, but has no penalty to its Armor Class, for 1 round. Stunned: The aberration drops everything held, can't take actions, takes a -2 penalty to AC, and loses its Dexterity bonus to AC (if any) for 1 round. Once a creature recovers from an effect, it moves up one level on the table. Thus, a creature that is stunned by this spell is dazed the round after that, nauseated the round after that, sickened the round after that, and then recovers fully the next round. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "somatic",
+    "target": "",
+    "area": " Multiple aberrations whose combined total Hit Dice do not exceed twice caster level in a spread emanating from the character to the extreme of the range",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

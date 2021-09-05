@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Spell Snare, Greater",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "magic_of_eberron",
+    "description": "As spell snare, except that the dragonshard component of this spell can absorb a spell or spell-like ability of up to 6th level. \nMaterial Component: An Eberron dragonshard worth at least 100 gp.  Unlike most material components, the dragonshard is consumed when the spell snare effect functions, not when the spell is cast. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "somatic,material",
+    "target": " Eberron dragonshard touched",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " None (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

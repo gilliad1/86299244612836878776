@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chameleon",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "complete_arcane",
+    "description": "This spell alters the coloration of the recipient's body and clothing so as to blend in with the surrounding background, granting the creature a +10 circumstance bonus on any Hide checks. In areas where the background changes gradually (such as stepping from forest to green field), the coloration shifts quickly enough to grant the bonus while moving at up to one-half normal speed. When the background changes abruptly (from forest to stone wall, for example), the creature loses thecircumstance bonus for 1 round while the coloration change takes effect. Material Component: The shed skin of a small lizard. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Woodland Veil",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "races_of_the_wild",
+    "description": "This spell makes its subjects blend in with natural surroundings, hiding them and quieting the sounds they make. All targets gain a +5 competence bonus on Hide and Move Silently checks while outdoors in a natural setting. The spell has no effect in urban settings or indoors (including dungeons). Those affected by this spell can see and hear each other and themselves as if unaffected by the spell. Any affected creature moving more than 30 feet from another target loses the bonuses the spell provides. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One or more creatures, no two of which can be more than 30 feet apart",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Beastmask",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "defenders_of_the_faith:_a_guidebook_to_clerics_and_paladins",
+    "description": "This spell disguises the target so that an animal or beast will believe the creature is a natural or dire animal. For example, an individual cloaked by this glamer as a wolf might move through a wolf pack unhindered. You must set the animal form at the time of casting. If the form you choose is more than one size larger or two sizes smaller than the target's size, the spell fails. Your illusion deceives the senses of animals and beasts: sight, hearing, smell, and touch. The spell does not allow communication with animals or beasts, nor is the subject granted any of the animal form's characteristics. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 5 minutes + 1 minute/level",
+    "saving_throw": " Will disbelief",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

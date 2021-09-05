@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sleep Mote",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "sandstorm",
+    "description": "You create a dust devil composed of slumber-inducing particles. It flies at a speed of 30 feet per round (perfect maneuverability), and you can concentrate on controlling its every movement or specify a simple program. Directing the vortex's movement is a move action, while changing its programmed movement is a standard action. If you don't move or program the vortex, it merely stays at rest, spinning and howling. The vortex dissipates if it exceeds the spell's range. If the sleep mote enters a space with a creature, it stops moving for the round and causes a magical slumber to come upon any creature whose space it completely engulfs that fails a Will saving throw (thus, creatures larger than Medium size have immunity to a sleep mote). Even on a successful Will saving throw, affected creatures are sleepy, and take a -2 penalty on all Wisdom, Intelligence, and Charisma checks for the spell's duration. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). Sleep mote has no effect on unconscious creatures. Arcane Material Component: A pinch of fine sand and a live cricket. ",
+    "effect": " 5-ft.-diameter sphere",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level; see text",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Trance, Mass",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "masters_of_the_wild:_a_guidebook_to_barbarians,_druids,_and_rangers",
+    "description": "Your swaying motions and music (or singing, or chanting) compel the subjects to do nothing but watch you. Animals trained to attack or guard, dire animals, legendary animals, beasts, and magical beasts are entitled to saving throws; normal animals are not. An affected creature can be struck (with a +2 bonus on the attack roll, as if it were stunned), but such an action breaks the spell on that creature. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " Any number of animals, beasts, and magical beasts with Intelligence 1 or 2, no two of which may be more than 30 ft. apart",
+    "area": "",
+    "duration": " Concentration",
+    "saving_throw": " Will negates (see text)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Big Sky",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "masters_of_the_wild:_a_guidebook_to_barbarians,_druids,_and_rangers",
+    "description": "This spell creates the sensation that the sky is filled with invisible nature spirits and sussurating voices. This effect is a boon to you and your allies and a bane to your enemies. You gain a +2 morale bonus on attack rolls and a +4 morale bonus on saving throws against fear effects for the duration of the spell, as does each of your allies within the area. Each of your enemies within the area who fails a Will save behaves as if affected by a fear spell. Each round, every affected enemy gets a new Will save to shake off the effects of this spell. An enemy who makes a successful save need not make any more saving throws for the duration of the spell. Creatures immune to fear are immune to both aspects of this spell. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " You and all allies and enemies within a 30-ft.-radius emanation centered on you",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (see text)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

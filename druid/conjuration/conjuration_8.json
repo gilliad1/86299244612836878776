@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Deadly Lahar",
+    "school": "conjuration",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "A rushing torrent of liquid rock bursts from the ground, washing over your foes. You create a liquid landslide of molten-hot volcanic material. All creatures in the area of the spell take 10d6 points of fire damage. Additionally, those creatures are coated in a thick layer of the viscous substance, slowing them (as the slow spell) for the next 3 rounds and dealing an additional 5d6 points of fire damage per round. A successful Reflex save reduces the initial damage by half and prevents the slow effect and the additional damage. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped spread",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

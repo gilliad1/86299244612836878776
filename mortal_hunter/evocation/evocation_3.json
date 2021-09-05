@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mirror Sending",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster sends her image through a mirror into another mirror or mirrored surface that the chosen target looks into. The caster casts the spell, then stares into her mirror until the target sees his reflection in another mirror, or until the caster tires and gives up. The caster can see the subject and his surroundings in her mirror whenever the subject looks at his mirror. From the subject's perspective, the caster appears to be staring out of the mirror, replacing the subject's own reflection or appearing right behind him (caster's choice). The caster can have her image say up to one word per caster level before it disappears, if she chooses. The image remains for only 1 round. Subjects not expecting a mirror sending can be greatly unnerved by this spell. Focus: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet. ",
+    "effect": "",
+    "range": " See text",
+    "components": "verbal,somatic,arcane focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Vile Lance",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "Vile lance creates a weapon of blackness that the caster (and only the caster) can wield with proficiency. The caster can throw it, but if he does, the spell ends after the ranged attack is resolved. The vile lance is treated in all ways like a +2 shortspear, except that the damage dealt is vile damage. Arcane Material Component: A bone fragment of a good-aligned creature. ",
+    "effect": " One shortspear",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

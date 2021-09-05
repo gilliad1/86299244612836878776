@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cause Fear",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The affected creature becomes frightened.  If the subject succeeds on a Will save, it is shaken for 1 round.  Creatures with 6 or more Hit Dice are immune to this effect. \nCause fear counters and dispels remove fear. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One living creature with 5 or fewer HD",
+    "area": "",
+    "duration": " 1d4 rounds or 1 round; see text",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

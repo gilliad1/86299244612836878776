@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Blade of Blood",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "Red blood erupts along the weapon's blade, bludgeon, or point. The blood drips to spatter in thick, viscous drops upon the ground. This spell infuses the weapon touched with baleful energy. The next time this weapon strikes a living creature, blade of blood discharges. The spell deals an extra 1d6 points of damage against the target of the attack. You can voluntarily take 5 hit points of damage to empower the weapon to deal an extra 2d6 points of damage (for a total of 3d6 points of extra damage). The weapon loses this property if its wielder drops it or otherwise loses contact with it. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 1 round/level or until discharged",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Death Grimace",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster marks a corpse with a particular magical \"signature\", thus identifying himself (truthfully or falsely) as the murderer. Some assassins use this signature as a sort of calling card, while others use it as a way to prove that they earned their pay. The signature can take many forms: a specific expression on the face of the corpse (hence the name of the spell), an actual rune, a word written on the corpse's flesh, a discoloration of one eye, and so on. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "somatic",
+    "target": " One corpse",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Boneblast",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster causes some bone within a touched creature to break or crack. The caster cannot specify which bone. Because the damage is general rather than specific, the target takes 1d3 points of Constitution damage. A Fortitude save reduces the Constitution damage by half,or negates it if the full damage would have been 1 point of Constitution damage. Material Component: The bone of a small child that still lives. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " One creature that has a skeleton",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude half or Fortitude negates (see text)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

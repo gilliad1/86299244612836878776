@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Charm Person",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "player's_handbook_v.3.5",
+    "description": "This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target's attitude as friendly; see Influencing NPC Attitudes, page 72).  If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus on its saving throw. \nThe spell does not enable you to control the charmed person as if it were an automaton, but it perceives your words and actions in the most favorable way.  You can try to give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do.  (Retries are not allowed).  An affected creature never obeys suicidal or obviously harmful orders, but a charmed fighter, for example, might believe you if you assured him that the only chance to save your life is for him to hold back an onrushing red dragon for \"just a few seconds\".  Any act by you or your apparent allies that threatens the charmed person breaks the spell.  You must speak the person's language to communicate your commands, or else be good at pantomiming. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One humanoid creature",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

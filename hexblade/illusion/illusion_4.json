@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Unseen Strike",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "complete_mage",
+    "description": "You strike your foe, then immediately fade from sight. This spell has no immediate effect upon you. However, the next time you deliver a successful melee attack, you instantly turn invisible (as the invisibility spell). If you do not make a successful melee attack within 1 hour per level of casting the spell, the effect ends. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Phantasmal Killer",
+    "school": "illusion",
+    "sub_school": "phantasm",
+    "source": "player's_handbook_v.3.5",
+    "description": "You create a phantasmal image of the most fearsome creature imaginable to the subject simply by forming the fears of the subject's subconscious mind into something that its conscious mind can visualize: this most horrible beast.  Only the spell's subject can see the phantasmal killer.  You see only a vague shape.  The target first gets a Will save to recognize the image as unreal.  If that save fails, the phantasm touches the subject, and the subject must succeed on a Fortitude save or die from fear.  Even if the Fortitude save is successful, the subject takes 3d6 points of damage. \nIf the subject of a phantasmal killer attack succeeds in disbelieving and is wearing a helm of telepathy, the beast can be turned upon you.  You must then disbelieve it or become subject to its deadly fear attack. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": " One living creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will disbelief (if interacted with), then Fortitude partial; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

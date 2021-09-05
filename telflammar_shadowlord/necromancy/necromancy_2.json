@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Vampiric Touch",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. However, you can't gain more than the subject's current hitpoints +10, which is enough to kill the subject. The temporary hit points disappear 1 hour later. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " Instantaneous/1 hour; see text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

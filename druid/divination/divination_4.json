@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Scrying",
+    "school": "divination",
+    "sub_school": "scrying",
+    "source": "player's_handbook_v.3.5",
+    "description": "You can see and hear some creature, which may be at any distance.  If the subject succeeds on a Will save, the scrying attempt simply fails.  The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature.  Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save. \n\n\nKnowledge \nWill Save Modifier \n\n\n None 1 \n +10 \n\n\n Secondhand (you have heard of the subject) \n +5 \n\n\n Firsthand (you have met the subject) \n +0 \n\n\n Familiar (you know the subject well) \n —5 \n\n\n1 You must have some sort of connection to a creature you have no knowledge of.  \n\n\nConnection \nWill Save Modifier \n\n\n Likeness or picture \n —2 \n\n\n Possession or garment \n —4 \n\n\n Body part, lock of hair, bit of nail, etc.  \n —10 \n\n\nIf the save fails, you can see and hear the subject and the subject's immediate surroundings (approximately 10 feet in all directions of the subject).  If the subject moves, the sensor follows at a speed of up to 150 feet. \nAs with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects.  In addition, the following spells have a 5% chance per caster level of operating through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, and message.  \nIf the save succeeds, you can't attempt to scry on that subject again for at least 24 hours. \nArcane Material Component: The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc. \nWizard, Sorcerer, or Bard Focus: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp.  The mirror must be at least 2 feet by 4 feet. \nCleric Focus: A holy water font costing not less than 100 gp. \nDruid Focus: A natural pool of water. ",
+    "effect": " Magical sensor",
+    "range": " See text",
+    "components": "verbal,somatic,material,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Chain of Eyes",
+    "school": "divination",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "With the creature's will to resist brushed aside, you gaze out from its eyes to see your own satisfied smile. \nYou can use another creature's vision instead of your own.  While this spell gives you no control over the subject, each time it comes into physical contact with another living being, you can choose to transfer your sensor to the new creature.  During your turn in a round, you can use a free action to switch from seeing through the current creature's eyes to seeing normally or back again. \nEach transfer attempt allows the new target a saving throw and spell resistance.  If a target resists, the spell ends. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

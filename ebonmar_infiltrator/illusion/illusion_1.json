@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ghost Sound",
+    "school": "illusion",
+    "sub_school": "figment",
+    "source": "player's_handbook_v.3.5",
+    "description": "Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound ghost sound creates when casting it and cannot thereafter change the sound's basic character. The volume of sound created depends on your level. You can produce as much noise as four normal humans per caster level (maximum twenty humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The noise a ghost sound spell produces can be virtually any type of sound within the volume limit. A horde of rats running and squeaking is about the same volume as eight humans running and shouting. A roaring lion is equal to the noise from sixteen humans, while a roaring dire tiger is equal to the noise from twenty humans. Ghost sound can enhance the effectiveness of a silent image spell. Ghost sound can be made permanent with a permanency spell. Material Component: A bit of wool or a small lump of wax. ",
+    "effect": " Illusory sounds",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Secret Weapon",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "cityscape",
+    "description": "At your touch, the weapon seems to disappear from view. You enable someone to hide a weapon on his person. The weapon does not become truly invisible so much as easily overlooked. Secret weapon adds +20 to the Sleight of Hand check to conceal a light weapon, and +10 to the check to conceal a larger weapon (even one normally too large to conceal). A \"weapon\" is defined as any manufactured weapon. With the aid of this spell, you can attempt to hide a weapon even if you do not possess the Sleight of Hand skill. Additionally, you can hide the presence of a weapon from detection spells, although true seeing penetrates the glamer. Material Component: A thin black cloth. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Disguise Self",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "You make yourself—including clothing, armor, weapons, and equipment—look different.  You can seem 1 foot shorter or taller, thin, fat, or in between.  You cannot change your body type.  For example, a human caster could look human, humanoid, or like any other human-shaped bipedal creature.  Otherwise, the extent of the apparent change is up to you.  You could add or obscure a minor feature or look like an entirely different person.  The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment.  A battleaxe made to look like a dagger still functions as a battleaxe. \nIf you use this spell to create a disguise, you get a +10 bonus on the Disguise check. \nA creature that interacts with the glamer gets a Will save to recognize it as an illusion.  For example, a creature that touched you and realized that the tactile sensation did not match the visual one would be entitled to such a save. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

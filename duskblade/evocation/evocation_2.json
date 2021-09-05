@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bigby_s Striking Fist",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "A large glowing fist, the size of a human torso, appears in front of the creature and slams into it with great force. The attack bonus of this striking fist equals your caster level + your key ability modifier + 2 for the hand's Strength score (14). The fist deals 1d6 points of nonlethal damage per two caster levels (maximum 5d6) and attempts a bull rush (PH 154). The fist has a bonus of +4 plus +1 per two caster levels on the bull rush attempt, and if successful it knocks the subject back in a direction of your choice. This movement does not provoke attacks of opportunity. A subject that succeeds on its Reflex save takes half damage and is not subject to the bull rush attempt. Material Components: Three glass beads. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Seeking Ray",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "A ray of electricity springs from your hand. It snakes around obstacles, cover, and other impediments on its way toward your target. You create a ray that deals 4d6 points of electricity damage if it strikes your target. While this ray requires a ranged touch attack to strike an opponent, it ignores concealment and cover (but not total concealment or total cover), and it does not take the standard penalty for firing into melee. In addition to the damage it deals, the ray creates a link of energy between you and the subject. If this ray struck the target and dealt damage, you gain a +4 bonus on attacks you make with ray spells (including another casting of this one, if desired) against the subject for 1 round per caster level. If you cast seeking ray a second time on a creature that is still linked to you from a previous casting, the duration of the new link overlaps (does not stack with) the remaining duration of the previous one. ",
+    "effect": " Ray",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous; see text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Scorching Ray",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You blast your enemies with fiery rays. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit and deals 4d6 points of fire damage. The rays may be fired at the same or different targets, but all bolts must be aimed at targets within 30 feet of each other and fired simultaneously. ",
+    "effect": " One or more rays",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

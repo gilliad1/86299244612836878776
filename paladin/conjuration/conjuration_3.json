@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Regal Procession",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "spell_compendium",
+    "description": "You toss a bit of horsehair into the air, and as it drifts toward the ground, an array of finely adorned mounts appears. \nThis spell functions like mount (PH 256), except you can summon several mounts.  Each comes with a bit and bridle, riding saddle, saddle blanket, ribbons, adornments, and a banner.  You select the colors of the horses and the livery, either or both of which can include a heraldic or personal symbol. ",
+    "effect": " One mount/level",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

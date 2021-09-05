@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Magic Weapon",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls.  (An enhancement bonus does not stack with a masterwork weapon's +1 bonus on attack rolls).  \nYou can't cast this spell on a natural weapon, such as an unarmed strike (instead, see magic fang).  A monk's unarmed strike is considered a weapon, and thus it can be enhanced by this spell. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Weapon touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Expeditious Retreat",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell increases your base land speed by 30 feet. (This adjustment is treated as an enhancement bonus). There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Jump skill, page 77). This spell need not be used as part of a retreat; the name of the spell merely hints at the typical wizard's attitude towards combat. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

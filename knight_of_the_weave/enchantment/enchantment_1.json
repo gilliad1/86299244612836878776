@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Charm Person",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "player's_handbook_v.3.5",
+    "description": "This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target's attitude as friendly; see Influencing NPC Attitudes, page 72).  If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus on its saving throw. \nThe spell does not enable you to control the charmed person as if it were an automaton, but it perceives your words and actions in the most favorable way.  You can try to give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do.  (Retries are not allowed).  An affected creature never obeys suicidal or obviously harmful orders, but a charmed fighter, for example, might believe you if you assured him that the only chance to save your life is for him to hold back an onrushing red dragon for \"just a few seconds\".  Any act by you or your apparent allies that threatens the charmed person breaks the spell.  You must speak the person's language to communicate your commands, or else be good at pantomiming. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One humanoid creature",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bless",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects. Bless counters and dispels bane. ",
+    "effect": "",
+    "range": " 50 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " The caster and all allies within a 50-ft. burst, centered on the caster",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Command",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity.  You may select from the following options. \nApproach: On its turn, the subject moves toward you as quickly and directly as possible for 1 round.  The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nDrop: On its turn, the subject drops whatever it is holding.  It can't pick up any dropped item until its next turn. \nFall: On its turn, the subject falls to the ground and remains prone for 1 round.  It may act normally while prone but takes any appropriate penalties. \nFlee: On its turn, the subject moves away from you as quickly as possible for 1 round.  It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal. \nHalt: The subject stands in place for 1 round.  It may not take any actions but is not considered helpless.  \nIf the subject can't carry out your command on its next turn, the spell automatically fails. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

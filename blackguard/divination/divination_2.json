@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Devil_s Eye",
+    "school": "divination",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster gains the visual acuity of a devil. He can see not only in darkness, but also in magical darkness, with a range of 30 feet. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " Caster",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

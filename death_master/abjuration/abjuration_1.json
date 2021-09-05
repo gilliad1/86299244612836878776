@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Protection from Good",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks from good creatures, and good summoned creatures cannot touch the subject. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Shield",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Shield creates an invisible, tower shield-sized mobile disk of force that hovers in front of you. It negates magic missile attacks directed at you. The disk also provides a +4 shield bonus to AC. This bonus applies against incorporeal touch attacks, since it is a force effect. The shield has no armor check penalty or arcane spell failure chance. Unlike with a normal tower shield, you can't use the shield spell for cover. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Alarm",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Alarm sounds a mental or audible alarm each time a creature of Tiny or larger size enters the warded area or touches it.  A creature that speaks the password (determined by you at the time of casting) does not set off the alarm.  You decide at the time of casting whether the alarm will be mental or audible. \nMental Alarm: A mental alarm alerts you (and only you) so long as you remain within 1 mile of the warded area.  You note a single mental \"ping\" that awakens you from normal sleep but does not otherwise disturb concentration.  A silence spell has no effect on a mental alarm. \nAudible Alarm: An audible alarm produces the sound of a hand bell, and anyone within 60 feet of the warded area can hear it clearly.  Reduce the distance by 10 feet for each interposing closed door and by 20 feet for each substantial interposing wall.  In quiet conditions, the ringing can be heard faintly as far as 180 feet away.  The sound lasts for 1 round.  Creatures within a silence spell cannot hear the ringing. \nEthereal or astral creatures do not trigger the alarm. \nAlarm can be made permanent with a permanency spell. \nArcane Focus: A tiny bell and a piece of very fine silver wire. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": " 20-ft.-radius emanation centered on a point in space",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

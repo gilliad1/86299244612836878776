@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bestow Curse",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You place a curse on the subject.  Choose one of the following three effects. \n\n-6 decrease to an ability score (minimum 1). \n-4 penalty on attack rolls, saves, ability checks, and skill checks. \nEach turn, the target has a 50% chance to act normally; otherwise, it takes no action. \nYou may also invent your own curse, but it should be no more powerful than those described above, and the DM has final say on the curse's effect. \nThe curse bestowed by this spell cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell. \nBestow curse counters remove curse. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Fear",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save.  If cornered, a panicked creature begins cowering.  (See the Dungeon Master's Guide for more information on fear-panicked creatures).  If the Will save succeeds, the creature is shaken for 1 round. \nMaterial Component: Either the heart of a hen or a white feather. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " 1 round/level or 1 round; see text",
+    "saving_throw": " Will partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

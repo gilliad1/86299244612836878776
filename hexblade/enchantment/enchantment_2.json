@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bothersome Babble",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "complete_mage",
+    "description": "A sudden confused look appears on your target's face as the words coining from his mouth become nonsense. The subject can't make himself understood through verbal communication. No matter how hard he tries, he can't speak a language, but only utters nonsense sounds. His ability to write is unimpeded. To cast a spell with a verbal component, the subject must succeed on a Concentration check; the DC equals this spell's save DC + level of the spell to be cast. If you cast bothersome babble on a creature currently affected by a previous casting of the spell, the second spell has a different effect. As long as both spells' durations last, the subject's speech is physically painful to it. In any round in which the creature speaks, it takes 1d8 points of damage. Treat this as continuous damage for the purpose of making Concentration checks to cast spells. When the first duration ends, this secondary effect is replaced by the normal effect of the spell. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 3 rounds",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Adoration of the Frightful",
+    "school": "enchantment",
+    "sub_school": "charm",
+    "source": "dragon_magic",
+    "description": "A thunderous rumble echoes from within you, washing over cowed creatures and forcing them to show you respect. \nUpon casting this spell, you radiate a magical aura that causes fearful creatures to shy away from harming you.  While this spell is in effect, any creature within the spell's area that is shaken, frightened, or panicked has its attitude toward you shifted to friendly (see Influencing NPC Attitudes, PH 72). \nThis effect ends for a given creature if the fear effect is removed, or if you or an ally attacks the creature or otherwise takes any hostile act toward it. \nSpecial: A character who learns this spell gains a +1 competence bonus on Diplomacy checks. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal",
+    "target": "",
+    "area": " 60-ft. radius emanation, centered on you",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Crisis of Confidence",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "heroes_of_battle",
+    "description": "You strip away the target's leadership qualities, leaving the creature virtually incapable of commanding troops. The target may not add its Charisma bonus (if any) to rally checks. The target's commander rating (if any) is reduced to 0, and it loses any commander aura(s) it possesses. The target can add its commander rating (if any) as a bonus on its Will save. See Chapter 4 for more details on rally checks, commander ratings, and commander auras. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

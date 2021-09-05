@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Fool_s Gold",
+    "school": "illusion",
+    "sub_school": "",
+    "source": "power_of_faerun",
+    "description": "This spell makes metal objects, such as a bronze statue or a handful of copper coins, appear to be made of gold.  You can affect 10 cubic inches of metal—the equivalent of about 150 coins or 3 pounds—per level.  If you want to affect multiple objects, such as a chest full of coins, you only need to touch one of the objects, providing that all of the other objects to be affected are in contact with one another. \nMaterial Component: A powdered gem of at least 5 gp in value sprinkled over the object(s). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Metal objects of up to 10 cu. in. in volume/level",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

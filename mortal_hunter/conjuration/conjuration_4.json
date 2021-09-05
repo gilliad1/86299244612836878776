@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Call Dretch Horde",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "book_of_vile_darkness",
+    "description": "The caster calls 2d4 dretches from the Abyss to where she is, offering them the soul that she has prepared. In exchange, they will serve the caster for one year as guards, slaves, or whatever else she needs them for. They are profoundly stupid, so the caster cannot give them more complicated tasks than can be described in about ten words. No matter how many times the caster casts this spell, she can control no more than 2 HD worth of fiends per caster level. If she exceeds this number, all the newly called creatures fall under the caster's control, and any excess from previous castings become uncontrolled. The caster chooses which creatures to release. ",
+    "effect": " 2d4 dretches",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " One year",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Call Lemure Horde",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "book_of_vile_darkness",
+    "description": "The caster calls 3d4 lemures from the Nine Hells to where he is, offering them the soul that he has prepared. In exchange, they will serve the caster for one year as guards, slaves, or whatever else he needs them for. They are nonintelligent, so the caster cannot give them more complicated tasks than can be described in about five words. No matter how many times the caster casts this spell, he can control no more than 2 HD worth of fiends per caster level. If he exceeds this number, all the newly called creatures fall under the caster's control, and any excess from previous castings become uncontrolled. The caster chooses which creatures to release. ",
+    "effect": " 3d4 lemures",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " One year",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

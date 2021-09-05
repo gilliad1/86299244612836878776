@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Energy Aegis",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "A nigh-invisible ripple of magical energy courses through the creature touched, granting it resistance against one type of energy specified by you during the casting the spell. When you cast energy aegis, specify an energy type (acid, cold, electricity, fire, or sonic). Against the next attack using this energy type that targets the subject, it gains resistance 20. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,divine focus",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Protection from Energy",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Protection from energy grants temporary immunity to the type of energy you specify when you cast it (acid, cold, electricity, fire, or sonic).  When the spell absorbs 12 points per caster level of energy damage (to a maximum of 120 points at 10th level), it is discharged. \nNote: Protection from energy overlaps (and does not stack with) resist energy.  If a character is warded by protection from energy and resist energy, the protection spell absorbs damage until its power is exhausted. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level or until discharged",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Dispelling Touch",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "Your touch causes one spell to rip free of its source and dissipate into nothingness. You can use dispelling touch to end an ongoing spell that has been cast on a creature or object, or a spell that has a noticeable ongoing effect. You make a dispel check (1d20 + your caster level, maximum +10) against the spell effect with the highest caster level. If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell or until you fail all your checks. Magic items carried by a creature are not affected. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " One touched creature, object, or spell effect",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

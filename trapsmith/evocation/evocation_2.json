@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Otiluke_s Resilient Sphere",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A globe of shimmering force encloses a creature, provided the creature is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell's duration. The sphere is not subject to damage of any sort except from a rod of cancellation, a rod of negation, a disintegrate spell, or a targeted dispel magic spell. These effects destroy the sphere without harm to the subject. Nothing can pass through the sphere, inside or out, though the subject can breathe normally. The subject may struggle, but the sphere cannot be physically moved either by people outside it or by the struggles of those within. Material Component: A hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic. ",
+    "effect": " 1-ft.-diameter/level sphere, centered around a creature",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": " Reflex negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

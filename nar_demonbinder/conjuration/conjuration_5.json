@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Summon Monster V",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1d3 creatures of the same kind from the 4th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \nSpecial\nWhen casting Summon Monster V as a Abyss Domain spell, only Chaotic Evil creatures may be summoned. When casting Summon Monster V as a Arborea Domain spell, only Chaotic Good creatures may be summoned. When casting Summon Monster V as a Baator Domain spell, only Lawful Evil creatures may be summoned. When casting Summon Monster V as a Celestia Domain spell, only Lawful Good creatures may be summoned. \n5TH LEVEL\n\n\nMonster \nAlignement \n\n\n Archon, hound \n LG \n\n\n Celestial brown bear \n LG \n\n\n Celestial giant stag beetle \n NG \n\n\n Celestial sea cat 1 \n NG \n\n\n Celestial griffon \n CG \n\n\n Elemental, Medium (any) \n N \n\n\n Achaierai \n LE \n\n\n Devil, bearded \n LE \n\n\n Fiendish deinonychus \n LE \n\n\n Fiendish dire ape \n LE \n\n\n Fiendish dire boar \n NE \n\n\n Fiendish shark, Huge \n NE \n\n\n Fiendish monstrous scorpion, Large \n NE \n\n\n Shadow mastiff \n NE \n\n\n Fiendish dire wolverine \n CE \n\n\n Fiendish giant crocodile \n CE \n\n\n Fiendish tiger \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Plane Shift",
+    "school": "conjuration",
+    "sub_school": "teleportation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You move yourself or some other creature to another plane of existence or alternate dimension. If several willing persons link hands in a circle, as many as eight can be affected by the plane shift at the same time. Precise accuracy as to a particular arrival location on the intended plane is nigh impossible. From the Material Plane, you can reach any other plane, though you appear 5 to 500 miles (5d%) from your intended destination. Note: Plane shift transports creatures instantaneously and then ends. The creatures need to find other means if they are to travel back. Focus: A small, forked metal rod. The size and metal type dictates to which plane of existence or alternate dimension the spell sends the affected creatures. Forked rods keyed to certain planes or dimensions may be difficult to come by, as decided by the DM. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " Creature touched, or up to eight willing creatures joining hands",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

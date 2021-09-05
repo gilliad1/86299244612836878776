@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Nondetection",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The warded creature or object becomes difficult to detect by divination spells such as clairaudience/clairvoyance, locate object, and detect spells.  Nondetection also prevents location by such magic items as crystal balls.  If a divination is attempted against the warded creature or item, the caster of the divination must succeed on a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the spellcaster who cast nondetection.  If you cast nondetection on yourself or on an item currently in your possession, the DC is 15 + your caster level. \nIf cast on a creature, nondetection wards the creature's gear as well as the creature itself. \nMaterial Component: A pinch of diamond dust worth 50 gp. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature or object touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Planar Tolerance",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "You have barely time to bark out a few elder words of power, but then the pressure subsides, and you know you are safe long enough to complete your mission. \nThis spell functions like avoid planar effects (page 19), except as noted above. ",
+    "effect": "",
+    "range": " 20 ft.",
+    "components": "verbal",
+    "target": " One creature/level in a 20-ft.-radius burst centered on you",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

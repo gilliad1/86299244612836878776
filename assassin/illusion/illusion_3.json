@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pall of Twilight",
+    "school": "illusion",
+    "sub_school": "pattern",
+    "source": "complete_mage",
+    "description": "A creeping pall of darkness covers the area like running ink, muting sound and color alike. This spell reduces illumination in the area to shadowy; these shadows are mental as well as physical. All creatures in the area take a -10 penalty on Listen, Search, Sense Motive, and Spot checks. A successful Will save negates these penalties, but not the effect of the darkness. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "somatic",
+    "target": "",
+    "area": " 20-ft.-radius spread",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Nightmare Terrain",
+    "school": "illusion",
+    "sub_school": "shadow",
+    "source": "complete_mage",
+    "description": "You cloak your surroundings with phantasmagoric figures, creating a horrific dreamscape. You make any terrain look, sound, and smell like something out of a nightmare. Writhing vegetation, disembodied limbs, animated corpses, and smoking pits cover every surface. Miasmic vapors fill the air, along with various foul stenches. The nightmare terrain you create is mostly illusory, but the obstacles are partially real. Creatures within, entering, or viewing the area are entitled to Will saves to discern the illusion. Creatures that fail their saves become entangled. Regardless of the outcome of the save, creatures within 5 feet have concealment, while those 10 feet or farther away have total concealment. Furthermore, as long as you are within the area of this spell, you can attempt Hide checks even while being observed. (Other creatures don't gain this benefit). ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Five 10-ft. cubes + one 10-ft. cube/level (S)",
+    "duration": " 1 round/level",
+    "saving_throw": " Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Spectral Weapon",
+    "school": "illusion",
+    "sub_school": "shadow",
+    "source": "spell_compendium",
+    "description": "You summon forth semisolid shadow-stuff and force it to coalesce into a shape only you can wield.  The shadow-formed weapon looks real at first glance, though it appears darkened as if perpetually in shadows.  Wisps of shadow tendrils constantly follow the weapon as you move it about. \nUsing material from the Plane of Shadow, you can fashion a quasi-real melee weapon of any type with which you are proficient.  This spectral weapon appears in your hand and behaves as a normal weapon of its type, with two exceptions.  First, you resolve attacks with your spectral weapon as melee touch attacks instead of melee attacks.  Second, any foe you hit is entitled to a Will save to recognize the weapon's shadowy, semi-insubstantial nature.  If the save is successful, that opponent takes only half damage from the weapon on that attack and all subsequent attacks, and is only 50% likely to suffer any special effects of your attacks (such as a death attack delivered with the weapon). \nYou can maintain only one spectral weapon at a time, and only you can wield it.  The weapon dissipates when you let go of it or when the spell's duration expires, whichever comes first. ",
+    "effect": " One shadowy blade",
+    "range": " 0 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " See text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

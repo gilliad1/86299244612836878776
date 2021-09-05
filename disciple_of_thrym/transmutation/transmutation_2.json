@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Frost Weapon",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "You imbue a weapon with icy cold, granting it a power similar to the frost special ability. A frost weapon deals an extra 1d6 points of cold damage on a successful hit. If cast on a bow, crossbow, or sling, the spell bestows the cold energy upon the weapon's ammunition. This ability stacks with the frost special ability, but not with itself. Material Component: A drop of water. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Weapon touched",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (harmless, object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Bull_s Strength",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject becomes stronger.  The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier. \nArcane Material Component: A few hairs, or a pinch of dung, from a bull. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

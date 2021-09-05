@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sequester",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "When cast, this spell not only prevents divination spells from working to detect or locate the creature or object affected by sequester, it also renders the affected creature or object invisible to any form of sight or seeing (as the invisibility spell). Thus, sequester can mask a secret door, a treasure vault, or anything similar. The spell does not prevent the subject from being discovered through tactile means or through the use of devices (such as a robe of eyes or a gem of seeing). Creatures affected by sequester become comatose and are effectively in a state of suspended animation until the spell wears off or is dispelled. Note: The Will save prevents an attended or magical object from being sequestered. There is no save to see the sequestered creature or object or to detect it with a divination spell. Material Component: A basilisk eyelash, gum arabic, and a dram of whitewash. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " One willing creature or object (up to a 2-ft. cube/level) touched",
+    "area": "",
+    "duration": " One day/level (D)",
+    "saving_throw": " None or Will negates (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

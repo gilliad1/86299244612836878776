@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ethereal Jaunt",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You become ethereal, along with your equipment. For the duration of the spell, you are in a place called the Ethereal Plane, which overlaps the normal, physical, Material Plane. When the spell expires, you return to material existence. An ethereal creature is invisible, insubstantial, and capable of moving in any direction, even up or down, albeit at half normal speed. As an insubstantial creature, you can move through solid objects, including living creatures. An ethereal creature can see and hear on the Material Plane, but everything looks gray and ephemeral. Sight and hearing onto the Material Plane are limited to 60 feet. Force effects (such as magic missile and wall of force) and abjurations affect an ethereal creature normally. Their effects extend onto the Ethereal Plane from the Material Plane, but not vice versa. An ethereal creature can't attack material creatures, and spells you cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or effects that work on the Ethereal Plane (such as a basilisk's gaze attack). Treat other ethereal creatures and ethereal objects as if they were material. If you end the spell and become material while inside a material object (such as a solid wall), you are shunted off to the nearest open space and take 1d6 points of damage per 5 feet that you so travel. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Disintegrate",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected. When used against an object, the ray simply disintegrates as much as one 10-foot cube of nonliving matter. Thus, the spell disintegrates only part of any very large object or structure targeted. The ray affects even objects constructed entirely of force, such as Bigby's forceful hand or a wall of force, but not magical effects such as a globe of invulnerability or an antimagic field. A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated. Only the first creature or object struck can be affected; that is, the ray affects only one target per casting. Arcane Material Component: A lodestone and a pinch of dust. ",
+    "effect": " Ray",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude partial (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Adamantine Wings",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "You feel an instant of searing pain from your back, which swiftly fades into a sensation of ultimate freedom. You sprout a pair of dull gleaming wings made of overlapping feathers of dark metal. You grow a pair of adamantine wings. The wings grant you a fly speed of 60 feet (or 40 feet if you wear medium or heavy armor or carry a medium or heavy load), with good maneuverability. If you are not flying, you can use a standard action to make one wing attack or a full attack action to make two such attacks (as if they were natural weapons). Each wing deals 2d6 points of slashing damage (plus your Strength modifier), and threatens a critical hit on a 19-20. The wings are considered both magic and adamantine for the purpose of overcoming damage reduction or penetrating hardness. Wing strikes are not additional attacks; they replace any other attack or full attack action. As a swift action, you can choose to launch the adamantine feathers as a burst of razor-sharp blades. This attack takes the form of a 60-foot cone-shaped burst. All creatures within the cone take 10d6 points of damage (Reflex half; spell resistance applies). Since this is a spell effect, damage reduction does not affect the damage dealt by the cone. This action immediately ends the spell's duration. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 hour/level (D) or until expended",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

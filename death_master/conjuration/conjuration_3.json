@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Phantom Steed",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You conjure a Large, quasi-real, horselike creature. The steed can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it. The mount has an AC of 18 (-1 size, +4 natural armor, +5 Dex) and 7 hit points +1 hit point per caster level. If it loses all its hit points, the phantom steed disappears. A phantom steed has a speed of 20 feet per caster level, to a maximum of 240 feet. It can bear its rider's weight plus up to 10 pounds per caster level. These mounts gain certain powers according to caster level. A mount's abilities include those of mounts of lower caster levels. Thus, a mount created by a 12th-level caster has the 8th, 10th, and 12th caster level abilities. 8th Level: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed. 10th Level: The mount can use water walk at will (as the spell, no action required to activate this ability). 12th Level: The mount can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground. 14th Level: The mount can fly at its speed (average maneuverability). \nSpecial: When casting phantom steed as a Spider Domain spell, the steed has a vermin shape. ",
+    "effect": " One quasi-real, horselike creature",
+    "range": " 0 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Stinking Cloud",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "Stinking cloud creates a bank of fog like that created by fog cloud, except that the vapors are nauseating. Living creatures in the cloud become nauseated. This condition lasts as long as the creature is in the cloud and for 1d4+1 rounds after it leaves. (Roll separately for each nauseated character). Any creature that succeeds on its save but remains in the cloud must continue to save each round on your turn. Stinking cloud can be made permanent with a permanency spell. A permanent stinking cloud dispersed by wind reforms in 10 minutes. Material Component: A rotten egg or several skunk cabbage leaves. ",
+    "effect": " Cloud spreads in 20-ft. radius, 20 ft. high",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Fortitude negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

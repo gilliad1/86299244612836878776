@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Unnerving Gaze",
+    "school": "illusion",
+    "sub_school": "phantasm",
+    "source": "book_of_vile_darkness",
+    "description": "The caster makes his face resemble one of the opponent's departed loved ones or bitter enemies. The subject takes a -1 morale penalty on attack rolls for the duration of the spell. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One humanoid creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

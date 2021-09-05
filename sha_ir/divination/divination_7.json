@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Vision",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like legend lore, except that it works more quickly but produces some strain on you. You pose a question about some person, place, or object, then cast the spell. If the person or object is at hand or if you are in the place in question, you receive a vision about it by succeeding on a caster level check (1d20 +1 per caster level; maximum +25) against DC 20. If only detailed information on the person, place, or object is known, the DC is 25, and the information gained is incomplete. If only rumors are known, the DC is 30, and the information gained is vague. XP Cost: 100 XP. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,material,experience",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Arcane Sight, Greater",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like arcane sight, except that you automatically know which spells or magical effects are active upon any individual or object you see. Greater arcane sight doesn't let you identify magic items. Unlike arcane sight, this spell cannot be made permanent with a permanency spell. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Scrying, Greater",
+    "school": "divination",
+    "sub_school": "scrying",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like scrying, except as noted above.  Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues. ",
+    "effect": " Magical sensor",
+    "range": " See text",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

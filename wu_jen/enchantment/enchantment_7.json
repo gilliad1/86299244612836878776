@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Power Word Blind",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You utter a single word of power that causes one creature of your choice to become blinded, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 201 or more hit points is unaffected by power word blind. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature with 200 hp or less",
+    "area": "",
+    "duration": " See text",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Symbol of Stunning",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like symbol of death, except that all creatures within 60 feet of a symbol of stunning instead become stunned for 1d6 rounds. Note:Magic traps such as symbol of stunning are hard to detect and disable. A rogue (only) can use the Search skill to find a symbol of stunning and Disable Device to thwart it. The DC in each case is 25 + spell level, or 32 for symbol of stunning. Material Component:Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 5,000 gp. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": " Will negates",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

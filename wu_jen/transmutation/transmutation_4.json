@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Heart of Earth",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "You feel your flesh strengthen with the power of stone. This spell converts part of your body into elemental earth, which toughens you considerably. You gain a +8 bonus on checks to resist a bull rush, overrun, or trip attack. You also gain temporary hit points equal to twice your caster level (up to 30 hp). Furthermore, while this spell is active, you can activate a stoneskin effect (as the spell) on yourself as a swift action. This benefit lasts for 1 round per level (or until the stoneskin's total protection is consumed), at the end of which time the spell's entire effect ends. If heart of earth is active on you at the same time as heart of air, heart of fire, or heart of water, you gain light fortification. If all four of these spells are active on you at the same time, you become immune to extra damage from critical hits and sneak attacks. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic",
+    "target": " You",
+    "area": "",
+    "duration": " 1 hour/level (D) or until expended",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

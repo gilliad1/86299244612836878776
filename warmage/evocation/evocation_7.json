@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Prismatic Spray",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell causes seven shimmering, intertwined, multicolored beams of light to spray from your hand.  Each beam has a different power.  Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds.  Every creature in the area is randomly struck by one or more beams, which have additional effects. \n\n\n1d8 \nColor of Beam \nEffect \n\n\n 1 \n Red \n 20 points fire damage (Reflex half) \n\n\n 2 \n Orange \n 40 points acid damage (Reflex half) \n\n\n 3 \n Yellow \n 80 points electricity damage (Reflex half) \n\n\n 4 \n Green \n Poison (Kills; Fortitude partial, take 1d6 points of Con damage instead) \n\n\n 5 \n Blue \n Turned to stone (Fortitude negates) \n\n\n 6 \n Indigo \n Insane, as insanity spell (Will negates) \n\n\n 7 \n Violet \n Sent to another plane (Will negates) \n\n\n 8 \n — \n Struck by two rays; roll twice more, ignoring any \"8\" results. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " See text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like fireball, except that it is more powerful and can detonate up to 5 rounds after the spell is cast. The burst of flame deals 1d6 points of fire damage per caster level (maximum 20d6). The glowing bead created by delayed blast fireball can detonate immediately if you desire, or you can choose to delay the burst for as many as 5 rounds. You select the amount of delay upon completing the spell, and that time cannot change once it has been set unless someone touches the bead (see below). If you choose a delay, the glowing bead sits at its destination until it detonates. A creature can pick up and hurl the bead as a thrown weapon (range increment 10 feet). If a creature handles and moves the bead within 1 round of its detonation, there is a 25% chance that the bead detonates while being handled. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": " 5 rounds or less; see text",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Mordenkainen_s Sword",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell brings into being a shimmering, swordlike plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Int bonus or your Cha bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and incorporeal creatures. It deals 4d6+3 points of force damage, with a threat range of 19-20 and a critical multiplier of x2. The sword always strikes from your direction. It does not get a bonus for flanking or help a combatant get one. If the sword goes beyond the spell range from you, if it goes out of your sight, or if you are not directing it, the sword returns to you and hovers. Each round after the first, you can use a standard action to switch the sword to a new target. If you do not, the sword continues to attack the previous round's target. The sword cannot be attacked or harmed by physicalattacks, but dispel magic, disintegrate, a sphere of annihilation, or a rod of cancellation affects it. The sword's AC is 13 (10, +0 size bonus for Medium object, +3 deflection bonus). If an attacked creature has spell resistance, the resistance is checked the first time Mordenkainen's sword strikes it. If the sword is successfully resisted, the spell is dispelled. If not, the sword has its normal full effect on that creature for the duration of the spell. Focus: A miniature platinum sword with a grip and pommel of copper and zinc. It costs 250 gp to construct. ",
+    "effect": " One sword",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

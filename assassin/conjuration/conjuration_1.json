@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Black Bag",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "book_of_vile_darkness",
+    "description": "This spell creates a bag full of knives, scalpels, and other small torture implements. If the implements are removed from the bag by anyone other than the caster, or if they leave the caster's possession after he removes them, they disintegrate after 1 round. The bag and its magically created contents weigh only 1 pound. Evil magic items, including items that deal unholy damage, and items with an evil spell as a prerequisite for their creation can be placed in the bag as if it had 10 cubic feet of space. These additional items add no weight to the bag. Nonevil items added to the black bag fall through as if the bag had no bottom, so they cannot be stored in the bag. Material Component: A strip of black leather soaked in the blood of a willing masochist. ",
+    "effect": " A black leather bag",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 24 hours",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Obscuring Mist",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "A misty vapor arises around you.  It is stationary once created.  The vapor obscures all sight, including darkvision, beyond 5 feet.  A creature 5 feet away has concealment (attacks have a 20% miss chance).  Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). \nA moderate wind (11+ mph), such as from a gust of wind spell, disperses the fog in 4 rounds.  A strong wind (21+ mph) disperses the fog in 1 round.  A fireball, flame strike, or similar spell burns away the fog in the explosive or fiery spell's area.  A wall of fire burns away the fog in the area into which it deals damage.  This spell does not function underwater. ",
+    "effect": " Cloud spreads in 20-ft. radius from you, 20 ft. high",
+    "range": " 20 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

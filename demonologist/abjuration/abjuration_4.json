@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Imprison Possessor",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster traps one creature that can possess or inhabit other creatures, or one that can move its mind out of its body, within the creature it currently inhabits. Potential targets include possessing demons, malevolent ghosts, and a caster currently using a magic jar spell. The possessing creature cannot leave the body it is currently in, whether or not it is its own, by any means. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One possessing creature and its host",
+    "area": "",
+    "duration": " Permanent (D)",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Impotent Possessor",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster renders one creature that can possess or inhabit other creatures, or a creature that can move its mind out of its body, powerless within the host it currently inhabits. Potential targets include possessing demons, malevolent ghosts, and a caster currently using a magic jar spell. The only action the subject can take is to leave the body it currently inhabits. This spell, in conjunction with imprison possessor, is one of the best ways to deal with a possessing fiend. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One possessing creature",
+    "area": "",
+    "duration": " Permanent (D)",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

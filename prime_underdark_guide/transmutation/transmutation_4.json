@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Deeper Darkvision",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "underdark",
+    "description": "The subject gains the ability to see 60 feet in total darkness and even magical darkness (such as might be created by a blacklight or deeper darkness spell). Deeper darkvision is black and white only but otherwise similar to normal sight. Material Component: A pinch of dried carrot or an agate. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Burrow, Mass",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "underdark",
+    "description": "This spell functions like burrow, except that it affects multiple creatures. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": " One creature/level, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

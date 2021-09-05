@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Contagion",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject contracts a disease selected from the table below, which strikes immediately (no incubation period).  The DC noted is for the subsequent saves (use contagion's normal save DC for the initial saving throw).  See the Dungeon Master's Guide for descriptions of each disease, as well as for the general effects of disease. \n\n\nDisease \nDC \nDamage \n\n\n Blinding sickness \n 16 \n 1d4 Str 1 \n\n\n Cackle fever \n 16 \n 1d6 Wis \n\n\n Filth fever \n 12 \n 1d3 Dex and 1d3 Con \n\n\n Mindfire \n 12 \n 1d4 Int \n\n\n Red ache \n 15 \n 1d6 Str \n\n\n Shakes \n 13 \n 1d8 Dex \n\n\n Slimy doom \n 14 \n 1d4 Con \n\n\n1 Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease's save DC) or be permanently blinded.  \n\n\nSee the Dungeon Master's Guide for descriptions of each disease, as well as for the general effects of disease. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

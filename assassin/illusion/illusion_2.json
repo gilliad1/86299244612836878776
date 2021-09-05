@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Phantom Foe",
+    "school": "illusion",
+    "sub_school": "phantasm",
+    "source": "spell_compendium",
+    "description": "By waving around a tiny pewter figurine and picturing in your mind the figurine attacking the target creature, you complete the spell.  You feel a phantasmal force leap from the figurine toward your target. \nIf the target creature fails its saving throw, this spell creates in the subject's mind an illusory double of whichever creature currently threatens it that it deems most dangerous.  The form of this phantom foe changes as appropriate whenever the target perceives a different threatening creature more dangerous than the last.  This illusory double provides two effects. \nFirst, the subject believes it is being flanked by the phantom foe and the real creature the foe duplicates.  Thus, the duplicated creature is always considered to be flanking the subject in melee.  A creature that can't be flanked is immune to this aspect of the spell. \nSecond, the subject of the spell is unable to determine that the phantom foe is not a real threat, and whenever the subject attempts to attack the creature duplicated by the phantom foe, that creature benefits from a 50% miss chance against attacks from the subject of the spell.  Because this miss chance comes from the subject's inability to tell the phantom foe from the original, it is rolled separately from any miss chance that applies due to displacement or concealment. \nCreatures other than the subject cannot see the phantom foe, although they can attempt to guess its location by how the target acts.  If the subject is not threatened by any creature at the start of its turn, the spell ends. \nFocus: A tiny pewter figure of a warrior that is worth 10 gp. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will disbelief",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

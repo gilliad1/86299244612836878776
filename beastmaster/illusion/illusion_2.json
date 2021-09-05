@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Beastmask",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "defenders_of_the_faith:_a_guidebook_to_clerics_and_paladins",
+    "description": "This spell disguises the target so that an animal or beast will believe the creature is a natural or dire animal. For example, an individual cloaked by this glamer as a wolf might move through a wolf pack unhindered. You must set the animal form at the time of casting. If the form you choose is more than one size larger or two sizes smaller than the target's size, the spell fails. Your illusion deceives the senses of animals and beasts: sight, hearing, smell, and touch. The spell does not allow communication with animals or beasts, nor is the subject granted any of the animal form's characteristics. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 5 minutes + 1 minute/level",
+    "saving_throw": " Will disbelief",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

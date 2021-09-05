@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Vile Lance",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "Vile lance creates a weapon of blackness that the caster (and only the caster) can wield with proficiency. The caster can throw it, but if he does, the spell ends after the ranged attack is resolved. The vile lance is treated in all ways like a +2 shortspear, except that the damage dealt is vile damage. Arcane Material Component: A bone fragment of a good-aligned creature. ",
+    "effect": " One shortspear",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

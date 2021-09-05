@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Detect Incarnum",
+    "school": "divination",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "You can sense the presence of incarnum. The amount of information revealed depends on how long you study a particular area or subject. 1st Round: Presence or absence of incarnum (including creatures with the incarnum subtype, soulmelds, or magic items invested with essentia). 2nd Round:Number of incarnum auras (soulmelds, creatures with the incarnum subtype, and so on) in the area and the power of the most potent aura present (see the table). 3rd Round: The power and location of each aura. If an aura is outside your line of sight, you can discern itsdirection but not its exact location. The power of an incarnum aura depends on the type of creature or object that you're detecting and its Hit Dice or caster level, as shown on the table. If an aura falls into more than one strength category, the spell indicates the stronger of the two. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " Cone-shaped emanation",
+    "duration": " Concentration, up to 10 min./level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

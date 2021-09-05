@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Woodland Veil",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "races_of_the_wild",
+    "description": "This spell makes its subjects blend in with natural surroundings, hiding them and quieting the sounds they make. All targets gain a +5 competence bonus on Hide and Move Silently checks while outdoors in a natural setting. The spell has no effect in urban settings or indoors (including dungeons). Those affected by this spell can see and hear each other and themselves as if unaffected by the spell. Any affected creature moving more than 30 feet from another target loses the bonuses the spell provides. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One or more creatures, no two of which can be more than 30 feet apart",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

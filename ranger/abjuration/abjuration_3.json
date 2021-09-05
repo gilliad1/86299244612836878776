@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Resist Taint",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "heroes_of_horror",
+    "description": "This spell grants a +4 resistance bonus on saving throws made to resist acquiring taint. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 10 min./level",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

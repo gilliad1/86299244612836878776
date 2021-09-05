@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Misrepresent Alignment",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "races_of_eberron",
+    "description": "A misrepresent alignment spell conceals the true alignment of an object or creature from all forms of divination, rendering a misleading result determined by the caster.  For example, a spellcaster could cast misrepresent alignment on a chaotic evil creature or magic item, making that creature or item appear to be lawful good (or any other alignment of the caster's choice) when subject to spells such as detect evil and detect good. \nArcane Focus: A miniature, wavy mirror worth 25 gp that reflects a distorted image. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": " One creature or object",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " Will negates (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

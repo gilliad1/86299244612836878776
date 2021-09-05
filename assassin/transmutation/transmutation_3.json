@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Blunt Natural Weapons",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "dragons_of_faerun",
+    "description": "The target's bite, claws, and other natural weapons appear to grow smaller and weaker. This spell weakens the natural weapons of the target creature. All the damage dice of the target's natural weapons are decreased by 1 step for every five levels of the caster. You cannot reduce the target's natural weapon damage to less than 1d2 points of damage. Special: Dragonblood creatures cast this spell at +1 caster level. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

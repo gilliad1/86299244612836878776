@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Arcane Sight, Greater",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like arcane sight, except that you automatically know which spells or magical effects are active upon any individual or object you see. Greater arcane sight doesn't let you identify magic items. Unlike arcane sight, this spell cannot be made permanent with a permanency spell. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

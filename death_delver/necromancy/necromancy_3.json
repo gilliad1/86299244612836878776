@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Halt Undead",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell renders as many as three undead creatures immobile.  A nonintelligent undead creature (such as a skeleton or zombie) gets no saving throw; an intelligent undead creature does.  If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect of hold person on a living creature).  The effect is broken if the halted creatures are attacked or take damage. \nMaterial Component: A pinch of sulfur and powdered garlic. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": " Up to three undead creatures, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (see text)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Animate Dead",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell turns the bones or bodies of dead creatures into undead skeletons or zombies that follow your spoken commands.  The undead can follow you, or they can remain in an area and attack any creature (or just a specific kind of creature) entering the place.  They remain animated until they are destroyed. (A destroyed skeleton or zombie can't be animated again). \nRegardless of the type of undead you create with this spell, you can't create more HD of undead than twice your caster level with a single casting of animate dead.  (The deserate spell doubles this limit; see page 218). \nThe undead you create remain under your control indefinitely.  No matter how many times you use this spell, however, you can control only 4 HD worth of undead creatures per caster level.  If you exceed this number, all the newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled.  (You choose which creatures are released).  If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit. \nSkeletons: A skeleton can be created only from a mostly intact corpse or skeleton.  The corpse must have bones, so creating a skeleton from a purple worm, for example, is not possible.  If a skeleton is made from a corpse, the flesh falls off the bones.  The statistics for a skeleton depend on its size; they do not depend on what abilities the creature may have had while alive.  The Monster Manual has game statistics for skeletons. \nZombies: A zombie can be created only from a mostly intact corpse.  The corpse must be that of a creature with a true anatomy, so a dead gelatinous cube, for example, cannot be animated as a zombie.  The statistics for a zombie depend on its size, not on what abilities the creature may have had while alive.  The Monster Manual has game statistics for zombies. \nMaterial Component: You must place a black onyx gem worth at least 25 gp per Hit Die of the undead into the mouth or eye socket of each corpse you intend to animate.  The magic of the spell turns these gems into worthless, burned-out shells. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " One or more corpses touched",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Speak With Dead",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to it.  You may ask one question per two caster levels.  Unasked questions are wasted if the duration expires.  The corpse's knowledge is limited to what the creature knew during life, including the languages it spoke (if any).  Answers are usually brief, cryptic, or repetitive.  If the creature's alignment was different from yours, the corpse gets a Will save to resist the spell as if it were alive. \nIf the corpse has been subject to speak with dead within the past week, the new spell fails.  You can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond.  A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all. \nThis spell does not let you actually speak to the person (whose soul has departed).  It instead draws on the imprinted knowledge stored in the corpse.  The partially animated body retains the imprint of the soul that once inhabited it, and thus it can speak with all the knowledge that the creature had while alive.  The corpse, however, cannot learn new information.  Indeed, it can't even remember being questioned. \nThis spell does not affect a corpse that has been turned into an undead creature. ",
+    "effect": "",
+    "range": " 10 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": " One dead creature",
+    "area": "",
+    "duration": " 1 min./level",
+    "saving_throw": " Will negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

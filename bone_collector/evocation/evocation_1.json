@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bonerattle",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "ghostwalk",
+    "description": "This spell creates a deep resonating vibration that damages bone. It does not affect creatures that do not have true bones (such as elementals, incorporeal creatures, most golems, oozes, plants, or purely ectoplasmic creatures) or that are under the effect of spells that alter their bones (such as stone bones, or a polymorph spell to turn into a boneless creature), but does affect creatures with exoskeletons instead of humanlike bones (such as vermin). The spell deals 1d4 points of damage per caster level (maximum 5d4). Arcane Material Component: A tiny bell carved from a bone. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One creature with bones",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude half",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

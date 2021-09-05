@@ -1,0 +1,18 @@
+[
+  {
+    "name": "True Strike",
+    "school": "divination",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You gain temporary, intuitive insight into the immediate future during your next attack.  Your next single attack roll (if it is made before the end of the next round) gains a +20 insight bonus.  Additionally, you are not affected by the miss chance that applies to attackers trying to strike a concealed target. \nFocus: A small wooden replica of an archery target. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,arcane focus",
+    "target": " You",
+    "area": "",
+    "duration": " See text",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

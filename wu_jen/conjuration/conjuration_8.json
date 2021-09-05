@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Incendiary Cloud",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "An incendiary cloud spell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as a fog cloud does. In addition, the white-hot embers within the cloud deal 4d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage. As with a cloudkill spell, the smoke moves away from you at 10 feet per round. Figure out the smoke's new spread each round based on its new point of origin, which is 10 feet farther away from where you were when you cast the spell. By concentrating, you can make the cloud (actually its point of origin) move as much as 60 feet each round. Any portion of the cloud that would extend beyond your maximum range dissipates harmlessly, reducing the remainder's spread thereafter. As with fog cloud, wind disperses the smoke, and the spell can't be cast underwater. ",
+    "effect": " Cloud spreads in 20-ft. radius, 20 ft. high",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Reflex half; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Summon Monster VIII",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind fromthe 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n8TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial dire bear \n LG \n\n\n Celestial cachalot whale 1 \n NG \n\n\n Celestial triceratops \n NG \n\n\n Lillend \n CG \n\n\n Elemental, greater (any) \n N \n\n\n Slaad, blue \n CN \n\n\n Fiendish giant squid 1 \n LE \n\n\n Hellcat \n LE \n\n\n Fiendish monstrous centipede, Colossal \n NE \n\n\n Fiendish dire tiger \n CE \n\n\n Fiendish monstrous spider, Gargantuan \n CE \n\n\n Fiendish tyrannosaurus \n CE \n\n\n Vrock (demon) \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Deadly Lahar",
+    "school": "conjuration",
+    "sub_school": "",
+    "source": "complete_mage",
+    "description": "A rushing torrent of liquid rock bursts from the ground, washing over your foes. You create a liquid landslide of molten-hot volcanic material. All creatures in the area of the spell take 10d6 points of fire damage. Additionally, those creatures are coated in a thick layer of the viscous substance, slowing them (as the slow spell) for the next 3 rounds and dealing an additional 5d6 points of fire damage per round. A successful Reflex save reduces the initial damage by half and prevents the slow effect and the additional damage. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped spread",
+    "duration": " Instantaneous",
+    "saving_throw": " Reflex partial",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

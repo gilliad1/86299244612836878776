@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hide from Dragons",
+    "school": "abjuration",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "Silently you make the motions and the dragon's scale smolders in your hand.  The rising smoke wraps around you and sinks into your skin. \nDragons cannot see, hear, or smell the warded creatures, even with blindsense.  They act as though the warded creatures are not there.  Warded creatures could stand before the hungriest of red dragons and not be molested or even noticed.  If a warded character touches or attacks a dragon or the dragon's hoard, even with a spell, the spell ends for all recipients. \nMaterial Component: A dragon scale. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "somatic,material",
+    "target": " One creature touched/2 levels",
+    "area": "",
+    "duration": " 10 minutes/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

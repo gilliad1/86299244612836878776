@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Bestow Curse",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "You place a curse on the subject.  Choose one of the following three effects. \n\n-6 decrease to an ability score (minimum 1). \n-4 penalty on attack rolls, saves, ability checks, and skill checks. \nEach turn, the target has a 50% chance to act normally; otherwise, it takes no action. \nYou may also invent your own curse, but it should be no more powerful than those described above, and the DM has final say on the curse's effect. \nThe curse bestowed by this spell cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell. \nBestow curse counters remove curse. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " Permanent",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

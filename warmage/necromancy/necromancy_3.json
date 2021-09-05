@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Poison",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack.  The poison deals 1d10 points of temporary Constitution damage immediately and another 1d10 points of temporary Constitution damage 1 minute later.  Each instance of damage can be negated by a Fortitude save (DC 10 + 1/2 your caster level + your Wis modifier). ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,divine focus",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " Instantaneous; see text",
+    "saving_throw": " Fortitude negates; see text",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

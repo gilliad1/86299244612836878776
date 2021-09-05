@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Summon Monster VI",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n6TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial polar bear \n LG \n\n\n Celestial orca whale 1 \n NG \n\n\n Bralani (eladrin) \n CG \n\n\n Celestial dire lion \n CG \n\n\n Elemental, Large (any) \n N \n\n\n Janni (genie) \n N \n\n\n Chaos beast \n CN \n\n\n Devil, chain \n LE \n\n\n Xill \n LE \n\n\n Fiendish monstrous centipede, Gargantuan \n NE \n\n\n Fiendish rhinoceros \n NE \n\n\n Fiendish elasmosaurus 1 \n CE \n\n\n Fiendish monstrous spider, Huge \n CE \n\n\n Fiendish snake, giant constrictor \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Planar Binding",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like lesser planar binding, except that you may call a single creature of 12 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 12. Each creature gets a save, makes an independent attempt to escape, and must be individually persuaded to aid you. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic",
+    "target": " Up to three elementals or outsiders, totaling no more than 12 HD, no two of which can be more than 30 ft. apart when they appear",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

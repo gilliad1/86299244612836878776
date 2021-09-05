@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Halt",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "You utter the word \"Halt!\" and, in that instant, the creature's feet stick to the floor. The subject creature's feet (or whatever pass for its feet) become momentarily stuck to the floor. The creature must stop moving, and cannot move farther in its current turn. This spell has no effect on creatures that are not touching the ground (such as flying creatures), and the subject can still use a standard action (if it has one available in this round) to move by means of teleportation magic. You can cast this spell even when it's not your turn; however, you must cast it before your opponent finishes its movement on its current turn to gain the benefit. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Haste",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The transmuted creatures move and act more quickly than normal.  This extra speed has several effects. \nWhen making a full attack action, a hasted creature may make one extra attack with any weapon he is holding.  The attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation.  (This effect is not cumulative with similar effects, such as that provided by a weapon of speed, nor does it actually grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round). \nA hasted creature gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and Reflex saves.  Any condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses. \nAll of the hasted creature's modes of movement (including land movement, burrow, climb, fly, and swim) increase by 30 feet, to a maximum of twice the subject's normal speed using that form of movement.  This increase counts as an enhancement bonus, and it affects the creature's jumping distance as normal for increased speed. \nMultiple haste effects don't stack.  Haste dispels and counters slow. \nMaterial Component: A shaving of licorice root. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One creature/level, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Fortitude negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

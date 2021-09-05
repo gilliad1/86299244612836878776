@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Prayer",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "You bring special favor upon yourself and your allies while bringing disfavor to your enemies.  You and your each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a -1 penalty on such rolls. ",
+    "effect": "",
+    "range": " 40 ft.",
+    "components": "verbal,somatic,divine focus",
+    "target": "",
+    "area": " All allies and foes within a 40-ft.-radius burst centered on you",
+    "duration": " 1 round/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

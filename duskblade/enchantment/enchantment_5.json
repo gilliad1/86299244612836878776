@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hold Monster",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like hold person, except that it affects any living creature that fails its Will save. Arcane Material Component:One hard metal bar or rod, which can be as small as a three-penny nail. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " One living creature",
+    "area": "",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

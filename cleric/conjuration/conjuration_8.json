@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fierce Pride of the Beastlands",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "spell_compendium",
+    "description": "Green-white fog rises from the ground as you intone this spell, and great feline shadows take shape within the misty cloud.  The first of a pride of golden-pelted lions with silver eyes emerges from the fog. \nWhen the spell is complete, 2d4 celestial lions (MM 274) appear.  Ten minutes later, 1d4 celestial dire lions (MM 63) appear.  Each creatures has maximum hit points per Hit Die.  once these creatures appear, they serve you for the duration of the spell. \nA celestial lion called by this spell has damage reduction 5/magic; resistance to acid 5, cold 5 and electricity 5; spell resistance 9; and a smite evil attack that provides a +5 bonus on one damage roll. \nA celestial dire lion called by this spell has damage reduction 5/magic; resistance to acid 10, cold 10 and electricity 10; spell resistance 13; and a smite evil attack that provides a +8 bonus on one damage roll. \nThe creatures obey you explicitly and never attack you, even if someone else manages to gain control over them.  You do not need to concentrate to maintain control over the creatures.  You can dismiss them singly or in groups at any time. ",
+    "effect": " Two or more summoned creatures, no two of which are more than 30 ft. apart",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " 10 minutes/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Summon Monster VIII",
+    "school": "conjuration",
+    "sub_school": "summoning",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind fromthe 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list. \nArcane Focus: A tiny bag and a small (not necessarily lit) candle. \n8TH LEVEL\n\n\nMonster \nAlignement \n\n\n Celestial dire bear \n LG \n\n\n Celestial cachalot whale 1 \n NG \n\n\n Celestial triceratops \n NG \n\n\n Lillend \n CG \n\n\n Elemental, greater (any) \n N \n\n\n Slaad, blue \n CN \n\n\n Fiendish giant squid 1 \n LE \n\n\n Hellcat \n LE \n\n\n Fiendish monstrous centipede, Colossal \n NE \n\n\n Fiendish dire tiger \n CE \n\n\n Fiendish monstrous spider, Gargantuan \n CE \n\n\n Fiendish tyrannosaurus \n CE \n\n\n Vrock (demon) \n CE \n\n\n1 may be summoned only into an aquatic or watery environment",
+    "effect": " One or more summoned creatures, no two of which can be more than 30 ft. apart",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,arcane focus,divine focus",
+    "target": "",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

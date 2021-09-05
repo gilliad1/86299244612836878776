@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Displacement",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "Emulating the natural ability of the displacer beast (see the Monster Manual), the subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. However, unlike actual total concealment, displacement does not prevent enemies from targeting the creature normally. True seeing reveals its true location. Material Component: A small strip of leather made from displacer beast hide, twisted into a loop. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 round/level (D)",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Invisibility Sphere",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like invisibility, except that this spell confers invisibility upon all creatures within 10 feet of the recipient. The center of the effect is mobile with the recipient. Those affected by this spell can see each other and themselves as if unaffected by the spell. Any affected creature moving out of the area becomes visible, but creatures moving into the area after the spell is cast do not become invisible. Affected creatures (other than the recipient) who attack negate the invisibility only for themselves. If the spell recipient attacks, the invisibility sphere ends. ",
+    "effect": "",
+    "range": "",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " 10-ft.-radius emanation around the creature or object touched",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Increase Virulence",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_ii",
+    "description": "Ribbons of green and black energy engulf your hand and pass into the vial or creature you touch. You make the poison in a vial or a creature more lethal. The DCs for all saving throws against the poison increase by 2. Material Component: Licorice root. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Vial of poison or creature touched",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Investiture of the Chain Devil",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "fiendish_codex_ii:_tyrants_of_the_nine_hells",
+    "description": "With a rush of red light and the faint clanking of many chains, you invest the target with the power of a chain devil. While under the effect of this spell, the target is infused with the magical energies and malignant will of a chain devil. While the spell is in effect, the subject's reach increases by 5 feet, and the subject's maximum number of attacks of opportunity made each round increases by one. In addition, the subject gains resistance to fire 5. This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the chain devil). While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture. After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute. Material Component: A fist-sized chunk of brimstone. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Investiture of the Bearded Devil",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "fiendish_codex_ii:_tyrants_of_the_nine_hells",
+    "description": "With a rush of sinister green light, you invest the target with infernal energy, drawing power from a bearded devil to fuel the spell. You cause the target to grow a long, ropy mass of callused tissue from its chin that vaguely resembles a beard. This beard flails about as though it were alive. If the subject successfully hits an adjacent opponent with at least one melee attack in a round, it also automatically hits with its beard, dealing an extra 2d8 points of damage. The subject also gains resistance to fire 5. This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the bearded devil). While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the target of the investiture. After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute. Material Component: A fist-sized chunk of brimstone. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic,material",
+    "target": " One living creature",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

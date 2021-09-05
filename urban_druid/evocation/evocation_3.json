@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Daylight",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that.  Creatures that take penalties in bright light also take them while within the radius of this magical light.  Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light (such as vampires). \nIf daylight is cast on a small object that is then placed inside or under a light-proof covering, the spell's effects are blocked until the covering is removed. \nDaylight brought into an area of magical darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect. \nDaylight counters or dispels any darkness spell of equal or lower level, such as darkness. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic",
+    "target": " Object touched",
+    "area": "",
+    "duration": " 10 min./level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Leomund_s Tiny Hut",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "",
+    "effect": " 20-ft.-radius sphere centered on your location",
+    "range": " 20 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 2 hours/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

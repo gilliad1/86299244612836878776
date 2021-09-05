@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dimension Door",
+    "school": "conjuration",
+    "sub_school": "teleportation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You instantly transfer yourself from your current location to any other spot within range.  You always arrive at exactly the spot desired—whether by simply visualizing the area or by stating direction, such as \"900 feet straight downward\", or \"upward to the northwest, 45-degree angle, 1,200 feet\".  After using this spell, you can't take any other actions until your next turn.  You can bring along objects as long as their weight doesn't exceed your maximum load.  You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels.  A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth.  All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. \nIf you arrive in a place that is already occupied by a solid body, you and each creature traveling with you take 1d6 points of damage and are shunted to a random open space on a suitable surface within 100 feet of the intended location. \nIf there is no free space within 100 feet, you and each creature traveling with you take an additional 2d6 points of damage and are shunted to a free space within 1,000 feet.  If there is no free space within 1,000 feet, you and each creature travelling with you take an additional 4d6 points of damage and the spell simply fails. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal",
+    "target": " You and touched objects or other touched willing creatures",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None and Will negates (object)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Minor Creation",
+    "school": "conjuration",
+    "sub_school": "creation",
+    "source": "player's_handbook_v.3.5",
+    "description": "You create a nonmagical, unattended object of nonliving, vegetable matter—linen clothes, a hemp rope, a wooden ladder, and so forth. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate skill check to make a complex item, such as Craft (bowmaking) check to make straight arrow shafts. Attempting to use any created object as a material component causes the spell to fail. Material Component: A tiny piece of matter of the same sort of item you plan to create with minor creation—a bit of twisted hemp to create rope, and so forth. ",
+    "effect": " Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level",
+    "range": " 0 ft.",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": "",
+    "duration": " 1 hour/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

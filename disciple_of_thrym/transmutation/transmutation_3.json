@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ice Shape",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "frostburn",
+    "description": "You can form an existing piece of ice into any shape that suits your purpose. For example, you can make an ice weapon, a special trapdoor, or a crude idol. Ice shape also permits you to reshape an ice door to make an exit where one didn't exist or to seal a door shut. While it's possible to make crude coffers, doors, and so forth with ice shape, fine detail isn't possible. There is a 30% chance that any shape including moving parts simply doesn't work. Arcane Material Component: Slush, which must be spread into roughly the desired shape of the ice object and then touched to the ice while the verbal component is uttered. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material,divine focus",
+    "target": "",
+    "area": " Ice touched, up to 10 cu. ft. + 1 cu. ft./level",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

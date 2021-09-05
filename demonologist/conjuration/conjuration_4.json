@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Call Nightmare",
+    "school": "conjuration",
+    "sub_school": "calling",
+    "source": "book_of_vile_darkness",
+    "description": "The caster calls a nightmare from the Lower Planes to where she is, offering it the soul that she has prepared. In exchange, the nightmare serves the caster for one week as a mount or guard, although if the nightmare moves more than 150 feet away from her, it immediately returns whence it came. Multiple castings of this spell replace the previous nightmare with a new one. ",
+    "effect": " One nightmare",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " One week",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

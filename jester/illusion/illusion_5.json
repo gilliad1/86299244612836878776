@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Persistent Image",
+    "school": "illusion",
+    "sub_school": "figment",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish. For instance, you could create the illusion of several orcs playing cards and arguing, culminating in a fistfight. Material Component: A bit of fleece and several grains of sand. ",
+    "effect": "",
+    "range": "",
+    "components": "",
+    "target": "",
+    "area": "",
+    "duration": " 1 min./level (D)",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Seeming",
+    "school": "illusion",
+    "sub_school": "glamer",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like disguise self, except that you can change the appearance of other people as well. Affected creatures resume their normal appearances if slain. Unwilling targets can negate the spell's effect on them by making Will saves or with spell resistance. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " One creature per two levels, no two of which can be more than 30 ft. apart",
+    "area": "",
+    "duration": " 12 hours (D)",
+    "saving_throw": " Will negates or Will disbelief (if interacted with)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

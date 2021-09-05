@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shout, Greater",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell functions like shout, except that the cone deals 10d6 points of sonic damage (or 1d6 points of sonic damage per caster level, maximum 20d6, against exposed brittle or crystalline objects or crystalline creatures). It also causes creatures to be stunned for 1 round and deafened for 4d6 rounds. A creature in the area of the cone can negate the stunning and halve both the damage and the duration of the deafness with a successful Fortitude save. A creature holding vulnerable objects can attempt a Reflex save to negate the damage to those objects. Arcane Focus: A small metal or ivory horn. ",
+    "effect": "",
+    "range": " 60 ft.",
+    "components": "verbal,somatic,arcane focus",
+    "target": "",
+    "area": "",
+    "duration": "",
+    "saving_throw": " Fortitude partial or Reflex negates (object); see text",
+    "spell_resistance": true,
+    "is_30_spell": false
+  },
+  {
+    "name": "Ray of Light",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "spell_compendium",
+    "description": "Your palm emits a ray of light.  The ray gives off a soft, continuous glow. \nYou direct a short ray at the eyes of a target.  You must succeed on a ranged touch attack with the ray to strike a target.  With a successful ranged touch attack, the subject is blinded for 1d4 rounds. ",
+    "effect": " Ray",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Horrid Wilting",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "This spell evaporates moisture from the body of each subject living creature, dealing 1d6 points of damage per caster level (maximum 20d6).  This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8). \nArcane Material Component: A bit of sponge. ",
+    "effect": "",
+    "range": " Long (400 ft. + 40 ft./level)",
+    "components": "verbal,somatic,material,divine focus",
+    "target": " Living creatures, no two of which can be more than 60 ft. apart",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Fortitude half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

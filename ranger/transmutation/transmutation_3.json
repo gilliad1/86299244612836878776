@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Darkvision",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "The subject gains the ability to see 60 feet even in total darkness.  Darkvision is black and white only but otherwise like normal sight.  Darkvision does not grant one the ability to see in magical darkness. \nDarkvision can be made permanent with a permanency spell. \nMaterial Component: Either a pinch of dried carrot or an agate. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,material",
+    "target": " Creature touched",
+    "area": "",
+    "duration": " 1 hour/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Brittleskin",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "shining_south",
+    "description": "You cause a creature's natural armor to crystallize and become brittle. Whenever the affected creature is hit in combat, part of the crystallized hide cracks and shatters, dealing it additional lethal damage equal to its natural armor bonus. Thus, if a creature with +3 natural armor is affected by this spell, it takes an extra 3 points of damage each time it is struck by a melee, ranged, or natural weapon. The creature's actual Armor Class does not change. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic",
+    "target": " One creature",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Fortitude negates",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Jump, Mass",
+    "school": "transmutation",
+    "sub_school": "",
+    "source": "shining_south",
+    "description": "This spell functions like jump, except that it affects a group of creatures in an area, all of which gain a +10 enhancement bonus on Jump checks. The enhancement bonus increases to +20 at caster level 10th, and to +30 (the maximum) at caster level 14th. Pirates on the Great Sea are fond of this spell during boarding actions. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "",
+    "target": "",
+    "area": " One creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": false
+  }
+]

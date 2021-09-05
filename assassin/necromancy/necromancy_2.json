@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Soul Blight",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "You rip away some of the target's personal essence, temporarily damaging the target's essentia pool. You deal 1d4 points of essentia damage plus 1 additional point for every three caster levels, to a maximum of 1d4+3 points at caster level 9th. Creatures that do not have essentia pools suffer no ill effects from this spell. Material Component: A tiny crystal vial. ",
+    "effect": "",
+    "range": " Medium (100 ft. + 10 ft./level)",
+    "components": "verbal,somatic,material",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " Will half",
+    "spell_resistance": false,
+    "is_30_spell": false
+  },
+  {
+    "name": "Divest Essentia",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "magic_of_incarnum",
+    "description": "By delivering a jolt of magical energy to your target, you scramble his personal essence, causing all essentia he has currently invested (with some exceptions; see below) to return to his essentia pool as if the target had set his essentia investment to 0. This doesn't prevent the target from reinvesting essentia normally on his next turn, but it might make him vulnerable in the meantime. Essentia invested in an incarnum feat or other receptacle that can't be reallocated by the target as a swift action can't be affected by this spell. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal",
+    "target": " One creature",
+    "area": "",
+    "duration": " Instantaneous",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

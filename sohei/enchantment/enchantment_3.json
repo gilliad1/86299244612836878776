@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mental Strength",
+    "school": "enchantment",
+    "sub_school": "compulsion",
+    "source": "oriental_adventures",
+    "description": "You imbue the recipient with magical energy that fortifies her will, granting her a +8 resistance bonus on all Will saves. Focus: The tail of a white fox. ",
+    "effect": "",
+    "range": " Touch",
+    "components": "verbal,somatic,arcane focus",
+    "target": " Living creature touched",
+    "area": "",
+    "duration": " 1 round/level",
+    "saving_throw": " Will negates (harmless)",
+    "spell_resistance": false,
+    "is_30_spell": true
+  }
+]

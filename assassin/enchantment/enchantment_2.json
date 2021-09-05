@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Getaway",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "song_and_silence:_a_guidebook_to_bards_and_rogues",
+    "description": "This spell helps you elude pursuers by causing them to run down blind alleys, make wrong turns at intersections, andbypass obvious directional indicators during a chase. Any pursuer who loses sight of you and fails a Will save has a 50% chance of making a wrong turn or heading in the wrong direction, even in the face of physical evidence (such as a dangling rope or an open door) as to your true path. Material Component: A fox's tail. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": "",
+    "area": " Up to 1 city block/level",
+    "duration": " 10 minutes/level",
+    "saving_throw": " Will negates",
+    "spell_resistance": false,
+    "is_30_spell": true
+  },
+  {
+    "name": "Sacrificial Skill",
+    "school": "enchantment",
+    "sub_school": "",
+    "source": "book_of_vile_darkness",
+    "description": "The caster gains a +5 bonus on all Knowledge (religion) checks that have to do with sacrifices made to evil gods. See Sacrifices in Chapter 2 for the Knowledge (religion) check DCs required to gain boons from evil gods. Material Component: A lock of hair taken from an unwilling humanoid. ",
+    "effect": "",
+    "range": " Personal",
+    "components": "verbal,somatic,material",
+    "target": " Caster",
+    "area": "",
+    "duration": " 1 minute/level",
+    "saving_throw": "",
+    "spell_resistance": true,
+    "is_30_spell": true
+  }
+]

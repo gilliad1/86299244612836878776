@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Waves of Fatigue",
+    "school": "necromancy",
+    "sub_school": "",
+    "source": "player's_handbook_v.3.5",
+    "description": "Waves of negative energy render all living creatures in the spell's area fatigued. This spell has no effect on a creature that is already fatigued. ",
+    "effect": "",
+    "range": " 30 ft.",
+    "components": "verbal,somatic",
+    "target": "",
+    "area": " Cone-shaped burst",
+    "duration": " Instantaneous",
+    "saving_throw": " No",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]

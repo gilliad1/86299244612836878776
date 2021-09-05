@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Stars of Arvandor",
+    "school": "evocation",
+    "sub_school": "",
+    "source": "champions_of_valor",
+    "description": "You create one twinkling star per level (maximum ten stars). These minute starbursts orbit your head like ioun stones. As a swift action, you can launch one star at a target you designate within range. Alternatively, as a standard action, you can launch up to three stars at one or more targets within range. You can only launch stars once per round. You must make a ranged touch attack for each star. Against non-evil targets, each star deals 1d8 points of nonlethal damage; evil targets take 1d8 points of lethal damage instead. ",
+    "effect": "",
+    "range": " Close (25 ft. + 5 ft./2 levels)",
+    "components": "verbal,somatic",
+    "target": " See text",
+    "area": "",
+    "duration": " 1 minute/level (D)",
+    "saving_throw": " None",
+    "spell_resistance": false,
+    "is_30_spell": false
+  }
+]
